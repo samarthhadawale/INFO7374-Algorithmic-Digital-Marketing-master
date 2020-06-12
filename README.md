@@ -20,8 +20,13 @@ All numbers have been modified for privacy reasons.
 Folder Information: -
 
 Einstein-Analytics - Contains dashboard of our analysis
+
 Pandas - Contains .ipynb files along with pandas visualizations
+
 Snowflake - Contains screenshots of data staging and connection with einstein analytics
+
 Trifacta - Contains data, reports, screenshots and json metadata files.
+
 data - Contains all the data files on which we generated dashboards.
+
 xsv - Contains screenshots of the commands performed on xsv command line toolkit.

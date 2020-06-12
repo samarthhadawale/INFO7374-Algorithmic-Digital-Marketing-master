@@ -16,6 +16,7 @@ There are also buy events; where the session ended with the user buying somethin
 The data was collected during 6 months in the year of 2014, reflecting the clicks and purchases performed by the users of an on-line retailer in Europe.
 To protect end users privacy, as well as the retailer,
 All numbers have been modified for privacy reasons.
+
 Folder Information: -
 
 Einstein-Analytics - Contains dashboard of our analysis

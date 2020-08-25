@@ -1,0 +1,51 @@
+﻿itemID,itemName,category
+0,Egg & Cheese Burger,EggFood
+1,Veggie Egg White Burger,EggFood
+2,Sausage egg & cheese burger,Non Veg
+3,Bacon egg & cheese burger,Non Veg
+4,Turkey Sausage Burger,Non Veg
+5,Ham egg & cheese burger,Non Veg
+6,Egg & cheese wrap,EggFood
+7,Hot Coffee,Drinks
+8,Cold Coffee,Drinks
+9,Hot Chocolate,Drinks
+10,Cappuccino,Drinks
+11,Hot Tea,Drinks
+12,Iced Tea,Drinks
+13,Americano,Drinks
+14,Latte,Drinks
+15,Macchiato,Drinks
+16,Frozen Chocolate,Drinks
+17,Muffin,Bakery
+18,Bagel with cream cheese,Bakery
+19,Big Mac,Non Veg
+20,French Fries,Veg
+21,HashBrowns,Veg
+22,12 Piece Donut Sticks,Veg
+23,Veggie Burger,Veg
+24,Veg Pizza,Veg
+25,Fruit Punch Slushie,Drinks
+26,Blue Raspeberry Slushie,Drinks
+27,Chocolate Chip Cookie,Bakery
+28,Baked Apple Pie,Drinks
+29,Chicken McNuggets,Non Veg
+30,Filet-O-Fish,SeaFood
+31,McChicken,Non Veg
+32,Seaside Shrimp Trio,SeaFood
+33,Lobster package,SeaFood
+34,Crab Linguini Alfredo,SeaFood
+35,Fish & Chips,SeaFood
+36,Farm Raised Catfish,SeaFood
+37,Potato Wedges,Veg
+38,Street Tacos,Non Veg
+39,Buffalo Mac & Cheese,Non Veg
+40,Chips & Salsa,Veg
+41,Ultimate Nachos,Veg
+42,Chicken Salad,Non Veg
+43,Veg Salad,Veg
+44,All American Cheeseburger,Non Veg
+45,Avacado Bacon Burger,Non Veg
+46,Avacado Toast,Veg
+47,Veggie Pasta,Veg
+48,Cheesecake,Bakery
+49,Grilled Chicken Pizza,Non Veg

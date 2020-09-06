@@ -1,0 +1,10001 @@
+userID,itemID,rating,category
+1,16,2,Drinks
+1,19,4,Non Veg
+1,42,3,Non Veg
+1,43,3,Veg
+1,33,2,SeaFood
+2,16,2,Drinks
+2,14,2,Drinks
+2,48,2,Bakery
+2,30,2,SeaFood
+2,12,1,Drinks
+2,46,4,Veg
+2,44,4,Non Veg
+2,44,3,Non Veg
+2,8,1,Drinks
+3,10,1,Drinks
+3,5,2,Non Veg
+3,45,2,Non Veg
+3,18,1,Bakery
+4,14,2,Drinks
+4,40,2,Veg
+4,41,1,Veg
+4,8,4,Drinks
+4,31,4,Non Veg
+5,16,1,Drinks
+5,3,3,Non Veg
+5,2,2,Non Veg
+5,2,2,Non Veg
+5,44,1,Non Veg
+6,16,3,Drinks
+6,23,1,Veg
+6,8,1,Drinks
+7,16,2,Drinks
+7,17,4,Bakery
+7,17,4,Bakery
+7,14,1,Drinks
+7,23,1,Veg
+7,46,4,Veg
+7,8,1,Drinks
+8,47,3,Veg
+8,9,2,Drinks
+8,42,2,Non Veg
+8,14,3,Drinks
+8,48,4,Bakery
+8,46,3,Veg
+8,15,2,Drinks
+8,5,4,Non Veg
+8,33,1,SeaFood
+8,35,2,SeaFood
+9,7,1,Drinks
+9,4,2,Non Veg
+9,40,4,Veg
+9,40,4,Veg
+10,34,1,SeaFood
+10,21,3,Veg
+10,38,4,Non Veg
+11,16,1,Drinks
+11,16,3,Drinks
+11,47,4,Veg
+11,34,1,SeaFood
+11,28,4,Drinks
+11,37,3,Veg
+11,15,4,Drinks
+11,33,4,SeaFood
+12,27,1,Bakery
+12,14,4,Drinks
+12,37,4,Veg
+12,12,2,Drinks
+12,12,4,Drinks
+12,15,1,Drinks
+12,29,1,Non Veg
+13,14,2,Drinks
+13,24,4,Veg
+13,15,1,Drinks
+13,36,2,SeaFood
+14,27,2,Bakery
+14,27,2,Bakery
+14,20,3,Veg
+14,29,3,Non Veg
+15,25,4,Drinks
+15,17,1,Bakery
+15,3,2,Non Veg
+15,43,4,Veg
+15,45,4,Non Veg
+16,39,3,Non Veg
+16,47,1,Veg
+16,2,4,Non Veg
+17,21,4,Veg
+17,4,1,Non Veg
+17,32,2,SeaFood
+17,1,3,EggFood
+18,27,3,Bakery
+18,47,4,Veg
+18,9,1,Drinks
+18,46,3,Veg
+18,18,4,Bakery
+19,39,1,Non Veg
+19,45,1,Non Veg
+19,41,2,Veg
+19,35,3,SeaFood
+19,1,2,EggFood
+20,48,2,Bakery
+20,12,1,Drinks
+20,12,4,Drinks
+20,20,2,Veg
+20,41,3,Veg
+20,26,1,Drinks
+21,17,2,Bakery
+21,47,4,Veg
+21,9,1,Drinks
+21,28,4,Drinks
+21,36,1,SeaFood
+21,18,2,Bakery
+21,11,4,Drinks
+22,30,1,SeaFood
+22,8,4,Drinks
+22,31,4,Non Veg
+22,1,1,EggFood
+23,38,4,Non Veg
+23,10,2,Drinks
+23,24,1,Veg
+23,15,1,Drinks
+24,47,4,Veg
+24,28,3,Drinks
+24,15,1,Drinks
+24,1,4,EggFood
+25,12,2,Drinks
+25,46,1,Veg
+25,31,1,Non Veg
+26,27,3,Bakery
+26,3,4,Non Veg
+26,48,4,Bakery
+26,10,1,Drinks
+26,23,3,Veg
+26,7,4,Drinks
+26,24,2,Veg
+26,44,4,Non Veg
+26,41,4,Veg
+27,3,4,Non Veg
+27,30,2,SeaFood
+27,43,3,Veg
+28,2,3,Non Veg
+28,30,1,SeaFood
+28,12,3,Drinks
+28,26,4,Drinks
+28,26,3,Drinks
+29,34,4,SeaFood
+29,2,2,Non Veg
+29,46,3,Veg
+29,15,1,Drinks
+29,41,4,Veg
+29,29,1,Non Veg
+30,27,3,Bakery
+30,34,1,SeaFood
+30,44,3,Non Veg
+30,33,3,SeaFood
+30,41,4,Veg
+30,36,1,SeaFood
+30,31,2,Non Veg
+31,4,2,Non Veg
+31,33,3,SeaFood
+31,36,1,SeaFood
+32,17,3,Bakery
+32,9,2,Drinks
+32,43,1,Veg
+32,28,1,Drinks
+32,23,3,Veg
+32,12,3,Drinks
+32,12,3,Drinks
+33,16,4,Drinks
+33,27,3,Bakery
+33,47,2,Veg
+33,31,2,Non Veg
+33,31,3,Non Veg
+33,18,2,Bakery
+34,3,3,Non Veg
+34,37,4,Veg
+34,20,3,Veg
+34,15,4,Drinks
+34,26,4,Drinks
+35,27,2,Bakery
+35,33,4,SeaFood
+35,33,2,SeaFood
+35,41,3,Veg
+35,8,3,Drinks
+35,35,4,SeaFood
+36,28,1,Drinks
+36,7,1,Drinks
+37,28,1,Drinks
+37,4,1,Non Veg
+37,33,1,SeaFood
+37,1,4,EggFood
+38,16,2,Drinks
+38,9,4,Drinks
+38,28,3,Drinks
+38,23,1,Veg
+38,7,1,Drinks
+38,46,2,Veg
+39,39,1,Non Veg
+39,25,3,Drinks
+39,27,4,Bakery
+39,2,4,Non Veg
+39,30,4,SeaFood
+39,10,3,Drinks
+39,7,4,Drinks
+39,36,2,SeaFood
+40,42,4,Non Veg
+40,34,2,SeaFood
+40,48,3,Bakery
+40,37,3,Veg
+40,7,4,Drinks
+40,41,4,Veg
+40,41,2,Veg
+41,2,2,Non Veg
+41,20,1,Veg
+41,49,4,Non Veg
+41,8,1,Drinks
+42,6,3,EggFood
+42,22,1,Veg
+42,19,1,Non Veg
+42,21,1,Veg
+42,7,2,Drinks
+42,7,4,Drinks
+42,36,2,SeaFood
+43,16,3,Drinks
+43,21,3,Veg
+43,36,3,SeaFood
+43,36,4,SeaFood
+43,26,2,Drinks
+44,32,1,SeaFood
+44,44,4,Non Veg
+45,16,2,Drinks
+45,17,4,Bakery
+45,23,1,Veg
+45,4,4,Non Veg
+45,46,4,Veg
+45,18,1,Bakery
+46,27,1,Bakery
+47,27,2,Bakery
+47,17,4,Bakery
+47,45,1,Non Veg
+47,41,3,Veg
+47,35,4,SeaFood
+47,29,2,Non Veg
+48,22,3,Veg
+48,22,4,Veg
+48,39,1,Non Veg
+48,19,4,Non Veg
+48,10,1,Drinks
+48,46,2,Veg
+48,33,3,SeaFood
+48,18,2,Bakery
+48,1,4,EggFood
+48,11,4,Drinks
+49,19,1,Non Veg
+49,47,1,Veg
+49,28,2,Drinks
+50,20,1,Veg
+50,15,3,Drinks
+50,33,4,SeaFood
+51,21,1,Veg
+51,48,2,Bakery
+51,28,4,Drinks
+51,33,1,SeaFood
+51,41,3,Veg
+51,13,4,Drinks
+51,29,3,Non Veg
+51,11,4,Drinks
+52,9,3,Drinks
+52,42,2,Non Veg
+52,30,4,SeaFood
+52,7,3,Drinks
+52,32,2,SeaFood
+52,46,2,Veg
+53,9,2,Drinks
+53,38,1,Non Veg
+53,12,3,Drinks
+53,7,1,Drinks
+53,41,2,Veg
+53,41,3,Veg
+53,13,4,Drinks
+53,8,4,Drinks
+54,17,1,Bakery
+54,3,3,Non Veg
+54,38,4,Non Veg
+54,2,1,Non Veg
+54,4,4,Non Veg
+54,24,4,Veg
+54,20,3,Veg
+55,38,2,Non Veg
+55,7,1,Drinks
+55,13,2,Drinks
+56,25,1,Drinks
+56,48,3,Bakery
+56,41,2,Veg
+56,41,1,Veg
+57,9,4,Drinks
+57,42,3,Non Veg
+57,10,1,Drinks
+57,24,2,Veg
+58,25,1,Drinks
+58,17,2,Bakery
+58,10,2,Drinks
+58,24,4,Veg
+58,40,2,Veg
+59,22,3,Veg
+59,25,4,Drinks
+59,34,2,SeaFood
+59,20,2,Veg
+59,41,1,Veg
+60,6,1,EggFood
+60,30,4,SeaFood
+60,20,2,Veg
+61,16,1,Drinks
+61,9,3,Drinks
+61,3,2,Non Veg
+61,41,2,Veg
+61,8,1,Drinks
+61,1,2,EggFood
+62,9,4,Drinks
+62,3,2,Non Veg
+62,48,3,Bakery
+62,48,2,Bakery
+62,28,2,Drinks
+62,20,4,Veg
+62,41,1,Veg
+62,1,3,EggFood
+63,16,3,Drinks
+63,9,4,Drinks
+63,14,1,Drinks
+63,2,4,Non Veg
+63,49,4,Non Veg
+63,5,1,Non Veg
+63,33,2,SeaFood
+63,45,3,Non Veg
+64,34,3,SeaFood
+64,48,4,Bakery
+64,23,4,Veg
+65,37,1,Veg
+65,24,2,Veg
+66,22,3,Veg
+66,39,3,Non Veg
+66,9,1,Drinks
+66,12,3,Drinks
+66,20,3,Veg
+66,44,1,Non Veg
+66,40,3,Veg
+67,39,1,Non Veg
+67,16,4,Drinks
+67,9,2,Drinks
+67,34,4,SeaFood
+67,44,3,Non Veg
+67,18,1,Bakery
+68,6,3,EggFood
+68,19,4,Non Veg
+68,28,1,Drinks
+68,35,4,SeaFood
+68,35,3,SeaFood
+69,22,4,Veg
+69,42,4,Non Veg
+69,14,3,Drinks
+69,44,4,Non Veg
+69,15,1,Drinks
+69,36,1,SeaFood
+69,26,4,Drinks
+70,28,3,Drinks
+70,31,2,Non Veg
+70,11,1,Drinks
+70,11,1,Drinks
+71,22,4,Veg
+71,9,1,Drinks
+71,3,3,Non Veg
+71,7,3,Drinks
+71,7,4,Drinks
+71,49,2,Non Veg
+71,32,3,SeaFood
+71,33,2,SeaFood
+71,45,4,Non Veg
+71,11,3,Drinks
+72,25,2,Drinks
+72,14,1,Drinks
+72,12,3,Drinks
+72,15,3,Drinks
+72,36,1,SeaFood
+73,3,1,Non Veg
+73,34,2,SeaFood
+73,21,1,Veg
+73,15,4,Drinks
+73,13,1,Drinks
+73,11,1,Drinks
+74,39,3,Non Veg
+74,17,1,Bakery
+74,17,2,Bakery
+74,20,2,Veg
+74,45,2,Non Veg
+74,41,3,Veg
+74,36,2,SeaFood
+74,35,1,SeaFood
+74,26,1,Drinks
+75,10,1,Drinks
+75,31,2,Non Veg
+76,17,2,Bakery
+76,14,4,Drinks
+76,10,1,Drinks
+76,44,2,Non Veg
+76,1,4,EggFood
+77,6,1,EggFood
+77,22,1,Veg
+77,43,3,Veg
+77,24,4,Veg
+77,13,4,Drinks
+77,31,4,Non Veg
+78,14,4,Drinks
+78,33,2,SeaFood
+78,36,4,SeaFood
+78,18,4,Bakery
+78,35,2,SeaFood
+78,35,2,SeaFood
+79,38,2,Non Veg
+79,23,1,Veg
+79,13,4,Drinks
+79,11,1,Drinks
+80,22,1,Veg
+80,3,1,Non Veg
+80,42,2,Non Veg
+80,30,2,SeaFood
+80,32,2,SeaFood
+80,5,2,Non Veg
+81,3,3,Non Veg
+81,44,2,Non Veg
+81,8,2,Drinks
+81,11,1,Drinks
+82,23,3,Veg
+82,15,1,Drinks
+82,8,1,Drinks
+82,29,1,Non Veg
+83,22,1,Veg
+83,38,2,Non Veg
+83,2,4,Non Veg
+84,9,2,Drinks
+84,28,4,Drinks
+84,13,3,Drinks
+84,1,4,EggFood
+85,14,4,Drinks
+85,31,1,Non Veg
+86,6,2,EggFood
+86,6,1,EggFood
+86,25,4,Drinks
+86,37,3,Veg
+86,24,2,Veg
+86,1,4,EggFood
+86,29,1,Non Veg
+87,17,4,Bakery
+87,32,4,SeaFood
+87,8,1,Drinks
+87,29,3,Non Veg
+88,39,2,Non Veg
+88,27,3,Bakery
+88,17,4,Bakery
+88,7,2,Drinks
+88,36,3,SeaFood
+89,6,3,EggFood
+89,19,3,Non Veg
+89,14,2,Drinks
+89,18,1,Bakery
+89,18,1,Bakery
+89,29,4,Non Veg
+90,39,2,Non Veg
+90,39,2,Non Veg
+90,14,3,Drinks
+90,37,2,Veg
+90,26,1,Drinks
+91,27,1,Bakery
+91,23,2,Veg
+91,37,3,Veg
+91,4,2,Non Veg
+91,32,1,SeaFood
+91,33,4,SeaFood
+91,33,4,SeaFood
+92,2,2,Non Veg
+92,37,4,Veg
+92,12,2,Drinks
+92,11,1,Drinks
+92,11,2,Drinks
+93,21,4,Veg
+94,22,2,Veg
+94,21,4,Veg
+94,30,2,SeaFood
+94,28,3,Drinks
+94,37,4,Veg
+94,7,3,Drinks
+94,7,3,Drinks
+94,24,3,Veg
+94,40,1,Veg
+94,41,3,Veg
+94,8,4,Drinks
+94,31,1,Non Veg
+95,38,2,Non Veg
+95,28,3,Drinks
+95,13,3,Drinks
+96,25,1,Drinks
+96,42,3,Non Veg
+96,20,3,Veg
+96,33,2,SeaFood
+96,35,2,SeaFood
+97,43,1,Veg
+97,18,2,Bakery
+98,19,4,Non Veg
+98,49,3,Non Veg
+98,33,3,SeaFood
+98,13,2,Drinks
+98,18,2,Bakery
+98,35,2,SeaFood
+98,29,3,Non Veg
+98,29,3,Non Veg
+99,30,2,SeaFood
+99,28,3,Drinks
+99,12,3,Drinks
+99,41,1,Veg
+99,18,2,Bakery
+99,11,4,Drinks
+100,10,4,Drinks
+100,12,1,Drinks
+100,29,2,Non Veg
+101,34,1,SeaFood
+101,14,4,Drinks
+101,20,3,Veg
+101,5,4,Non Veg
+101,45,4,Non Veg
+102,27,4,Bakery
+102,38,4,Non Veg
+102,44,3,Non Veg
+103,46,3,Veg
+103,33,4,SeaFood
+103,8,3,Drinks
+104,6,3,EggFood
+104,19,4,Non Veg
+104,23,3,Veg
+104,7,2,Drinks
+104,32,4,SeaFood
+104,11,1,Drinks
+105,25,4,Drinks
+105,14,3,Drinks
+105,48,2,Bakery
+105,31,2,Non Veg
+106,25,2,Drinks
+106,19,4,Non Veg
+106,49,2,Non Veg
+106,15,2,Drinks
+106,41,1,Veg
+107,9,2,Drinks
+107,28,3,Drinks
+107,23,3,Veg
+107,15,3,Drinks
+107,13,3,Drinks
+107,29,4,Non Veg
+107,26,1,Drinks
+108,16,2,Drinks
+108,9,4,Drinks
+108,9,1,Drinks
+108,40,2,Veg
+109,40,3,Veg
+110,34,1,SeaFood
+110,2,1,Non Veg
+110,7,1,Drinks
+110,24,3,Veg
+110,13,4,Drinks
+110,36,1,SeaFood
+110,11,3,Drinks
+111,39,3,Non Veg
+111,19,1,Non Veg
+111,47,2,Veg
+111,21,3,Veg
+111,2,4,Non Veg
+111,13,3,Drinks
+111,13,1,Drinks
+111,36,3,SeaFood
+112,21,4,Veg
+112,32,1,SeaFood
+112,46,3,Veg
+112,18,2,Bakery
+112,1,1,EggFood
+113,16,1,Drinks
+113,16,2,Drinks
+113,12,2,Drinks
+113,49,1,Non Veg
+113,46,2,Veg
+113,46,4,Veg
+113,36,4,SeaFood
+113,8,2,Drinks
+113,26,1,Drinks
+114,9,3,Drinks
+114,3,4,Non Veg
+114,3,2,Non Veg
+114,34,4,SeaFood
+114,28,3,Drinks
+114,20,1,Veg
+114,15,1,Drinks
+115,6,3,EggFood
+116,47,3,Veg
+116,21,4,Veg
+116,23,4,Veg
+116,31,3,Non Veg
+117,39,3,Non Veg
+117,16,3,Drinks
+117,19,4,Non Veg
+117,15,3,Drinks
+117,29,3,Non Veg
+118,4,2,Non Veg
+118,40,2,Veg
+118,36,3,SeaFood
+119,39,4,Non Veg
+119,2,3,Non Veg
+119,30,1,SeaFood
+119,46,1,Veg
+120,22,3,Veg
+120,14,1,Drinks
+120,37,1,Veg
+120,24,1,Veg
+120,49,4,Non Veg
+120,45,2,Non Veg
+120,40,3,Veg
+120,11,4,Drinks
+121,25,3,Drinks
+121,14,2,Drinks
+122,17,4,Bakery
+122,48,2,Bakery
+122,37,3,Veg
+122,41,1,Veg
+122,13,1,Drinks
+122,36,3,SeaFood
+122,26,4,Drinks
+123,10,1,Drinks
+123,32,3,SeaFood
+123,31,1,Non Veg
+124,35,1,SeaFood
+124,26,4,Drinks
+125,27,1,Bakery
+125,19,3,Non Veg
+125,28,2,Drinks
+125,37,1,Veg
+125,37,4,Veg
+125,20,3,Veg
+125,45,1,Non Veg
+125,26,2,Drinks
+126,19,1,Non Veg
+126,14,1,Drinks
+126,37,4,Veg
+126,8,2,Drinks
+126,11,2,Drinks
+127,25,2,Drinks
+127,27,3,Bakery
+127,38,1,Non Veg
+127,45,2,Non Veg
+127,8,1,Drinks
+128,42,4,Non Veg
+128,34,2,SeaFood
+128,23,2,Veg
+128,20,4,Veg
+128,40,4,Veg
+129,14,4,Drinks
+129,48,3,Bakery
+129,28,1,Drinks
+129,49,2,Non Veg
+129,41,1,Veg
+129,29,3,Non Veg
+130,22,4,Veg
+130,2,2,Non Veg
+130,4,1,Non Veg
+130,18,1,Bakery
+130,29,3,Non Veg
+131,44,2,Non Veg
+131,5,1,Non Veg
+131,33,3,SeaFood
+131,35,2,SeaFood
+131,29,3,Non Veg
+131,26,2,Drinks
+132,20,2,Veg
+132,32,3,SeaFood
+133,16,1,Drinks
+133,38,3,Non Veg
+133,46,2,Veg
+133,5,1,Non Veg
+133,33,4,SeaFood
+133,41,2,Veg
+134,47,3,Veg
+134,30,1,SeaFood
+134,12,1,Drinks
+134,7,2,Drinks
+134,46,1,Veg
+135,27,3,Bakery
+135,2,4,Non Veg
+135,10,3,Drinks
+135,33,1,SeaFood
+135,36,1,SeaFood
+135,18,4,Bakery
+135,29,4,Non Veg
+136,9,2,Drinks
+136,42,4,Non Veg
+136,49,4,Non Veg
+137,48,1,Bakery
+137,28,3,Drinks
+137,28,3,Drinks
+137,7,4,Drinks
+137,15,4,Drinks
+137,33,1,SeaFood
+137,36,3,SeaFood
+137,35,3,SeaFood
+138,9,1,Drinks
+138,14,4,Drinks
+138,10,4,Drinks
+138,28,1,Drinks
+138,7,1,Drinks
+138,20,1,Veg
+138,44,4,Non Veg
+139,6,1,EggFood
+139,28,2,Drinks
+140,25,3,Drinks
+140,28,1,Drinks
+140,15,4,Drinks
+140,5,2,Non Veg
+140,40,2,Veg
+140,41,2,Veg
+141,39,3,Non Veg
+141,33,3,SeaFood
+142,42,2,Non Veg
+142,4,1,Non Veg
+142,5,1,Non Veg
+142,31,1,Non Veg
+143,22,4,Veg
+143,39,4,Non Veg
+143,47,3,Veg
+143,3,3,Non Veg
+143,44,4,Non Veg
+143,5,2,Non Veg
+143,26,3,Drinks
+144,17,4,Bakery
+144,44,4,Non Veg
+144,45,1,Non Veg
+145,27,3,Bakery
+145,19,4,Non Veg
+145,9,3,Drinks
+145,30,1,SeaFood
+145,30,1,SeaFood
+145,37,1,Veg
+145,5,1,Non Veg
+145,31,4,Non Veg
+145,1,4,EggFood
+146,6,4,EggFood
+146,6,1,EggFood
+146,39,1,Non Veg
+146,9,4,Drinks
+146,24,1,Veg
+146,32,2,SeaFood
+146,45,4,Non Veg
+147,10,2,Drinks
+147,32,2,SeaFood
+147,5,4,Non Veg
+147,1,1,EggFood
+148,3,2,Non Veg
+148,43,1,Veg
+148,45,4,Non Veg
+148,8,3,Drinks
+148,11,3,Drinks
+149,47,3,Veg
+149,23,4,Veg
+149,7,4,Drinks
+149,44,1,Non Veg
+149,13,1,Drinks
+150,39,2,Non Veg
+150,21,1,Veg
+150,48,2,Bakery
+150,23,1,Veg
+150,24,4,Veg
+150,44,4,Non Veg
+150,15,3,Drinks
+151,17,4,Bakery
+151,42,3,Non Veg
+151,46,2,Veg
+151,36,2,SeaFood
+152,22,4,Veg
+153,39,4,Non Veg
+153,14,4,Drinks
+153,20,4,Veg
+154,28,2,Drinks
+154,45,3,Non Veg
+154,8,3,Drinks
+154,18,3,Bakery
+155,6,3,EggFood
+155,12,4,Drinks
+155,44,1,Non Veg
+156,6,2,EggFood
+156,22,4,Veg
+156,3,2,Non Veg
+156,42,1,Non Veg
+156,10,2,Drinks
+156,20,1,Veg
+156,15,1,Drinks
+156,13,4,Drinks
+156,36,4,SeaFood
+156,29,3,Non Veg
+157,6,1,EggFood
+157,2,3,Non Veg
+157,20,4,Veg
+157,33,1,SeaFood
+157,31,2,Non Veg
+157,1,4,EggFood
+158,28,3,Drinks
+158,4,1,Non Veg
+159,24,1,Veg
+159,5,2,Non Veg
+159,41,2,Veg
+159,8,1,Drinks
+159,26,3,Drinks
+159,26,4,Drinks
+160,8,2,Drinks
+161,21,4,Veg
+161,12,3,Drinks
+161,4,3,Non Veg
+161,20,1,Veg
+161,44,2,Non Veg
+161,5,2,Non Veg
+161,18,2,Bakery
+162,32,1,SeaFood
+162,32,3,SeaFood
+162,1,4,EggFood
+163,16,4,Drinks
+163,33,2,SeaFood
+163,36,3,SeaFood
+164,16,3,Drinks
+164,14,1,Drinks
+165,5,2,Non Veg
+165,18,1,Bakery
+166,14,1,Drinks
+166,48,3,Bakery
+166,8,2,Drinks
+166,26,1,Drinks
+167,3,1,Non Veg
+167,37,1,Veg
+167,36,4,SeaFood
+168,22,4,Veg
+168,16,1,Drinks
+168,21,1,Veg
+168,30,2,SeaFood
+168,32,3,SeaFood
+168,44,3,Non Veg
+169,21,2,Veg
+170,22,3,Veg
+170,39,2,Non Veg
+170,32,4,SeaFood
+170,46,2,Veg
+170,44,1,Non Veg
+170,15,2,Drinks
+170,40,3,Veg
+171,21,4,Veg
+171,23,1,Veg
+171,45,3,Non Veg
+171,45,4,Non Veg
+172,34,3,SeaFood
+172,10,1,Drinks
+172,10,3,Drinks
+172,24,2,Veg
+172,20,3,Veg
+172,32,3,SeaFood
+172,26,2,Drinks
+173,6,2,EggFood
+173,27,1,Bakery
+173,2,1,Non Veg
+173,30,1,SeaFood
+173,49,1,Non Veg
+173,31,1,Non Veg
+173,35,2,SeaFood
+174,16,3,Drinks
+174,9,4,Drinks
+174,42,2,Non Veg
+174,48,1,Bakery
+174,40,4,Veg
+174,41,2,Veg
+175,6,4,EggFood
+175,22,2,Veg
+175,22,3,Veg
+175,28,1,Drinks
+175,12,2,Drinks
+175,24,4,Veg
+176,42,1,Non Veg
+176,28,1,Drinks
+176,37,2,Veg
+176,7,3,Drinks
+176,13,3,Drinks
+176,1,1,EggFood
+177,27,2,Bakery
+177,9,4,Drinks
+177,9,3,Drinks
+177,7,1,Drinks
+177,49,3,Non Veg
+177,1,4,EggFood
+177,26,1,Drinks
+178,14,3,Drinks
+178,38,4,Non Veg
+178,48,3,Bakery
+178,24,4,Veg
+178,26,1,Drinks
+179,27,1,Bakery
+179,21,1,Veg
+179,21,3,Veg
+179,48,2,Bakery
+179,48,4,Bakery
+179,2,4,Non Veg
+179,10,4,Drinks
+179,36,4,SeaFood
+179,8,1,Drinks
+180,25,3,Drinks
+180,20,3,Veg
+180,41,4,Veg
+181,4,3,Non Veg
+181,26,3,Drinks
+182,25,4,Drinks
+182,10,3,Drinks
+182,46,3,Veg
+182,41,2,Veg
+182,26,1,Drinks
+183,22,2,Veg
+183,39,3,Non Veg
+183,39,2,Non Veg
+183,32,4,SeaFood
+183,35,2,SeaFood
+183,29,3,Non Veg
+184,4,1,Non Veg
+184,40,2,Veg
+184,35,4,SeaFood
+185,6,4,EggFood
+185,22,2,Veg
+185,39,4,Non Veg
+185,3,3,Non Veg
+185,2,4,Non Veg
+185,10,2,Drinks
+185,15,3,Drinks
+185,40,1,Veg
+185,8,1,Drinks
+186,6,3,EggFood
+186,17,2,Bakery
+186,42,4,Non Veg
+186,42,4,Non Veg
+186,43,4,Veg
+186,20,3,Veg
+186,44,2,Non Veg
+186,15,3,Drinks
+187,27,1,Bakery
+187,30,1,SeaFood
+187,30,4,SeaFood
+187,46,4,Veg
+188,32,2,SeaFood
+188,35,4,SeaFood
+189,40,1,Veg
+189,8,2,Drinks
+189,29,3,Non Veg
+189,26,3,Drinks
+189,11,1,Drinks
+189,11,2,Drinks
+190,39,4,Non Veg
+190,45,2,Non Veg
+190,8,3,Drinks
+190,35,4,SeaFood
+191,25,3,Drinks
+191,16,2,Drinks
+191,16,3,Drinks
+191,27,1,Bakery
+191,24,1,Veg
+191,44,4,Non Veg
+192,6,2,EggFood
+192,12,3,Drinks
+192,7,4,Drinks
+192,15,2,Drinks
+192,1,3,EggFood
+193,17,4,Bakery
+193,17,4,Bakery
+193,3,2,Non Veg
+193,23,3,Veg
+194,16,3,Drinks
+194,38,3,Non Veg
+194,2,3,Non Veg
+194,43,3,Veg
+194,24,2,Veg
+194,20,3,Veg
+194,15,1,Drinks
+195,27,2,Bakery
+196,39,4,Non Veg
+196,9,4,Drinks
+196,48,1,Bakery
+196,33,4,SeaFood
+197,39,4,Non Veg
+197,19,3,Non Veg
+197,2,2,Non Veg
+197,23,3,Veg
+197,45,3,Non Veg
+197,8,1,Drinks
+198,16,1,Drinks
+198,19,1,Non Veg
+198,49,4,Non Veg
+198,46,3,Veg
+198,41,1,Veg
+198,31,4,Non Veg
+199,39,2,Non Veg
+199,40,2,Veg
+199,8,4,Drinks
+199,31,1,Non Veg
+199,11,2,Drinks
+200,42,1,Non Veg
+200,12,4,Drinks
+200,7,2,Drinks
+200,33,1,SeaFood
+200,41,3,Veg
+200,31,2,Non Veg
+200,1,4,EggFood
+201,25,4,Drinks
+201,30,4,SeaFood
+201,49,1,Non Veg
+201,8,4,Drinks
+202,27,4,Bakery
+202,19,1,Non Veg
+202,34,4,SeaFood
+202,4,2,Non Veg
+202,1,3,EggFood
+202,11,4,Drinks
+203,39,3,Non Veg
+203,25,4,Drinks
+203,19,3,Non Veg
+203,3,2,Non Veg
+203,48,3,Bakery
+203,2,4,Non Veg
+203,29,2,Non Veg
+204,19,2,Non Veg
+204,14,2,Drinks
+204,2,4,Non Veg
+204,2,3,Non Veg
+204,24,2,Veg
+204,31,3,Non Veg
+205,7,4,Drinks
+205,4,2,Non Veg
+205,15,1,Drinks
+205,29,1,Non Veg
+206,48,1,Bakery
+206,20,1,Veg
+206,31,4,Non Veg
+207,25,3,Drinks
+207,19,2,Non Veg
+207,19,2,Non Veg
+207,21,3,Veg
+207,43,1,Veg
+207,49,2,Non Veg
+207,32,2,SeaFood
+208,34,2,SeaFood
+208,28,3,Drinks
+208,7,3,Drinks
+208,36,3,SeaFood
+208,26,1,Drinks
+209,25,4,Drinks
+209,19,2,Non Veg
+209,38,3,Non Veg
+209,10,2,Drinks
+210,6,3,EggFood
+210,19,1,Non Veg
+210,19,1,Non Veg
+210,38,2,Non Veg
+210,4,2,Non Veg
+210,45,2,Non Veg
+211,9,4,Drinks
+211,23,4,Veg
+211,8,2,Drinks
+211,1,2,EggFood
+212,46,1,Veg
+212,45,3,Non Veg
+213,6,4,EggFood
+213,22,1,Veg
+213,20,4,Veg
+213,49,2,Non Veg
+214,34,4,SeaFood
+214,28,2,Drinks
+214,7,2,Drinks
+214,32,1,SeaFood
+214,13,4,Drinks
+215,47,3,Veg
+216,19,3,Non Veg
+216,44,2,Non Veg
+216,13,2,Drinks
+216,31,3,Non Veg
+216,35,2,SeaFood
+216,11,3,Drinks
+217,25,1,Drinks
+217,25,4,Drinks
+217,19,4,Non Veg
+217,10,2,Drinks
+218,34,3,SeaFood
+218,28,3,Drinks
+218,44,3,Non Veg
+219,22,1,Veg
+219,25,4,Drinks
+219,16,4,Drinks
+219,38,1,Non Veg
+219,32,3,SeaFood
+219,41,3,Veg
+219,8,1,Drinks
+219,29,4,Non Veg
+220,6,4,EggFood
+220,34,4,SeaFood
+220,14,2,Drinks
+220,15,1,Drinks
+221,47,3,Veg
+221,48,1,Bakery
+221,4,3,Non Veg
+221,13,2,Drinks
+221,11,3,Drinks
+222,25,4,Drinks
+222,47,2,Veg
+222,21,1,Veg
+222,24,3,Veg
+223,27,3,Bakery
+223,17,4,Bakery
+223,2,3,Non Veg
+223,32,3,SeaFood
+223,15,4,Drinks
+223,35,3,SeaFood
+223,35,1,SeaFood
+223,1,2,EggFood
+224,28,3,Drinks
+224,18,2,Bakery
+225,19,4,Non Veg
+225,42,1,Non Veg
+225,49,3,Non Veg
+225,46,4,Veg
+225,5,3,Non Veg
+225,45,4,Non Veg
+225,18,3,Bakery
+226,10,3,Drinks
+226,33,4,SeaFood
+226,45,4,Non Veg
+227,27,1,Bakery
+227,10,2,Drinks
+227,46,2,Veg
+227,46,3,Veg
+228,39,2,Non Veg
+228,21,4,Veg
+228,49,2,Non Veg
+228,36,3,SeaFood
+229,39,2,Non Veg
+229,49,3,Non Veg
+229,31,1,Non Veg
+230,22,1,Veg
+230,14,1,Drinks
+230,23,3,Veg
+230,41,4,Veg
+230,29,1,Non Veg
+231,38,1,Non Veg
+231,48,1,Bakery
+231,48,4,Bakery
+231,12,3,Drinks
+231,44,2,Non Veg
+231,15,4,Drinks
+231,33,1,SeaFood
+232,27,3,Bakery
+232,24,1,Veg
+233,25,1,Drinks
+233,9,1,Drinks
+233,42,2,Non Veg
+233,30,3,SeaFood
+233,24,1,Veg
+233,20,3,Veg
+233,26,2,Drinks
+234,22,1,Veg
+234,4,2,Non Veg
+234,31,1,Non Veg
+235,25,4,Drinks
+235,17,1,Bakery
+235,9,4,Drinks
+235,21,3,Veg
+235,2,3,Non Veg
+235,43,4,Veg
+235,43,3,Veg
+235,28,4,Drinks
+235,12,3,Drinks
+235,33,1,SeaFood
+235,1,1,EggFood
+236,10,4,Drinks
+236,24,3,Veg
+236,1,1,EggFood
+237,23,4,Veg
+237,12,1,Drinks
+237,1,1,EggFood
+238,16,4,Drinks
+238,43,1,Veg
+238,15,2,Drinks
+238,40,3,Veg
+239,25,4,Drinks
+239,27,3,Bakery
+239,21,2,Veg
+239,30,4,SeaFood
+239,1,2,EggFood
+240,46,2,Veg
+240,44,3,Non Veg
+240,45,3,Non Veg
+241,9,2,Drinks
+241,34,2,SeaFood
+241,45,2,Non Veg
+242,27,3,Bakery
+242,17,4,Bakery
+242,38,3,Non Veg
+242,10,3,Drinks
+242,7,2,Drinks
+242,7,2,Drinks
+242,24,3,Veg
+242,46,3,Veg
+242,26,4,Drinks
+243,19,3,Non Veg
+244,16,2,Drinks
+244,19,1,Non Veg
+244,34,1,SeaFood
+244,21,3,Veg
+244,4,4,Non Veg
+244,20,2,Veg
+244,5,1,Non Veg
+244,33,2,SeaFood
+245,16,3,Drinks
+245,28,2,Drinks
+245,31,4,Non Veg
+245,35,1,SeaFood
+246,20,4,Veg
+246,41,1,Veg
+246,36,4,SeaFood
+246,18,1,Bakery
+247,14,1,Drinks
+247,2,2,Non Veg
+247,2,4,Non Veg
+247,49,4,Non Veg
+247,41,3,Veg
+247,29,1,Non Veg
+247,11,3,Drinks
+248,3,2,Non Veg
+248,28,3,Drinks
+248,37,1,Veg
+248,46,2,Veg
+248,5,2,Non Veg
+248,8,1,Drinks
+249,19,4,Non Veg
+249,23,3,Veg
+249,23,3,Veg
+249,20,1,Veg
+250,17,2,Bakery
+250,21,2,Veg
+250,33,2,SeaFood
+250,13,1,Drinks
+250,31,3,Non Veg
+250,18,4,Bakery
+251,28,3,Drinks
+251,4,4,Non Veg
+252,47,4,Veg
+252,3,2,Non Veg
+252,7,2,Drinks
+252,46,2,Veg
+252,36,2,SeaFood
+253,17,2,Bakery
+253,38,2,Non Veg
+253,7,1,Drinks
+253,45,3,Non Veg
+253,13,1,Drinks
+253,26,2,Drinks
+254,19,1,Non Veg
+254,3,2,Non Veg
+254,14,2,Drinks
+254,49,2,Non Veg
+254,49,1,Non Veg
+254,31,3,Non Veg
+254,35,4,SeaFood
+255,27,1,Bakery
+255,14,2,Drinks
+255,41,3,Veg
+255,13,3,Drinks
+255,31,1,Non Veg
+255,29,4,Non Veg
+256,22,2,Veg
+256,17,1,Bakery
+256,14,1,Drinks
+256,32,4,SeaFood
+256,44,2,Non Veg
+257,27,2,Bakery
+257,24,2,Veg
+258,39,2,Non Veg
+258,19,4,Non Veg
+258,14,1,Drinks
+258,43,4,Veg
+258,37,1,Veg
+258,24,1,Veg
+258,44,1,Non Veg
+258,36,2,SeaFood
+258,31,4,Non Veg
+258,26,3,Drinks
+259,6,1,EggFood
+259,22,4,Veg
+259,17,2,Bakery
+259,48,3,Bakery
+259,33,1,SeaFood
+259,18,4,Bakery
+260,25,4,Drinks
+260,3,3,Non Veg
+260,34,3,SeaFood
+260,49,1,Non Veg
+260,33,3,SeaFood
+260,1,4,EggFood
+261,34,1,SeaFood
+261,4,2,Non Veg
+261,20,3,Veg
+261,40,3,Veg
+261,36,3,SeaFood
+261,1,2,EggFood
+262,2,1,Non Veg
+262,12,2,Drinks
+262,29,1,Non Veg
+262,29,2,Non Veg
+263,5,2,Non Veg
+263,41,2,Veg
+264,47,4,Veg
+264,20,4,Veg
+264,45,4,Non Veg
+264,36,2,SeaFood
+264,31,1,Non Veg
+265,17,2,Bakery
+265,2,1,Non Veg
+266,16,2,Drinks
+266,21,4,Veg
+266,28,1,Drinks
+266,49,2,Non Veg
+266,13,4,Drinks
+267,19,3,Non Veg
+267,47,2,Veg
+267,14,1,Drinks
+267,2,4,Non Veg
+267,23,4,Veg
+267,18,1,Bakery
+268,16,2,Drinks
+268,27,1,Bakery
+268,19,3,Non Veg
+268,9,2,Drinks
+268,21,3,Veg
+270,14,1,Drinks
+270,32,3,SeaFood
+270,33,4,SeaFood
+270,8,2,Drinks
+271,9,1,Drinks
+271,42,1,Non Veg
+271,37,3,Veg
+271,15,4,Drinks
+271,45,2,Non Veg
+271,18,1,Bakery
+271,26,3,Drinks
+272,22,2,Veg
+272,39,2,Non Veg
+272,47,3,Veg
+272,3,2,Non Veg
+272,43,4,Veg
+272,49,1,Non Veg
+272,40,3,Veg
+273,14,1,Drinks
+273,2,4,Non Veg
+273,46,3,Veg
+273,15,1,Drinks
+274,38,2,Non Veg
+274,30,4,SeaFood
+274,24,4,Veg
+274,15,1,Drinks
+274,45,1,Non Veg
+274,13,2,Drinks
+275,14,1,Drinks
+275,10,1,Drinks
+275,7,1,Drinks
+275,4,1,Non Veg
+275,26,4,Drinks
+275,11,4,Drinks
+275,11,4,Drinks
+276,14,2,Drinks
+276,23,1,Veg
+276,46,1,Veg
+277,16,1,Drinks
+277,14,3,Drinks
+277,38,3,Non Veg
+277,12,4,Drinks
+277,8,1,Drinks
+277,8,4,Drinks
+278,19,4,Non Veg
+278,34,4,SeaFood
+278,28,2,Drinks
+278,18,1,Bakery
+278,11,4,Drinks
+279,22,1,Veg
+279,19,2,Non Veg
+279,3,3,Non Veg
+279,36,4,SeaFood
+280,34,2,SeaFood
+280,21,2,Veg
+280,37,4,Veg
+280,40,1,Veg
+280,29,4,Non Veg
+281,16,1,Drinks
+281,44,3,Non Veg
+282,22,2,Veg
+282,16,2,Drinks
+282,3,2,Non Veg
+282,45,3,Non Veg
+282,40,1,Veg
+282,13,4,Drinks
+283,34,4,SeaFood
+283,43,4,Veg
+283,4,4,Non Veg
+283,32,2,SeaFood
+283,45,3,Non Veg
+283,45,2,Non Veg
+283,31,1,Non Veg
+284,16,3,Drinks
+284,27,1,Bakery
+284,17,3,Bakery
+284,47,1,Veg
+284,7,4,Drinks
+284,4,2,Non Veg
+284,33,2,SeaFood
+285,22,2,Veg
+285,25,4,Drinks
+285,19,1,Non Veg
+285,17,1,Bakery
+285,34,3,SeaFood
+285,38,1,Non Veg
+285,23,2,Veg
+285,12,3,Drinks
+285,24,4,Veg
+285,46,2,Veg
+286,27,2,Bakery
+286,19,3,Non Veg
+286,19,2,Non Veg
+286,20,4,Veg
+286,49,2,Non Veg
+286,41,2,Veg
+287,47,3,Veg
+287,2,4,Non Veg
+287,8,2,Drinks
+289,30,3,SeaFood
+289,44,3,Non Veg
+289,26,3,Drinks
+289,11,2,Drinks
+289,11,4,Drinks
+290,14,3,Drinks
+290,38,2,Non Veg
+290,28,4,Drinks
+290,33,1,SeaFood
+290,31,3,Non Veg
+290,18,1,Bakery
+291,17,1,Bakery
+291,21,2,Veg
+291,44,3,Non Veg
+291,8,4,Drinks
+292,17,3,Bakery
+292,9,1,Drinks
+292,30,1,SeaFood
+292,30,3,SeaFood
+292,10,3,Drinks
+292,35,4,SeaFood
+293,21,1,Veg
+293,48,3,Bakery
+293,18,3,Bakery
+294,49,1,Non Veg
+294,45,4,Non Veg
+294,40,1,Veg
+294,13,3,Drinks
+295,48,1,Bakery
+295,2,3,Non Veg
+295,2,2,Non Veg
+295,7,2,Drinks
+296,48,4,Bakery
+296,12,4,Drinks
+296,24,1,Veg
+296,13,4,Drinks
+296,1,1,EggFood
+297,22,2,Veg
+297,48,2,Bakery
+297,2,2,Non Veg
+297,10,1,Drinks
+297,23,4,Veg
+297,24,3,Veg
+297,36,2,SeaFood
+297,8,2,Drinks
+298,25,1,Drinks
+298,27,1,Bakery
+298,2,3,Non Veg
+298,32,4,SeaFood
+299,25,3,Drinks
+299,30,4,SeaFood
+299,32,4,SeaFood
+299,5,2,Non Veg
+299,13,4,Drinks
+300,10,1,Drinks
+300,32,3,SeaFood
+300,41,2,Veg
+300,18,1,Bakery
+300,26,4,Drinks
+301,3,1,Non Veg
+301,42,4,Non Veg
+301,30,1,SeaFood
+301,12,1,Drinks
+301,24,1,Veg
+301,45,1,Non Veg
+302,27,2,Bakery
+302,34,4,SeaFood
+302,23,3,Veg
+302,12,1,Drinks
+302,49,4,Non Veg
+302,13,1,Drinks
+302,18,4,Bakery
+303,6,3,EggFood
+303,3,3,Non Veg
+303,14,3,Drinks
+303,14,1,Drinks
+303,48,1,Bakery
+303,46,2,Veg
+303,44,1,Non Veg
+303,15,4,Drinks
+303,45,1,Non Veg
+303,18,1,Bakery
+304,43,2,Veg
+304,24,3,Veg
+305,44,2,Non Veg
+306,47,3,Veg
+306,29,4,Non Veg
+307,23,2,Veg
+307,45,2,Non Veg
+308,30,3,SeaFood
+308,10,2,Drinks
+308,37,4,Veg
+308,44,2,Non Veg
+308,41,1,Veg
+309,17,1,Bakery
+309,14,3,Drinks
+309,48,3,Bakery
+309,2,4,Non Veg
+309,13,1,Drinks
+309,1,2,EggFood
+310,16,2,Drinks
+310,9,2,Drinks
+310,42,4,Non Veg
+310,44,4,Non Veg
+310,36,1,SeaFood
+310,31,1,Non Veg
+311,17,3,Bakery
+311,30,2,SeaFood
+311,37,1,Veg
+311,33,4,SeaFood
+312,6,3,EggFood
+312,17,2,Bakery
+312,4,2,Non Veg
+312,15,1,Drinks
+312,45,3,Non Veg
+312,1,2,EggFood
+313,25,4,Drinks
+313,17,4,Bakery
+313,3,3,Non Veg
+313,14,1,Drinks
+313,12,4,Drinks
+313,20,1,Veg
+313,44,2,Non Veg
+313,33,3,SeaFood
+313,29,3,Non Veg
+314,48,1,Bakery
+314,10,1,Drinks
+314,28,4,Drinks
+314,15,1,Drinks
+314,40,1,Veg
+314,8,3,Drinks
+315,27,2,Bakery
+315,28,3,Drinks
+315,37,1,Veg
+315,15,3,Drinks
+315,31,2,Non Veg
+315,29,2,Non Veg
+316,39,4,Non Veg
+316,17,4,Bakery
+316,10,2,Drinks
+316,8,4,Drinks
+316,35,4,SeaFood
+317,39,3,Non Veg
+317,38,2,Non Veg
+317,12,3,Drinks
+317,24,2,Veg
+317,24,4,Veg
+317,41,2,Veg
+317,36,3,SeaFood
+317,1,2,EggFood
+318,27,2,Bakery
+318,17,1,Bakery
+318,23,4,Veg
+318,35,3,SeaFood
+319,48,4,Bakery
+319,10,3,Drinks
+319,24,3,Veg
+319,24,3,Veg
+319,20,2,Veg
+319,5,3,Non Veg
+319,11,1,Drinks
+319,11,3,Drinks
+320,48,2,Bakery
+320,28,2,Drinks
+320,24,3,Veg
+320,36,1,SeaFood
+320,26,2,Drinks
+321,12,3,Drinks
+321,40,1,Veg
+321,18,1,Bakery
+322,16,2,Drinks
+322,9,2,Drinks
+322,9,3,Drinks
+322,43,2,Veg
+322,43,3,Veg
+322,44,3,Non Veg
+322,33,4,SeaFood
+322,13,2,Drinks
+322,18,1,Bakery
+322,35,2,SeaFood
+322,29,4,Non Veg
+323,22,3,Veg
+323,19,2,Non Veg
+323,17,3,Bakery
+323,37,1,Veg
+323,31,2,Non Veg
+324,28,3,Drinks
+324,37,1,Veg
+324,4,2,Non Veg
+324,44,1,Non Veg
+324,5,1,Non Veg
+324,33,3,SeaFood
+324,40,2,Veg
+325,3,1,Non Veg
+325,43,1,Veg
+325,4,4,Non Veg
+325,24,2,Veg
+325,40,3,Veg
+325,41,2,Veg
+326,27,4,Bakery
+326,27,1,Bakery
+326,34,4,SeaFood
+326,23,2,Veg
+327,48,1,Bakery
+327,46,1,Veg
+327,33,1,SeaFood
+327,40,1,Veg
+327,36,1,SeaFood
+327,8,4,Drinks
+328,27,4,Bakery
+328,14,3,Drinks
+328,21,3,Veg
+328,48,4,Bakery
+328,31,3,Non Veg
+329,2,4,Non Veg
+329,30,4,SeaFood
+329,7,1,Drinks
+329,18,3,Bakery
+330,27,4,Bakery
+330,47,4,Veg
+330,33,3,SeaFood
+330,18,3,Bakery
+331,30,2,SeaFood
+331,23,3,Veg
+331,36,1,SeaFood
+331,36,2,SeaFood
+332,30,1,SeaFood
+332,43,1,Veg
+332,37,2,Veg
+332,12,2,Drinks
+332,46,4,Veg
+333,27,3,Bakery
+333,34,3,SeaFood
+333,32,2,SeaFood
+334,17,4,Bakery
+334,9,3,Drinks
+334,41,3,Veg
+334,1,4,EggFood
+335,30,2,SeaFood
+335,12,4,Drinks
+335,36,2,SeaFood
+336,2,2,Non Veg
+336,30,3,SeaFood
+336,18,1,Bakery
+336,29,2,Non Veg
+336,26,1,Drinks
+337,9,2,Drinks
+337,46,4,Veg
+337,44,4,Non Veg
+337,8,3,Drinks
+337,31,4,Non Veg
+338,18,4,Bakery
+339,38,1,Non Veg
+339,49,3,Non Veg
+339,44,1,Non Veg
+339,45,4,Non Veg
+339,40,2,Veg
+340,17,4,Bakery
+340,8,2,Drinks
+341,39,3,Non Veg
+341,39,3,Non Veg
+341,47,4,Veg
+341,3,3,Non Veg
+341,12,2,Drinks
+341,33,4,SeaFood
+342,25,2,Drinks
+342,38,2,Non Veg
+342,12,2,Drinks
+342,13,3,Drinks
+342,36,4,SeaFood
+342,29,1,Non Veg
+343,33,1,SeaFood
+343,45,4,Non Veg
+344,6,3,EggFood
+344,9,3,Drinks
+344,38,1,Non Veg
+344,44,4,Non Veg
+344,13,2,Drinks
+345,39,4,Non Veg
+345,39,1,Non Veg
+345,42,2,Non Veg
+345,23,3,Veg
+345,20,4,Veg
+346,16,2,Drinks
+346,27,2,Bakery
+346,10,1,Drinks
+346,12,4,Drinks
+346,24,2,Veg
+346,24,4,Veg
+346,8,3,Drinks
+346,35,1,SeaFood
+346,29,4,Non Veg
+346,11,4,Drinks
+347,43,1,Veg
+347,4,1,Non Veg
+347,45,3,Non Veg
+347,29,4,Non Veg
+348,39,2,Non Veg
+348,16,4,Drinks
+348,14,2,Drinks
+348,24,2,Veg
+348,49,2,Non Veg
+349,44,4,Non Veg
+349,31,4,Non Veg
+350,6,4,EggFood
+350,47,2,Veg
+350,15,1,Drinks
+351,39,2,Non Veg
+351,39,1,Non Veg
+351,3,3,Non Veg
+351,21,3,Veg
+351,48,4,Bakery
+351,2,3,Non Veg
+351,43,4,Veg
+351,15,2,Drinks
+351,5,3,Non Veg
+351,41,1,Veg
+352,24,1,Veg
+352,44,2,Non Veg
+352,1,1,EggFood
+352,11,3,Drinks
+353,6,3,EggFood
+353,3,4,Non Veg
+353,3,3,Non Veg
+353,28,4,Drinks
+353,44,4,Non Veg
+353,31,4,Non Veg
+354,9,4,Drinks
+354,42,4,Non Veg
+354,5,1,Non Veg
+354,36,3,SeaFood
+354,18,4,Bakery
+355,17,4,Bakery
+355,47,1,Veg
+355,9,1,Drinks
+355,3,3,Non Veg
+355,3,4,Non Veg
+355,4,3,Non Veg
+355,13,1,Drinks
+355,11,2,Drinks
+356,35,3,SeaFood
+357,14,2,Drinks
+357,28,2,Drinks
+357,20,3,Veg
+358,47,3,Veg
+358,9,4,Drinks
+358,38,1,Non Veg
+358,2,3,Non Veg
+358,37,2,Veg
+358,11,3,Drinks
+359,25,2,Drinks
+359,14,4,Drinks
+359,7,1,Drinks
+359,24,2,Veg
+359,46,3,Veg
+360,22,3,Veg
+360,34,3,SeaFood
+360,2,2,Non Veg
+360,2,1,Non Veg
+360,37,2,Veg
+360,7,1,Drinks
+360,13,2,Drinks
+360,13,2,Drinks
+361,47,3,Veg
+361,14,2,Drinks
+361,45,3,Non Veg
+361,45,3,Non Veg
+361,11,1,Drinks
+362,39,3,Non Veg
+362,10,3,Drinks
+362,28,4,Drinks
+362,12,3,Drinks
+362,49,2,Non Veg
+362,32,1,SeaFood
+362,40,2,Veg
+363,19,1,Non Veg
+363,47,1,Veg
+363,47,4,Veg
+363,43,3,Veg
+363,32,1,SeaFood
+363,8,3,Drinks
+364,6,1,EggFood
+364,39,2,Non Veg
+364,42,4,Non Veg
+364,40,2,Veg
+364,8,3,Drinks
+365,39,2,Non Veg
+365,9,2,Drinks
+365,37,1,Veg
+365,45,2,Non Veg
+365,41,2,Veg
+365,13,2,Drinks
+366,42,1,Non Veg
+366,12,4,Drinks
+366,7,1,Drinks
+367,3,4,Non Veg
+367,2,3,Non Veg
+367,10,3,Drinks
+367,10,2,Drinks
+367,12,1,Drinks
+367,15,3,Drinks
+367,35,2,SeaFood
+367,29,1,Non Veg
+368,27,1,Bakery
+368,9,2,Drinks
+368,42,3,Non Veg
+368,23,3,Veg
+368,12,2,Drinks
+368,4,1,Non Veg
+368,41,2,Veg
+369,27,4,Bakery
+369,9,1,Drinks
+370,16,1,Drinks
+370,34,4,SeaFood
+370,14,2,Drinks
+370,15,1,Drinks
+370,5,3,Non Veg
+370,18,1,Bakery
+370,26,1,Drinks
+371,42,1,Non Veg
+371,30,2,SeaFood
+371,12,2,Drinks
+371,46,1,Veg
+371,5,4,Non Veg
+372,34,2,SeaFood
+372,10,3,Drinks
+372,5,2,Non Veg
+372,45,4,Non Veg
+372,31,1,Non Veg
+373,9,3,Drinks
+373,49,2,Non Veg
+373,45,1,Non Veg
+373,1,1,EggFood
+374,19,2,Non Veg
+374,19,3,Non Veg
+374,17,1,Bakery
+374,2,4,Non Veg
+374,29,3,Non Veg
+374,26,3,Drinks
+375,39,4,Non Veg
+375,27,3,Bakery
+375,19,2,Non Veg
+375,1,4,EggFood
+375,1,3,EggFood
+376,22,2,Veg
+376,16,2,Drinks
+376,48,2,Bakery
+376,43,3,Veg
+376,32,4,SeaFood
+376,31,4,Non Veg
+377,6,4,EggFood
+377,28,2,Drinks
+377,40,2,Veg
+378,47,1,Veg
+378,24,3,Veg
+378,49,4,Non Veg
+378,49,3,Non Veg
+379,42,4,Non Veg
+379,18,1,Bakery
+380,25,3,Drinks
+380,16,4,Drinks
+380,47,3,Veg
+380,37,1,Veg
+381,17,2,Bakery
+381,38,2,Non Veg
+381,38,4,Non Veg
+381,24,4,Veg
+381,5,4,Non Veg
+382,47,1,Veg
+382,9,3,Drinks
+382,1,2,EggFood
+382,11,3,Drinks
+383,10,3,Drinks
+383,35,4,SeaFood
+384,10,1,Drinks
+384,20,2,Veg
+384,46,4,Veg
+384,40,1,Veg
+384,1,4,EggFood
+384,1,2,EggFood
+385,27,2,Bakery
+385,19,4,Non Veg
+385,17,3,Bakery
+385,47,4,Veg
+385,34,2,SeaFood
+385,28,1,Drinks
+385,40,4,Veg
+385,36,4,SeaFood
+386,30,2,SeaFood
+386,10,2,Drinks
+386,28,3,Drinks
+386,23,2,Veg
+387,34,1,SeaFood
+387,48,2,Bakery
+387,43,2,Veg
+387,4,2,Non Veg
+387,8,3,Drinks
+388,22,1,Veg
+388,47,4,Veg
+388,3,3,Non Veg
+388,40,4,Veg
+389,28,3,Drinks
+389,24,3,Veg
+389,40,4,Veg
+389,41,4,Veg
+389,36,4,SeaFood
+389,8,2,Drinks
+390,27,4,Bakery
+390,34,1,SeaFood
+390,38,4,Non Veg
+390,43,2,Veg
+390,37,3,Veg
+390,24,1,Veg
+390,5,1,Non Veg
+391,3,3,Non Veg
+391,10,3,Drinks
+391,40,1,Veg
+391,18,4,Bakery
+392,27,3,Bakery
+392,48,2,Bakery
+392,28,3,Drinks
+392,33,2,SeaFood
+392,1,4,EggFood
+393,6,1,EggFood
+393,17,2,Bakery
+393,30,1,SeaFood
+394,14,2,Drinks
+394,38,2,Non Veg
+394,48,4,Bakery
+394,2,1,Non Veg
+394,40,3,Veg
+394,11,3,Drinks
+395,39,3,Non Veg
+395,47,4,Veg
+395,21,4,Veg
+395,23,1,Veg
+395,37,2,Veg
+395,7,1,Drinks
+396,6,2,EggFood
+396,25,4,Drinks
+396,10,1,Drinks
+396,4,2,Non Veg
+396,46,3,Veg
+396,15,4,Drinks
+396,5,3,Non Veg
+396,41,4,Veg
+396,36,1,SeaFood
+397,39,4,Non Veg
+397,47,2,Veg
+397,34,2,SeaFood
+397,38,4,Non Veg
+397,28,1,Drinks
+397,46,2,Veg
+397,13,3,Drinks
+397,1,1,EggFood
+399,16,1,Drinks
+399,34,1,SeaFood
+399,48,4,Bakery
+400,25,2,Drinks
+400,34,2,SeaFood
+400,14,2,Drinks
+400,23,2,Veg
+400,33,1,SeaFood
+400,8,4,Drinks
+400,18,2,Bakery
+401,6,1,EggFood
+401,39,2,Non Veg
+401,49,3,Non Veg
+402,2,1,Non Veg
+402,43,2,Veg
+402,7,4,Drinks
+402,20,1,Veg
+403,14,1,Drinks
+403,23,2,Veg
+403,37,2,Veg
+403,5,2,Non Veg
+404,16,4,Drinks
+404,3,4,Non Veg
+404,49,1,Non Veg
+404,32,4,SeaFood
+404,13,4,Drinks
+404,36,4,SeaFood
+405,22,1,Veg
+405,19,3,Non Veg
+405,3,1,Non Veg
+405,34,3,SeaFood
+405,23,1,Veg
+405,5,2,Non Veg
+405,41,4,Veg
+405,36,4,SeaFood
+406,17,4,Bakery
+406,42,3,Non Veg
+406,48,4,Bakery
+406,49,2,Non Veg
+406,46,3,Veg
+406,8,3,Drinks
+407,19,1,Non Veg
+407,44,1,Non Veg
+407,26,2,Drinks
+408,17,1,Bakery
+408,48,2,Bakery
+408,30,1,SeaFood
+408,28,1,Drinks
+408,12,2,Drinks
+408,36,3,SeaFood
+409,27,4,Bakery
+409,38,4,Non Veg
+409,37,2,Veg
+409,32,2,SeaFood
+409,41,1,Veg
+410,42,4,Non Veg
+410,34,2,SeaFood
+410,48,4,Bakery
+410,35,4,SeaFood
+410,29,4,Non Veg
+411,6,4,EggFood
+411,18,4,Bakery
+412,48,1,Bakery
+412,10,1,Drinks
+412,33,1,SeaFood
+412,45,3,Non Veg
+412,35,3,SeaFood
+413,6,4,EggFood
+413,4,2,Non Veg
+414,49,1,Non Veg
+414,13,2,Drinks
+414,26,1,Drinks
+415,25,1,Drinks
+415,45,2,Non Veg
+416,9,1,Drinks
+416,34,4,SeaFood
+416,34,1,SeaFood
+416,14,1,Drinks
+416,14,4,Drinks
+416,23,1,Veg
+416,7,2,Drinks
+416,4,1,Non Veg
+416,18,3,Bakery
+416,1,3,EggFood
+416,1,3,EggFood
+416,26,3,Drinks
+417,19,4,Non Veg
+417,47,4,Veg
+417,48,1,Bakery
+417,2,4,Non Veg
+417,10,3,Drinks
+417,12,1,Drinks
+417,46,3,Veg
+417,15,1,Drinks
+417,33,2,SeaFood
+417,26,1,Drinks
+418,48,4,Bakery
+418,46,3,Veg
+418,44,1,Non Veg
+418,45,4,Non Veg
+419,27,2,Bakery
+419,9,3,Drinks
+419,9,4,Drinks
+419,10,1,Drinks
+419,23,1,Veg
+419,12,4,Drinks
+419,32,3,SeaFood
+419,36,2,SeaFood
+419,35,4,SeaFood
+420,22,3,Veg
+420,37,3,Veg
+420,31,1,Non Veg
+420,35,4,SeaFood
+420,35,1,SeaFood
+420,29,3,Non Veg
+421,25,1,Drinks
+421,21,2,Veg
+421,38,3,Non Veg
+421,36,2,SeaFood
+421,8,4,Drinks
+422,14,3,Drinks
+422,30,4,SeaFood
+422,37,1,Veg
+422,5,1,Non Veg
+422,13,3,Drinks
+423,25,4,Drinks
+423,25,1,Drinks
+423,2,4,Non Veg
+423,1,1,EggFood
+424,34,4,SeaFood
+424,20,4,Veg
+424,15,1,Drinks
+424,8,1,Drinks
+425,39,1,Non Veg
+425,38,4,Non Veg
+425,43,1,Veg
+425,40,4,Veg
+425,26,2,Drinks
+426,21,2,Veg
+426,12,1,Drinks
+426,45,1,Non Veg
+426,13,4,Drinks
+427,27,2,Bakery
+427,19,4,Non Veg
+427,19,2,Non Veg
+427,38,2,Non Veg
+427,48,3,Bakery
+427,44,1,Non Veg
+428,27,2,Bakery
+428,2,3,Non Veg
+428,23,3,Veg
+428,49,4,Non Veg
+428,49,2,Non Veg
+428,1,1,EggFood
+429,16,3,Drinks
+429,24,4,Veg
+429,1,4,EggFood
+430,6,4,EggFood
+430,25,2,Drinks
+430,27,2,Bakery
+430,21,3,Veg
+430,48,3,Bakery
+430,36,2,SeaFood
+430,8,2,Drinks
+431,22,3,Veg
+431,13,3,Drinks
+431,13,2,Drinks
+432,17,3,Bakery
+432,31,1,Non Veg
+432,11,4,Drinks
+433,21,1,Veg
+433,31,1,Non Veg
+433,1,4,EggFood
+434,14,4,Drinks
+434,32,1,SeaFood
+434,33,1,SeaFood
+434,41,1,Veg
+435,6,1,EggFood
+435,25,1,Drinks
+435,46,1,Veg
+436,38,1,Non Veg
+436,38,4,Non Veg
+436,2,3,Non Veg
+436,5,2,Non Veg
+436,41,1,Veg
+436,29,1,Non Veg
+436,11,1,Drinks
+437,27,1,Bakery
+437,47,1,Veg
+437,3,2,Non Veg
+437,3,4,Non Veg
+437,30,1,SeaFood
+437,28,2,Drinks
+437,7,4,Drinks
+437,20,3,Veg
+437,41,4,Veg
+437,41,4,Veg
+438,9,4,Drinks
+438,9,4,Drinks
+438,42,2,Non Veg
+438,10,3,Drinks
+438,44,2,Non Veg
+438,41,2,Veg
+439,6,3,EggFood
+439,48,4,Bakery
+439,45,4,Non Veg
+439,41,3,Veg
+439,41,4,Veg
+439,13,4,Drinks
+439,29,2,Non Veg
+440,22,4,Veg
+441,47,2,Veg
+441,33,3,SeaFood
+441,31,3,Non Veg
+442,39,3,Non Veg
+442,27,3,Bakery
+442,27,4,Bakery
+442,48,3,Bakery
+442,48,4,Bakery
+442,30,4,SeaFood
+442,7,2,Drinks
+442,32,2,SeaFood
+442,5,2,Non Veg
+442,40,1,Veg
+442,26,2,Drinks
+443,27,3,Bakery
+443,38,1,Non Veg
+443,13,2,Drinks
+444,19,3,Non Veg
+444,3,4,Non Veg
+444,14,2,Drinks
+444,4,4,Non Veg
+444,4,4,Non Veg
+444,4,2,Non Veg
+444,46,2,Veg
+444,36,2,SeaFood
+444,29,2,Non Veg
+445,47,1,Veg
+445,12,1,Drinks
+445,20,1,Veg
+445,8,2,Drinks
+446,22,2,Veg
+446,42,2,Non Veg
+446,21,1,Veg
+446,43,2,Veg
+446,28,3,Drinks
+446,5,1,Non Veg
+446,31,2,Non Veg
+446,18,2,Bakery
+447,6,4,EggFood
+447,34,3,SeaFood
+447,48,1,Bakery
+447,4,3,Non Veg
+447,15,1,Drinks
+448,39,3,Non Veg
+448,34,2,SeaFood
+448,12,3,Drinks
+449,25,1,Drinks
+449,34,2,SeaFood
+449,43,2,Veg
+449,7,1,Drinks
+449,24,3,Veg
+449,5,2,Non Veg
+449,35,2,SeaFood
+450,39,2,Non Veg
+450,48,4,Bakery
+450,5,3,Non Veg
+451,8,2,Drinks
+452,25,4,Drinks
+452,42,1,Non Veg
+452,18,4,Bakery
+453,6,3,EggFood
+453,22,1,Veg
+453,28,1,Drinks
+454,27,1,Bakery
+454,14,3,Drinks
+454,28,4,Drinks
+454,40,2,Veg
+454,35,4,SeaFood
+454,11,3,Drinks
+455,25,3,Drinks
+455,16,1,Drinks
+455,19,4,Non Veg
+455,9,1,Drinks
+455,3,3,Non Veg
+455,24,4,Veg
+455,45,1,Non Veg
+455,36,3,SeaFood
+456,34,4,SeaFood
+456,23,1,Veg
+456,15,3,Drinks
+456,29,2,Non Veg
+456,11,4,Drinks
+457,39,1,Non Veg
+458,21,1,Veg
+458,43,4,Veg
+458,36,4,SeaFood
+459,34,3,SeaFood
+459,43,1,Veg
+459,31,3,Non Veg
+460,6,4,EggFood
+460,22,2,Veg
+460,9,4,Drinks
+460,7,3,Drinks
+460,7,4,Drinks
+460,15,4,Drinks
+460,45,3,Non Veg
+461,28,4,Drinks
+461,12,3,Drinks
+461,20,1,Veg
+461,36,4,SeaFood
+462,25,3,Drinks
+462,19,1,Non Veg
+463,6,1,EggFood
+463,22,3,Veg
+463,27,2,Bakery
+463,17,2,Bakery
+463,14,2,Drinks
+463,43,4,Veg
+463,36,3,SeaFood
+464,47,3,Veg
+464,15,1,Drinks
+464,41,4,Veg
+464,26,4,Drinks
+465,16,1,Drinks
+465,2,3,Non Veg
+465,30,1,SeaFood
+465,46,2,Veg
+465,8,3,Drinks
+466,25,4,Drinks
+466,38,1,Non Veg
+466,4,1,Non Veg
+467,25,4,Drinks
+467,27,2,Bakery
+467,17,1,Bakery
+467,28,2,Drinks
+467,4,4,Non Veg
+467,32,3,SeaFood
+467,5,1,Non Veg
+468,25,2,Drinks
+468,17,4,Bakery
+468,38,4,Non Veg
+468,30,3,SeaFood
+468,4,4,Non Veg
+468,45,3,Non Veg
+468,41,2,Veg
+469,6,2,EggFood
+469,42,4,Non Veg
+469,48,4,Bakery
+469,23,3,Veg
+469,13,3,Drinks
+469,13,4,Drinks
+469,1,2,EggFood
+469,26,2,Drinks
+470,47,3,Veg
+470,4,1,Non Veg
+470,32,1,SeaFood
+471,6,1,EggFood
+471,25,1,Drinks
+471,47,3,Veg
+471,34,1,SeaFood
+471,32,2,SeaFood
+471,18,1,Bakery
+471,1,4,EggFood
+472,28,1,Drinks
+472,49,4,Non Veg
+473,47,3,Veg
+473,14,4,Drinks
+473,37,4,Veg
+473,24,3,Veg
+473,35,2,SeaFood
+474,29,3,Non Veg
+475,22,1,Veg
+475,17,2,Bakery
+475,17,1,Bakery
+475,2,3,Non Veg
+475,10,4,Drinks
+476,14,4,Drinks
+476,20,1,Veg
+476,49,1,Non Veg
+476,49,4,Non Veg
+476,5,3,Non Veg
+477,27,1,Bakery
+478,9,2,Drinks
+478,38,3,Non Veg
+478,30,3,SeaFood
+478,20,3,Veg
+478,32,4,SeaFood
+478,33,3,SeaFood
+478,33,4,SeaFood
+478,18,1,Bakery
+479,27,4,Bakery
+479,14,2,Drinks
+479,43,4,Veg
+480,19,2,Non Veg
+480,19,1,Non Veg
+480,19,2,Non Veg
+480,34,3,SeaFood
+480,12,3,Drinks
+480,33,2,SeaFood
+480,13,4,Drinks
+480,29,2,Non Veg
+480,11,1,Drinks
+481,9,1,Drinks
+481,38,3,Non Veg
+481,38,2,Non Veg
+481,12,3,Drinks
+481,40,2,Veg
+482,39,2,Non Veg
+482,25,4,Drinks
+482,17,4,Bakery
+482,37,1,Veg
+482,20,2,Veg
+482,45,1,Non Veg
+483,27,1,Bakery
+483,10,1,Drinks
+483,35,4,SeaFood
+483,11,2,Drinks
+484,2,2,Non Veg
+484,30,1,SeaFood
+484,31,2,Non Veg
+485,19,4,Non Veg
+485,9,2,Drinks
+485,28,1,Drinks
+485,46,2,Veg
+486,19,1,Non Veg
+486,3,1,Non Veg
+486,42,3,Non Veg
+486,42,1,Non Veg
+486,13,2,Drinks
+487,25,1,Drinks
+487,47,2,Veg
+487,14,4,Drinks
+487,10,1,Drinks
+487,43,4,Veg
+487,28,1,Drinks
+487,36,4,SeaFood
+487,8,2,Drinks
+487,35,4,SeaFood
+488,14,2,Drinks
+488,4,1,Non Veg
+488,24,2,Veg
+488,40,4,Veg
+489,25,4,Drinks
+489,19,2,Non Veg
+489,3,4,Non Veg
+489,37,2,Veg
+489,33,4,SeaFood
+489,35,4,SeaFood
+489,26,3,Drinks
+489,11,2,Drinks
+490,30,4,SeaFood
+490,15,4,Drinks
+490,13,2,Drinks
+490,35,2,SeaFood
+491,16,4,Drinks
+491,37,3,Veg
+491,20,4,Veg
+491,46,4,Veg
+491,45,2,Non Veg
+492,21,4,Veg
+492,21,3,Veg
+492,4,3,Non Veg
+493,39,3,Non Veg
+493,27,1,Bakery
+493,30,3,SeaFood
+493,10,4,Drinks
+494,25,1,Drinks
+494,4,4,Non Veg
+494,46,2,Veg
+494,31,4,Non Veg
+494,29,2,Non Veg
+495,38,3,Non Veg
+495,7,1,Drinks
+495,45,1,Non Veg
+495,36,4,SeaFood
+496,22,4,Veg
+496,16,3,Drinks
+496,43,2,Veg
+496,23,2,Veg
+496,32,2,SeaFood
+496,26,3,Drinks
+497,17,4,Bakery
+497,34,1,SeaFood
+497,2,2,Non Veg
+497,4,3,Non Veg
+497,24,4,Veg
+497,1,3,EggFood
+497,26,2,Drinks
+498,18,1,Bakery
+498,29,3,Non Veg
+499,19,1,Non Veg
+499,19,1,Non Veg
+499,31,1,Non Veg
+500,6,4,EggFood
+500,21,4,Veg
+500,23,3,Veg
+501,22,1,Veg
+501,9,2,Drinks
+501,10,2,Drinks
+501,37,4,Veg
+501,37,1,Veg
+501,4,3,Non Veg
+501,44,2,Non Veg
+501,40,2,Veg
+501,31,1,Non Veg
+501,18,4,Bakery
+501,35,4,SeaFood
+502,16,1,Drinks
+502,16,2,Drinks
+502,17,3,Bakery
+502,47,4,Veg
+502,23,1,Veg
+502,46,4,Veg
+502,5,2,Non Veg
+502,13,1,Drinks
+502,35,1,SeaFood
+502,1,1,EggFood
+503,39,3,Non Veg
+503,42,3,Non Veg
+503,2,4,Non Veg
+503,20,1,Veg
+503,5,3,Non Veg
+503,35,1,SeaFood
+503,35,4,SeaFood
+504,9,3,Drinks
+504,3,2,Non Veg
+504,21,3,Veg
+504,48,4,Bakery
+504,2,3,Non Veg
+504,43,3,Veg
+504,23,1,Veg
+505,16,1,Drinks
+505,3,4,Non Veg
+505,49,4,Non Veg
+505,46,2,Veg
+505,35,2,SeaFood
+506,19,4,Non Veg
+506,19,3,Non Veg
+506,23,4,Veg
+506,12,3,Drinks
+506,36,3,SeaFood
+506,8,2,Drinks
+506,35,1,SeaFood
+506,11,3,Drinks
+506,11,4,Drinks
+507,14,1,Drinks
+507,44,1,Non Veg
+507,15,1,Drinks
+508,14,3,Drinks
+508,37,4,Veg
+508,44,3,Non Veg
+508,33,4,SeaFood
+508,45,4,Non Veg
+508,18,4,Bakery
+509,6,3,EggFood
+509,38,2,Non Veg
+509,2,3,Non Veg
+509,28,4,Drinks
+509,37,2,Veg
+509,46,3,Veg
+509,5,4,Non Veg
+509,31,3,Non Veg
+509,18,3,Bakery
+509,29,4,Non Veg
+509,26,1,Drinks
+510,22,1,Veg
+510,42,4,Non Veg
+510,21,3,Veg
+510,43,3,Veg
+510,13,3,Drinks
+510,11,4,Drinks
+511,9,1,Drinks
+511,7,2,Drinks
+512,9,4,Drinks
+512,4,3,Non Veg
+513,6,4,EggFood
+513,27,4,Bakery
+513,18,1,Bakery
+514,19,4,Non Veg
+514,34,1,SeaFood
+514,26,4,Drinks
+515,47,4,Veg
+515,21,2,Veg
+515,28,4,Drinks
+515,20,4,Veg
+515,40,4,Veg
+515,8,4,Drinks
+516,6,3,EggFood
+516,22,4,Veg
+516,14,1,Drinks
+516,10,2,Drinks
+516,43,2,Veg
+516,12,2,Drinks
+516,24,3,Veg
+516,32,4,SeaFood
+517,22,2,Veg
+517,21,4,Veg
+517,37,3,Veg
+517,20,2,Veg
+518,30,4,SeaFood
+518,37,4,Veg
+518,1,2,EggFood
+518,29,3,Non Veg
+518,29,2,Non Veg
+519,48,1,Bakery
+519,2,2,Non Veg
+519,28,2,Drinks
+519,37,3,Veg
+519,32,2,SeaFood
+519,5,3,Non Veg
+519,13,4,Drinks
+520,3,1,Non Veg
+520,1,1,EggFood
+521,6,4,EggFood
+521,3,1,Non Veg
+521,42,1,Non Veg
+521,42,3,Non Veg
+521,23,4,Veg
+521,37,4,Veg
+521,24,4,Veg
+521,20,3,Veg
+521,5,2,Non Veg
+521,1,2,EggFood
+522,9,1,Drinks
+522,41,3,Veg
+523,19,2,Non Veg
+523,30,1,SeaFood
+523,49,2,Non Veg
+523,18,1,Bakery
+523,35,1,SeaFood
+524,6,3,EggFood
+524,41,4,Veg
+524,13,4,Drinks
+525,22,1,Veg
+525,27,1,Bakery
+525,47,3,Veg
+525,48,2,Bakery
+525,24,3,Veg
+525,20,4,Veg
+525,20,4,Veg
+525,45,1,Non Veg
+525,35,4,SeaFood
+526,6,3,EggFood
+526,16,1,Drinks
+526,9,4,Drinks
+526,12,4,Drinks
+526,49,4,Non Veg
+526,44,3,Non Veg
+526,44,2,Non Veg
+526,13,1,Drinks
+527,27,4,Bakery
+527,34,2,SeaFood
+527,36,4,SeaFood
+528,4,2,Non Veg
+528,20,3,Veg
+528,1,4,EggFood
+529,22,4,Veg
+529,10,2,Drinks
+529,10,4,Drinks
+529,15,2,Drinks
+529,5,1,Non Veg
+529,31,2,Non Veg
+529,18,2,Bakery
+529,29,3,Non Veg
+530,30,4,SeaFood
+530,44,1,Non Veg
+530,15,3,Drinks
+530,33,2,SeaFood
+530,33,2,SeaFood
+530,45,3,Non Veg
+530,41,1,Veg
+531,28,3,Drinks
+531,32,3,SeaFood
+531,13,4,Drinks
+531,31,4,Non Veg
+531,11,2,Drinks
+532,3,4,Non Veg
+532,48,3,Bakery
+532,49,4,Non Veg
+532,31,4,Non Veg
+532,18,2,Bakery
+533,47,1,Veg
+533,42,2,Non Veg
+533,42,2,Non Veg
+533,38,2,Non Veg
+533,46,1,Veg
+533,44,1,Non Veg
+533,5,3,Non Veg
+533,33,2,SeaFood
+533,8,2,Drinks
+534,9,1,Drinks
+534,3,4,Non Veg
+534,12,4,Drinks
+534,4,2,Non Veg
+534,13,2,Drinks
+535,16,4,Drinks
+535,17,4,Bakery
+535,12,4,Drinks
+535,4,2,Non Veg
+535,11,3,Drinks
+536,16,3,Drinks
+536,2,1,Non Veg
+536,49,2,Non Veg
+537,16,3,Drinks
+537,19,3,Non Veg
+537,38,3,Non Veg
+537,43,3,Veg
+537,23,1,Veg
+537,4,3,Non Veg
+537,49,3,Non Veg
+537,45,1,Non Veg
+538,16,4,Drinks
+538,19,1,Non Veg
+538,23,2,Veg
+538,49,3,Non Veg
+538,46,4,Veg
+538,41,1,Veg
+538,18,2,Bakery
+539,16,3,Drinks
+539,3,4,Non Veg
+539,43,3,Veg
+539,44,4,Non Veg
+539,45,3,Non Veg
+539,45,2,Non Veg
+539,45,3,Non Veg
+539,41,4,Veg
+539,35,4,SeaFood
+540,19,4,Non Veg
+540,36,3,SeaFood
+540,8,2,Drinks
+541,6,4,EggFood
+541,25,4,Drinks
+541,2,2,Non Veg
+541,12,2,Drinks
+541,7,1,Drinks
+542,38,2,Non Veg
+542,7,4,Drinks
+542,24,1,Veg
+542,49,2,Non Veg
+542,35,3,SeaFood
+543,23,2,Veg
+543,33,3,SeaFood
+543,41,4,Veg
+543,41,2,Veg
+544,39,1,Non Veg
+544,16,1,Drinks
+544,23,1,Veg
+544,7,1,Drinks
+544,18,1,Bakery
+544,26,4,Drinks
+544,11,4,Drinks
+545,38,4,Non Veg
+545,48,4,Bakery
+545,30,1,SeaFood
+545,46,1,Veg
+545,31,3,Non Veg
+546,30,3,SeaFood
+546,12,4,Drinks
+546,45,3,Non Veg
+546,45,3,Non Veg
+546,29,4,Non Veg
+547,9,1,Drinks
+547,14,2,Drinks
+547,33,1,SeaFood
+547,8,2,Drinks
+548,9,4,Drinks
+548,12,4,Drinks
+548,24,1,Veg
+548,46,3,Veg
+548,15,2,Drinks
+548,5,1,Non Veg
+549,39,2,Non Veg
+549,7,4,Drinks
+549,8,4,Drinks
+550,27,3,Bakery
+550,3,4,Non Veg
+550,21,1,Veg
+550,38,2,Non Veg
+550,37,1,Veg
+550,20,1,Veg
+550,13,2,Drinks
+550,18,2,Bakery
+550,29,1,Non Veg
+551,6,4,EggFood
+551,28,4,Drinks
+551,12,4,Drinks
+551,12,1,Drinks
+551,15,4,Drinks
+551,8,3,Drinks
+551,1,3,EggFood
+552,39,2,Non Veg
+552,28,3,Drinks
+552,31,2,Non Veg
+553,6,2,EggFood
+553,46,3,Veg
+553,46,4,Veg
+553,44,1,Non Veg
+553,40,4,Veg
+554,27,1,Bakery
+554,34,1,SeaFood
+554,48,3,Bakery
+554,45,1,Non Veg
+555,22,3,Veg
+555,27,4,Bakery
+555,17,3,Bakery
+555,14,4,Drinks
+555,21,3,Veg
+555,28,1,Drinks
+555,31,1,Non Veg
+556,3,3,Non Veg
+556,20,2,Veg
+557,22,2,Veg
+557,30,4,SeaFood
+557,20,2,Veg
+557,49,4,Non Veg
+557,29,1,Non Veg
+558,39,1,Non Veg
+558,27,1,Bakery
+558,20,3,Veg
+558,46,3,Veg
+558,40,2,Veg
+559,3,2,Non Veg
+559,14,3,Drinks
+559,2,2,Non Veg
+559,10,1,Drinks
+559,43,2,Veg
+559,28,4,Drinks
+559,45,4,Non Veg
+560,21,2,Veg
+560,36,2,SeaFood
+560,1,3,EggFood
+561,39,3,Non Veg
+561,45,3,Non Veg
+561,18,3,Bakery
+561,26,2,Drinks
+561,26,3,Drinks
+562,16,2,Drinks
+562,17,3,Bakery
+562,42,1,Non Veg
+562,38,1,Non Veg
+562,20,4,Veg
+562,46,2,Veg
+562,33,1,SeaFood
+562,40,4,Veg
+563,31,2,Non Veg
+564,48,1,Bakery
+564,2,3,Non Veg
+564,28,3,Drinks
+564,37,1,Veg
+564,33,4,SeaFood
+564,1,3,EggFood
+565,39,1,Non Veg
+565,19,3,Non Veg
+565,14,4,Drinks
+565,7,2,Drinks
+565,7,3,Drinks
+565,45,3,Non Veg
+565,36,1,SeaFood
+565,31,4,Non Veg
+566,28,1,Drinks
+566,12,4,Drinks
+567,34,4,SeaFood
+567,38,4,Non Veg
+567,23,4,Veg
+567,35,1,SeaFood
+568,27,4,Bakery
+568,17,3,Bakery
+568,30,2,SeaFood
+568,15,2,Drinks
+568,18,1,Bakery
+568,26,4,Drinks
+569,34,3,SeaFood
+569,34,2,SeaFood
+569,21,1,Veg
+569,41,2,Veg
+569,13,2,Drinks
+569,35,2,SeaFood
+569,35,3,SeaFood
+569,1,3,EggFood
+570,19,2,Non Veg
+570,42,2,Non Veg
+570,30,4,SeaFood
+570,10,1,Drinks
+570,24,2,Veg
+570,45,3,Non Veg
+570,29,2,Non Veg
+571,28,4,Drinks
+571,13,4,Drinks
+571,36,1,SeaFood
+571,18,1,Bakery
+572,14,3,Drinks
+572,45,1,Non Veg
+573,6,3,EggFood
+573,39,4,Non Veg
+573,27,3,Bakery
+573,12,3,Drinks
+573,7,2,Drinks
+573,4,3,Non Veg
+573,24,1,Veg
+573,20,2,Veg
+573,32,4,SeaFood
+573,32,3,SeaFood
+574,22,2,Veg
+574,27,4,Bakery
+574,3,2,Non Veg
+574,3,4,Non Veg
+574,42,4,Non Veg
+574,38,4,Non Veg
+574,12,4,Drinks
+574,7,2,Drinks
+574,44,4,Non Veg
+574,33,2,SeaFood
+574,45,3,Non Veg
+575,19,4,Non Veg
+575,9,4,Drinks
+575,12,4,Drinks
+575,15,1,Drinks
+575,15,4,Drinks
+575,41,3,Veg
+576,6,4,EggFood
+576,39,4,Non Veg
+576,48,1,Bakery
+576,43,4,Veg
+576,20,4,Veg
+576,46,1,Veg
+576,11,4,Drinks
+577,3,2,Non Veg
+577,48,4,Bakery
+577,20,2,Veg
+577,41,4,Veg
+577,41,2,Veg
+578,6,4,EggFood
+578,3,2,Non Veg
+578,2,1,Non Veg
+578,23,4,Veg
+579,19,4,Non Veg
+579,14,2,Drinks
+579,23,2,Veg
+579,20,3,Veg
+579,20,1,Veg
+579,49,4,Non Veg
+579,1,3,EggFood
+580,25,4,Drinks
+580,47,4,Veg
+580,43,1,Veg
+580,41,1,Veg
+580,13,3,Drinks
+580,8,1,Drinks
+580,1,3,EggFood
+581,9,4,Drinks
+581,3,3,Non Veg
+581,34,3,SeaFood
+581,38,3,Non Veg
+581,35,1,SeaFood
+582,42,2,Non Veg
+582,7,4,Drinks
+582,20,3,Veg
+582,20,3,Veg
+582,18,2,Bakery
+583,27,4,Bakery
+583,9,4,Drinks
+583,10,2,Drinks
+583,43,4,Veg
+583,23,4,Veg
+584,22,3,Veg
+584,42,4,Non Veg
+584,20,1,Veg
+584,44,2,Non Veg
+584,44,3,Non Veg
+584,41,4,Veg
+584,11,4,Drinks
+585,39,1,Non Veg
+585,10,4,Drinks
+585,45,3,Non Veg
+585,8,3,Drinks
+585,18,3,Bakery
+585,1,3,EggFood
+585,11,3,Drinks
+586,6,4,EggFood
+586,9,3,Drinks
+586,3,1,Non Veg
+586,43,1,Veg
+586,23,2,Veg
+586,32,2,SeaFood
+587,6,3,EggFood
+587,16,1,Drinks
+587,9,2,Drinks
+587,32,1,SeaFood
+587,33,2,SeaFood
+587,31,4,Non Veg
+588,20,2,Veg
+588,44,1,Non Veg
+588,31,3,Non Veg
+589,39,4,Non Veg
+589,9,2,Drinks
+589,2,4,Non Veg
+589,7,1,Drinks
+590,22,4,Veg
+590,47,2,Veg
+590,7,2,Drinks
+590,15,2,Drinks
+590,5,4,Non Veg
+590,8,3,Drinks
+590,26,1,Drinks
+590,11,4,Drinks
+590,11,4,Drinks
+591,6,1,EggFood
+591,6,2,EggFood
+591,27,3,Bakery
+591,19,1,Non Veg
+591,21,3,Veg
+591,43,4,Veg
+591,32,2,SeaFood
+591,36,1,SeaFood
+591,31,1,Non Veg
+591,35,1,SeaFood
+591,29,1,Non Veg
+592,14,1,Drinks
+592,12,1,Drinks
+592,20,3,Veg
+592,44,2,Non Veg
+592,45,3,Non Veg
+592,36,3,SeaFood
+592,11,4,Drinks
+593,39,2,Non Veg
+593,30,2,SeaFood
+593,45,1,Non Veg
+594,4,2,Non Veg
+595,42,2,Non Veg
+595,2,2,Non Veg
+595,31,1,Non Veg
+595,11,2,Drinks
+596,19,3,Non Veg
+596,17,3,Bakery
+596,34,3,SeaFood
+596,20,4,Veg
+596,45,1,Non Veg
+596,45,4,Non Veg
+597,27,2,Bakery
+597,30,1,SeaFood
+597,43,3,Veg
+597,28,4,Drinks
+597,12,4,Drinks
+598,43,2,Veg
+598,12,4,Drinks
+598,7,1,Drinks
+598,45,3,Non Veg
+598,11,2,Drinks
+599,17,1,Bakery
+599,9,3,Drinks
+599,23,1,Veg
+599,46,1,Veg
+599,44,1,Non Veg
+600,3,1,Non Veg
+600,10,1,Drinks
+600,4,1,Non Veg
+600,32,3,SeaFood
+600,46,1,Veg
+600,41,3,Veg
+600,26,1,Drinks
+601,9,3,Drinks
+601,9,2,Drinks
+601,14,1,Drinks
+601,43,1,Veg
+601,4,2,Non Veg
+601,32,3,SeaFood
+601,36,1,SeaFood
+601,36,4,SeaFood
+602,3,1,Non Veg
+602,2,1,Non Veg
+602,30,1,SeaFood
+602,37,3,Veg
+602,32,2,SeaFood
+602,44,4,Non Veg
+603,40,2,Veg
+603,41,1,Veg
+603,8,3,Drinks
+603,29,1,Non Veg
+604,27,4,Bakery
+604,17,3,Bakery
+604,38,2,Non Veg
+604,44,1,Non Veg
+604,44,4,Non Veg
+604,33,3,SeaFood
+604,40,3,Veg
+604,40,2,Veg
+604,29,3,Non Veg
+605,17,2,Bakery
+605,38,3,Non Veg
+605,7,3,Drinks
+605,24,4,Veg
+605,15,4,Drinks
+605,41,3,Veg
+606,16,3,Drinks
+606,2,1,Non Veg
+606,30,1,SeaFood
+606,12,4,Drinks
+606,49,1,Non Veg
+606,11,1,Drinks
+607,16,4,Drinks
+607,34,3,SeaFood
+607,21,3,Veg
+607,24,4,Veg
+607,20,1,Veg
+607,33,4,SeaFood
+608,6,3,EggFood
+608,18,3,Bakery
+609,16,4,Drinks
+609,19,4,Non Veg
+609,32,1,SeaFood
+609,1,1,EggFood
+609,26,1,Drinks
+610,34,2,SeaFood
+610,48,1,Bakery
+610,43,1,Veg
+610,49,4,Non Veg
+610,32,2,SeaFood
+610,15,3,Drinks
+610,33,2,SeaFood
+610,41,1,Veg
+611,22,2,Veg
+611,3,3,Non Veg
+611,21,4,Veg
+611,32,3,SeaFood
+612,43,4,Veg
+612,4,1,Non Veg
+612,32,2,SeaFood
+612,26,1,Drinks
+613,27,2,Bakery
+613,20,1,Veg
+613,32,2,SeaFood
+613,8,2,Drinks
+613,31,1,Non Veg
+613,26,2,Drinks
+613,11,3,Drinks
+614,14,3,Drinks
+614,45,3,Non Veg
+615,25,1,Drinks
+615,17,4,Bakery
+615,9,1,Drinks
+615,34,1,SeaFood
+615,2,3,Non Veg
+615,43,4,Veg
+615,13,3,Drinks
+615,36,4,SeaFood
+615,1,1,EggFood
+616,39,3,Non Veg
+616,21,3,Veg
+616,24,3,Veg
+616,1,1,EggFood
+617,6,4,EggFood
+617,3,1,Non Veg
+617,43,1,Veg
+617,5,2,Non Veg
+617,8,4,Drinks
+617,11,3,Drinks
+618,39,4,Non Veg
+618,43,4,Veg
+618,49,2,Non Veg
+618,49,1,Non Veg
+618,13,3,Drinks
+618,31,4,Non Veg
+618,29,1,Non Veg
+619,17,4,Bakery
+619,5,3,Non Veg
+620,18,1,Bakery
+621,16,2,Drinks
+621,14,4,Drinks
+621,10,2,Drinks
+621,37,4,Veg
+621,37,3,Veg
+621,46,1,Veg
+622,47,1,Veg
+622,21,1,Veg
+622,30,2,SeaFood
+622,49,1,Non Veg
+622,40,4,Veg
+622,11,3,Drinks
+622,11,2,Drinks
+623,6,3,EggFood
+623,25,4,Drinks
+623,25,2,Drinks
+623,25,3,Drinks
+623,27,4,Bakery
+623,12,3,Drinks
+623,7,4,Drinks
+623,46,1,Veg
+623,45,2,Non Veg
+623,41,1,Veg
+623,35,4,SeaFood
+623,1,4,EggFood
+624,22,1,Veg
+624,42,4,Non Veg
+624,14,1,Drinks
+624,2,2,Non Veg
+624,44,4,Non Veg
+624,33,2,SeaFood
+624,45,4,Non Veg
+624,40,3,Veg
+624,13,3,Drinks
+625,25,2,Drinks
+625,10,1,Drinks
+625,5,1,Non Veg
+625,41,3,Veg
+625,35,1,SeaFood
+626,13,1,Drinks
+627,19,1,Non Veg
+627,4,2,Non Veg
+627,36,2,SeaFood
+627,31,2,Non Veg
+628,12,1,Drinks
+628,32,2,SeaFood
+629,22,3,Veg
+629,9,3,Drinks
+629,14,4,Drinks
+629,8,3,Drinks
+630,39,2,Non Veg
+630,21,1,Veg
+630,4,4,Non Veg
+630,24,3,Veg
+630,45,3,Non Veg
+630,11,3,Drinks
+631,22,2,Veg
+631,25,4,Drinks
+631,21,2,Veg
+631,24,2,Veg
+631,5,4,Non Veg
+632,27,4,Bakery
+632,42,1,Non Veg
+632,46,3,Veg
+632,41,1,Veg
+632,18,4,Bakery
+633,34,4,SeaFood
+633,45,1,Non Veg
+633,13,1,Drinks
+633,13,4,Drinks
+633,36,1,SeaFood
+633,36,4,SeaFood
+633,8,4,Drinks
+634,22,1,Veg
+634,22,4,Veg
+634,30,1,SeaFood
+634,30,3,SeaFood
+634,30,1,SeaFood
+634,5,2,Non Veg
+634,41,1,Veg
+635,6,2,EggFood
+635,38,4,Non Veg
+635,2,3,Non Veg
+635,4,3,Non Veg
+635,49,2,Non Veg
+635,41,4,Veg
+635,8,2,Drinks
+635,11,4,Drinks
+636,34,1,SeaFood
+636,20,3,Veg
+636,49,2,Non Veg
+636,18,4,Bakery
+636,29,4,Non Veg
+637,39,2,Non Veg
+637,39,2,Non Veg
+637,16,1,Drinks
+637,41,3,Veg
+638,3,4,Non Veg
+638,42,1,Non Veg
+638,43,3,Veg
+638,40,3,Veg
+638,36,4,SeaFood
+638,1,4,EggFood
+639,6,2,EggFood
+639,19,1,Non Veg
+639,7,3,Drinks
+639,46,3,Veg
+639,8,3,Drinks
+639,18,4,Bakery
+640,42,1,Non Veg
+641,22,1,Veg
+641,25,2,Drinks
+641,47,1,Veg
+641,7,1,Drinks
+642,3,3,Non Veg
+642,40,2,Veg
+643,22,4,Veg
+643,3,4,Non Veg
+643,15,1,Drinks
+643,8,1,Drinks
+644,39,2,Non Veg
+644,39,3,Non Veg
+644,21,4,Veg
+644,32,4,SeaFood
+644,18,1,Bakery
+645,49,3,Non Veg
+645,49,2,Non Veg
+645,44,4,Non Veg
+645,5,3,Non Veg
+645,33,1,SeaFood
+646,17,2,Bakery
+646,20,3,Veg
+646,32,1,SeaFood
+647,22,1,Veg
+647,39,3,Non Veg
+647,17,4,Bakery
+647,9,4,Drinks
+647,4,2,Non Veg
+647,5,2,Non Veg
+647,5,1,Non Veg
+647,13,3,Drinks
+648,47,4,Veg
+648,3,4,Non Veg
+649,19,1,Non Veg
+649,17,1,Bakery
+649,20,2,Veg
+649,46,4,Veg
+649,41,4,Veg
+649,13,1,Drinks
+650,9,1,Drinks
+650,12,1,Drinks
+650,20,4,Veg
+651,27,3,Bakery
+651,27,2,Bakery
+651,17,1,Bakery
+651,28,3,Drinks
+651,28,4,Drinks
+651,23,2,Veg
+651,37,4,Veg
+651,4,4,Non Veg
+651,46,3,Veg
+651,46,2,Veg
+651,31,1,Non Veg
+652,39,2,Non Veg
+652,27,4,Bakery
+652,40,2,Veg
+652,40,2,Veg
+653,7,1,Drinks
+653,46,4,Veg
+653,26,2,Drinks
+654,25,3,Drinks
+654,16,3,Drinks
+654,10,1,Drinks
+654,43,2,Veg
+654,41,1,Veg
+654,35,3,SeaFood
+655,16,4,Drinks
+655,16,1,Drinks
+655,27,1,Bakery
+655,34,2,SeaFood
+655,15,2,Drinks
+655,18,3,Bakery
+656,16,2,Drinks
+656,12,2,Drinks
+656,49,1,Non Veg
+656,44,1,Non Veg
+656,31,1,Non Veg
+657,34,4,SeaFood
+658,42,2,Non Veg
+658,42,1,Non Veg
+658,12,3,Drinks
+658,41,3,Veg
+658,29,3,Non Veg
+658,26,2,Drinks
+659,21,2,Veg
+659,46,1,Veg
+660,22,4,Veg
+660,10,4,Drinks
+660,33,1,SeaFood
+661,16,4,Drinks
+661,42,4,Non Veg
+661,33,2,SeaFood
+662,34,4,SeaFood
+662,10,2,Drinks
+662,24,1,Veg
+662,46,2,Veg
+662,8,4,Drinks
+663,21,3,Veg
+663,24,1,Veg
+663,35,2,SeaFood
+664,21,1,Veg
+664,43,1,Veg
+664,12,2,Drinks
+664,8,4,Drinks
+664,26,4,Drinks
+665,27,3,Bakery
+665,19,1,Non Veg
+665,3,1,Non Veg
+665,48,2,Bakery
+665,2,3,Non Veg
+665,28,4,Drinks
+665,33,2,SeaFood
+665,41,2,Veg
+666,6,2,EggFood
+666,3,2,Non Veg
+666,34,3,SeaFood
+666,23,2,Veg
+666,8,4,Drinks
+666,35,1,SeaFood
+667,27,3,Bakery
+667,14,2,Drinks
+667,21,2,Veg
+667,2,1,Non Veg
+667,30,4,SeaFood
+667,4,1,Non Veg
+667,32,3,SeaFood
+668,19,1,Non Veg
+668,17,3,Bakery
+668,42,2,Non Veg
+668,46,3,Veg
+668,40,1,Veg
+668,29,4,Non Veg
+669,25,1,Drinks
+669,27,1,Bakery
+669,42,2,Non Veg
+669,32,3,SeaFood
+669,13,2,Drinks
+670,25,2,Drinks
+670,3,2,Non Veg
+670,42,1,Non Veg
+670,42,2,Non Veg
+670,32,2,SeaFood
+670,36,1,SeaFood
+670,18,4,Bakery
+671,46,2,Veg
+671,29,3,Non Veg
+672,30,1,SeaFood
+672,20,4,Veg
+672,20,1,Veg
+672,31,1,Non Veg
+672,29,2,Non Veg
+673,25,4,Drinks
+673,27,3,Bakery
+673,47,1,Veg
+673,9,2,Drinks
+673,38,2,Non Veg
+673,46,4,Veg
+673,29,1,Non Veg
+674,22,4,Veg
+674,34,1,SeaFood
+674,24,4,Veg
+674,35,4,SeaFood
+675,35,1,SeaFood
+675,11,3,Drinks
+676,9,2,Drinks
+676,3,1,Non Veg
+676,38,3,Non Veg
+676,5,1,Non Veg
+677,14,2,Drinks
+677,48,4,Bakery
+677,37,3,Veg
+677,35,2,SeaFood
+677,1,3,EggFood
+678,25,2,Drinks
+678,3,3,Non Veg
+678,23,4,Veg
+678,20,3,Veg
+678,32,4,SeaFood
+678,15,3,Drinks
+678,45,2,Non Veg
+678,40,2,Veg
+679,25,2,Drinks
+679,27,1,Bakery
+679,47,2,Veg
+679,42,4,Non Veg
+679,10,4,Drinks
+679,12,1,Drinks
+679,20,2,Veg
+679,49,2,Non Veg
+679,18,2,Bakery
+680,19,4,Non Veg
+680,21,3,Veg
+680,4,2,Non Veg
+680,26,4,Drinks
+681,27,4,Bakery
+681,21,4,Veg
+681,30,3,SeaFood
+681,10,4,Drinks
+681,43,2,Veg
+681,49,4,Non Veg
+681,49,1,Non Veg
+681,15,4,Drinks
+682,30,4,SeaFood
+682,23,4,Veg
+682,44,4,Non Veg
+682,13,3,Drinks
+682,35,3,SeaFood
+683,31,3,Non Veg
+684,13,3,Drinks
+684,31,4,Non Veg
+685,25,3,Drinks
+685,4,3,Non Veg
+685,8,1,Drinks
+686,19,1,Non Veg
+686,9,4,Drinks
+686,30,2,SeaFood
+686,37,3,Veg
+686,12,4,Drinks
+686,35,3,SeaFood
+687,9,3,Drinks
+687,31,2,Non Veg
+688,22,3,Veg
+688,3,2,Non Veg
+688,21,1,Veg
+688,38,3,Non Veg
+688,43,1,Veg
+688,23,1,Veg
+688,12,3,Drinks
+688,41,4,Veg
+688,36,2,SeaFood
+689,19,4,Non Veg
+690,22,2,Veg
+690,42,3,Non Veg
+690,10,3,Drinks
+690,32,3,SeaFood
+690,36,3,SeaFood
+690,8,2,Drinks
+691,37,1,Veg
+691,44,2,Non Veg
+691,36,2,SeaFood
+692,16,2,Drinks
+692,19,4,Non Veg
+692,17,3,Bakery
+692,40,3,Veg
+693,10,3,Drinks
+693,28,3,Drinks
+693,41,1,Veg
+693,36,2,SeaFood
+693,29,4,Non Veg
+694,47,1,Veg
+694,21,4,Veg
+694,37,2,Veg
+694,32,3,SeaFood
+694,36,3,SeaFood
+695,16,1,Drinks
+695,7,1,Drinks
+695,32,4,SeaFood
+696,27,3,Bakery
+696,19,3,Non Veg
+696,34,1,SeaFood
+696,38,1,Non Veg
+696,38,3,Non Veg
+696,46,2,Veg
+696,13,3,Drinks
+697,16,2,Drinks
+697,19,3,Non Veg
+697,15,1,Drinks
+698,43,4,Veg
+698,5,2,Non Veg
+698,45,3,Non Veg
+698,41,4,Veg
+699,25,2,Drinks
+699,10,1,Drinks
+699,43,3,Veg
+699,28,1,Drinks
+699,28,2,Drinks
+699,20,4,Veg
+699,40,1,Veg
+699,41,2,Veg
+699,36,1,SeaFood
+700,25,3,Drinks
+700,47,4,Veg
+700,9,1,Drinks
+700,3,4,Non Veg
+700,32,1,SeaFood
+700,44,2,Non Veg
+701,22,3,Veg
+701,3,3,Non Veg
+701,34,4,SeaFood
+701,14,4,Drinks
+701,2,3,Non Veg
+701,20,3,Veg
+701,44,4,Non Veg
+702,47,3,Veg
+702,42,4,Non Veg
+702,23,4,Veg
+702,4,2,Non Veg
+702,45,4,Non Veg
+702,40,3,Veg
+703,17,1,Bakery
+703,38,1,Non Veg
+703,24,2,Veg
+703,41,2,Veg
+703,41,3,Veg
+703,36,3,SeaFood
+704,39,1,Non Veg
+704,47,4,Veg
+704,3,2,Non Veg
+704,42,2,Non Veg
+704,42,1,Non Veg
+704,34,3,SeaFood
+704,14,1,Drinks
+704,23,3,Veg
+704,5,4,Non Veg
+704,40,3,Veg
+704,11,2,Drinks
+705,25,1,Drinks
+705,2,2,Non Veg
+705,40,2,Veg
+705,36,1,SeaFood
+706,16,1,Drinks
+706,3,1,Non Veg
+706,48,4,Bakery
+706,35,4,SeaFood
+706,1,3,EggFood
+707,19,4,Non Veg
+707,17,3,Bakery
+707,21,3,Veg
+707,45,2,Non Veg
+708,44,1,Non Veg
+708,8,1,Drinks
+709,12,2,Drinks
+709,7,4,Drinks
+709,29,2,Non Veg
+710,17,3,Bakery
+710,9,2,Drinks
+710,48,1,Bakery
+710,30,3,SeaFood
+710,20,1,Veg
+711,6,4,EggFood
+711,16,1,Drinks
+711,34,4,SeaFood
+711,48,1,Bakery
+711,31,2,Non Veg
+712,19,1,Non Veg
+712,17,3,Bakery
+712,38,1,Non Veg
+713,6,2,EggFood
+713,17,3,Bakery
+713,2,1,Non Veg
+713,36,3,SeaFood
+713,26,1,Drinks
+714,20,3,Veg
+714,32,1,SeaFood
+714,33,3,SeaFood
+714,8,3,Drinks
+714,31,1,Non Veg
+714,26,1,Drinks
+715,16,2,Drinks
+715,2,2,Non Veg
+715,20,4,Veg
+715,49,1,Non Veg
+716,6,4,EggFood
+716,17,4,Bakery
+716,3,4,Non Veg
+716,37,3,Veg
+716,4,1,Non Veg
+716,46,2,Veg
+716,18,2,Bakery
+717,27,2,Bakery
+717,17,2,Bakery
+717,21,2,Veg
+717,30,4,SeaFood
+717,30,1,SeaFood
+717,13,1,Drinks
+717,8,3,Drinks
+717,35,4,SeaFood
+718,39,4,Non Veg
+718,3,1,Non Veg
+718,46,1,Veg
+718,31,2,Non Veg
+719,45,1,Non Veg
+719,41,3,Veg
+719,8,3,Drinks
+719,29,4,Non Veg
+720,30,4,SeaFood
+720,13,4,Drinks
+720,1,3,EggFood
+720,11,4,Drinks
+721,39,3,Non Veg
+721,9,1,Drinks
+722,6,4,EggFood
+722,16,1,Drinks
+722,2,2,Non Veg
+722,43,2,Veg
+722,35,4,SeaFood
+723,10,1,Drinks
+723,43,3,Veg
+723,7,4,Drinks
+723,5,2,Non Veg
+724,10,4,Drinks
+724,46,4,Veg
+724,15,3,Drinks
+724,18,1,Bakery
+724,26,2,Drinks
+725,14,1,Drinks
+725,21,4,Veg
+725,12,4,Drinks
+725,49,2,Non Veg
+725,31,4,Non Veg
+726,21,2,Veg
+726,10,1,Drinks
+726,23,3,Veg
+726,23,2,Veg
+726,26,4,Drinks
+727,22,2,Veg
+727,16,2,Drinks
+727,38,2,Non Veg
+727,30,4,SeaFood
+727,4,3,Non Veg
+727,13,4,Drinks
+727,18,3,Bakery
+728,27,1,Bakery
+728,48,4,Bakery
+728,23,1,Veg
+729,18,2,Bakery
+730,9,1,Drinks
+730,12,2,Drinks
+730,12,3,Drinks
+730,20,3,Veg
+731,27,1,Bakery
+731,38,4,Non Veg
+731,38,2,Non Veg
+731,23,3,Veg
+731,8,3,Drinks
+731,29,3,Non Veg
+732,3,1,Non Veg
+732,2,3,Non Veg
+732,10,1,Drinks
+732,28,4,Drinks
+732,49,1,Non Veg
+732,45,4,Non Veg
+733,39,1,Non Veg
+733,9,4,Drinks
+733,38,4,Non Veg
+734,38,1,Non Veg
+734,10,1,Drinks
+734,44,3,Non Veg
+734,15,3,Drinks
+735,19,1,Non Veg
+735,42,1,Non Veg
+735,2,4,Non Veg
+735,7,3,Drinks
+735,13,2,Drinks
+735,29,1,Non Veg
+735,26,4,Drinks
+736,27,3,Bakery
+736,34,4,SeaFood
+736,37,4,Veg
+736,5,2,Non Veg
+737,12,3,Drinks
+737,33,2,SeaFood
+737,45,1,Non Veg
+737,41,2,Veg
+737,29,2,Non Veg
+738,37,1,Veg
+738,24,2,Veg
+738,29,2,Non Veg
+739,25,2,Drinks
+739,47,1,Veg
+739,30,1,SeaFood
+739,5,3,Non Veg
+739,11,1,Drinks
+740,13,3,Drinks
+740,11,3,Drinks
+741,16,1,Drinks
+741,24,4,Veg
+741,32,3,SeaFood
+741,45,2,Non Veg
+742,43,1,Veg
+742,41,3,Veg
+743,17,1,Bakery
+743,42,2,Non Veg
+743,46,1,Veg
+743,40,3,Veg
+744,3,3,Non Veg
+744,7,3,Drinks
+745,6,3,EggFood
+745,25,3,Drinks
+745,25,4,Drinks
+745,47,4,Veg
+745,37,4,Veg
+745,37,2,Veg
+745,7,4,Drinks
+745,5,3,Non Veg
+745,35,3,SeaFood
+745,11,2,Drinks
+746,39,4,Non Veg
+746,28,3,Drinks
+746,15,1,Drinks
+746,36,4,SeaFood
+747,39,2,Non Veg
+747,16,2,Drinks
+747,14,4,Drinks
+747,38,4,Non Veg
+747,37,2,Veg
+747,8,2,Drinks
+748,25,4,Drinks
+748,19,3,Non Veg
+748,37,1,Veg
+748,37,4,Veg
+748,24,4,Veg
+748,49,4,Non Veg
+749,25,1,Drinks
+749,27,1,Bakery
+749,27,4,Bakery
+749,49,4,Non Veg
+749,41,4,Veg
+749,29,2,Non Veg
+750,3,3,Non Veg
+750,34,4,SeaFood
+750,4,3,Non Veg
+750,45,4,Non Veg
+750,40,1,Veg
+751,16,1,Drinks
+751,19,3,Non Veg
+751,12,2,Drinks
+751,49,3,Non Veg
+751,40,3,Veg
+751,8,1,Drinks
+751,35,1,SeaFood
+751,11,1,Drinks
+752,14,1,Drinks
+752,48,1,Bakery
+752,23,3,Veg
+752,20,2,Veg
+752,46,2,Veg
+752,33,1,SeaFood
+752,40,4,Veg
+752,8,4,Drinks
+753,25,2,Drinks
+753,17,2,Bakery
+753,47,1,Veg
+753,47,4,Veg
+753,34,1,SeaFood
+753,21,3,Veg
+753,48,1,Bakery
+753,7,2,Drinks
+753,32,1,SeaFood
+753,45,1,Non Veg
+753,8,1,Drinks
+753,8,3,Drinks
+754,17,3,Bakery
+754,23,1,Veg
+754,12,2,Drinks
+754,1,4,EggFood
+755,47,4,Veg
+755,3,1,Non Veg
+755,42,3,Non Veg
+755,23,4,Veg
+755,44,1,Non Veg
+755,45,2,Non Veg
+756,9,2,Drinks
+756,14,2,Drinks
+756,10,2,Drinks
+756,37,3,Veg
+756,31,1,Non Veg
+756,35,2,SeaFood
+757,25,3,Drinks
+757,17,1,Bakery
+757,28,2,Drinks
+757,23,2,Veg
+757,32,1,SeaFood
+757,41,4,Veg
+758,16,1,Drinks
+758,27,2,Bakery
+758,47,1,Veg
+758,28,1,Drinks
+758,44,2,Non Veg
+758,45,3,Non Veg
+759,35,3,SeaFood
+759,1,3,EggFood
+760,6,4,EggFood
+760,38,1,Non Veg
+760,10,2,Drinks
+760,10,3,Drinks
+760,23,2,Veg
+760,4,4,Non Veg
+760,4,2,Non Veg
+760,18,2,Bakery
+760,35,1,SeaFood
+761,34,1,SeaFood
+761,30,4,SeaFood
+761,28,2,Drinks
+761,32,4,SeaFood
+761,5,1,Non Veg
+761,35,1,SeaFood
+761,35,4,SeaFood
+761,29,1,Non Veg
+762,6,3,EggFood
+762,28,1,Drinks
+762,28,4,Drinks
+762,36,2,SeaFood
+762,11,4,Drinks
+763,25,4,Drinks
+763,38,3,Non Veg
+763,23,4,Veg
+763,32,4,SeaFood
+763,33,2,SeaFood
+764,9,3,Drinks
+764,21,1,Veg
+764,49,4,Non Veg
+764,15,1,Drinks
+764,29,1,Non Veg
+765,3,1,Non Veg
+765,3,1,Non Veg
+765,42,1,Non Veg
+765,49,3,Non Veg
+765,46,4,Veg
+765,13,2,Drinks
+765,18,4,Bakery
+765,35,2,SeaFood
+765,29,4,Non Veg
+766,25,4,Drinks
+766,47,4,Veg
+766,9,4,Drinks
+766,30,4,SeaFood
+766,28,1,Drinks
+766,20,1,Veg
+766,35,3,SeaFood
+767,2,1,Non Veg
+767,37,2,Veg
+767,24,3,Veg
+767,24,3,Veg
+767,49,2,Non Veg
+767,49,3,Non Veg
+768,6,2,EggFood
+768,47,3,Veg
+768,9,1,Drinks
+768,37,3,Veg
+768,20,4,Veg
+768,49,4,Non Veg
+768,33,4,SeaFood
+768,29,1,Non Veg
+769,39,4,Non Veg
+769,48,4,Bakery
+769,28,4,Drinks
+769,28,4,Drinks
+769,24,2,Veg
+769,15,3,Drinks
+769,5,1,Non Veg
+769,40,4,Veg
+770,39,2,Non Veg
+770,25,2,Drinks
+770,16,3,Drinks
+770,30,4,SeaFood
+770,43,1,Veg
+770,23,4,Veg
+770,15,1,Drinks
+771,47,2,Veg
+771,42,1,Non Veg
+771,38,3,Non Veg
+771,32,3,SeaFood
+771,45,2,Non Veg
+772,25,3,Drinks
+772,9,4,Drinks
+772,20,4,Veg
+772,32,1,SeaFood
+772,13,2,Drinks
+772,26,1,Drinks
+773,25,3,Drinks
+773,4,1,Non Veg
+773,4,1,Non Veg
+773,36,2,SeaFood
+774,24,2,Veg
+774,49,3,Non Veg
+774,18,2,Bakery
+775,6,4,EggFood
+775,3,4,Non Veg
+775,48,1,Bakery
+775,24,3,Veg
+775,32,4,SeaFood
+775,45,2,Non Veg
+776,25,4,Drinks
+776,25,3,Drinks
+776,25,3,Drinks
+776,30,1,SeaFood
+776,28,2,Drinks
+776,23,3,Veg
+776,31,2,Non Veg
+777,38,3,Non Veg
+777,48,4,Bakery
+777,46,4,Veg
+777,44,4,Non Veg
+777,41,3,Veg
+777,13,4,Drinks
+777,13,1,Drinks
+777,35,3,SeaFood
+778,6,3,EggFood
+778,27,3,Bakery
+778,43,4,Veg
+779,19,2,Non Veg
+779,3,4,Non Veg
+779,14,2,Drinks
+779,2,1,Non Veg
+779,23,3,Veg
+779,12,3,Drinks
+779,32,3,SeaFood
+779,45,3,Non Veg
+780,25,3,Drinks
+780,42,4,Non Veg
+780,7,2,Drinks
+780,49,1,Non Veg
+780,33,3,SeaFood
+780,45,1,Non Veg
+781,13,1,Drinks
+782,17,1,Bakery
+782,37,2,Veg
+782,18,3,Bakery
+782,1,2,EggFood
+783,31,3,Non Veg
+784,42,3,Non Veg
+784,34,2,SeaFood
+784,21,1,Veg
+784,38,1,Non Veg
+784,43,3,Veg
+784,28,4,Drinks
+784,24,1,Veg
+784,49,1,Non Veg
+784,33,3,SeaFood
+784,13,3,Drinks
+784,31,4,Non Veg
+784,29,3,Non Veg
+785,6,4,EggFood
+785,17,3,Bakery
+785,34,3,SeaFood
+785,34,3,SeaFood
+785,2,2,Non Veg
+785,2,1,Non Veg
+785,32,3,SeaFood
+785,5,2,Non Veg
+785,33,2,SeaFood
+786,22,1,Veg
+786,39,2,Non Veg
+786,49,3,Non Veg
+786,44,4,Non Veg
+787,9,4,Drinks
+787,23,2,Veg
+787,7,1,Drinks
+787,33,1,SeaFood
+787,13,4,Drinks
+787,36,3,SeaFood
+788,3,1,Non Veg
+788,43,1,Veg
+788,26,2,Drinks
+789,9,3,Drinks
+789,48,1,Bakery
+789,4,3,Non Veg
+789,24,4,Veg
+789,15,3,Drinks
+789,13,1,Drinks
+789,18,2,Bakery
+789,26,2,Drinks
+790,3,3,Non Veg
+790,10,2,Drinks
+790,32,3,SeaFood
+790,18,2,Bakery
+791,19,3,Non Veg
+791,9,3,Drinks
+791,7,2,Drinks
+791,32,4,SeaFood
+792,14,1,Drinks
+792,7,1,Drinks
+792,18,1,Bakery
+793,48,1,Bakery
+793,30,2,SeaFood
+793,15,3,Drinks
+793,11,1,Drinks
+794,9,4,Drinks
+794,30,3,SeaFood
+794,7,2,Drinks
+794,32,1,SeaFood
+794,36,4,SeaFood
+794,31,4,Non Veg
+795,14,4,Drinks
+795,12,4,Drinks
+795,15,3,Drinks
+795,40,3,Veg
+796,38,2,Non Veg
+796,48,3,Bakery
+796,36,2,SeaFood
+796,26,2,Drinks
+797,39,3,Non Veg
+797,16,3,Drinks
+797,48,2,Bakery
+797,12,2,Drinks
+797,49,3,Non Veg
+797,26,4,Drinks
+798,27,4,Bakery
+798,9,1,Drinks
+798,14,1,Drinks
+798,4,4,Non Veg
+798,5,1,Non Veg
+799,27,2,Bakery
+799,19,4,Non Veg
+800,34,3,SeaFood
+800,28,1,Drinks
+800,37,2,Veg
+800,18,4,Bakery
+801,19,3,Non Veg
+801,14,2,Drinks
+801,37,2,Veg
+802,38,1,Non Veg
+802,15,3,Drinks
+802,45,4,Non Veg
+802,31,2,Non Veg
+802,1,3,EggFood
+802,26,4,Drinks
+802,26,4,Drinks
+803,17,2,Bakery
+803,9,2,Drinks
+803,9,4,Drinks
+803,34,2,SeaFood
+803,4,4,Non Veg
+803,44,2,Non Veg
+804,27,1,Bakery
+804,42,4,Non Veg
+804,10,4,Drinks
+804,23,2,Veg
+804,49,3,Non Veg
+804,33,2,SeaFood
+805,21,3,Veg
+805,30,4,SeaFood
+805,10,3,Drinks
+805,20,3,Veg
+805,5,2,Non Veg
+805,36,1,SeaFood
+806,14,4,Drinks
+806,24,2,Veg
+807,41,1,Veg
+808,34,2,SeaFood
+808,30,2,SeaFood
+808,24,4,Veg
+808,32,3,SeaFood
+808,40,1,Veg
+809,27,2,Bakery
+809,38,4,Non Veg
+809,37,1,Veg
+809,7,2,Drinks
+810,25,3,Drinks
+810,27,2,Bakery
+810,37,2,Veg
+810,32,1,SeaFood
+810,18,3,Bakery
+811,16,2,Drinks
+811,3,3,Non Veg
+811,37,3,Veg
+811,1,4,EggFood
+812,6,4,EggFood
+812,6,1,EggFood
+812,25,1,Drinks
+812,23,1,Veg
+812,5,3,Non Veg
+812,40,1,Veg
+814,3,1,Non Veg
+814,43,2,Veg
+814,37,2,Veg
+814,46,2,Veg
+814,15,3,Drinks
+814,5,2,Non Veg
+815,25,4,Drinks
+815,27,3,Bakery
+815,24,4,Veg
+815,5,2,Non Veg
+815,33,4,SeaFood
+815,33,1,SeaFood
+816,23,1,Veg
+816,37,3,Veg
+816,20,2,Veg
+816,15,2,Drinks
+817,42,2,Non Veg
+817,38,2,Non Veg
+817,10,2,Drinks
+817,41,3,Veg
+817,29,2,Non Veg
+819,48,4,Bakery
+819,33,1,SeaFood
+820,22,1,Veg
+820,27,1,Bakery
+820,42,3,Non Veg
+820,28,3,Drinks
+820,32,3,SeaFood
+820,15,4,Drinks
+820,26,1,Drinks
+821,27,3,Bakery
+821,48,1,Bakery
+821,10,2,Drinks
+821,20,2,Veg
+821,40,1,Veg
+822,22,3,Veg
+822,28,2,Drinks
+822,7,3,Drinks
+822,13,3,Drinks
+823,19,2,Non Veg
+823,17,1,Bakery
+823,47,3,Veg
+823,15,4,Drinks
+823,15,4,Drinks
+823,15,1,Drinks
+823,18,3,Bakery
+824,22,3,Veg
+824,17,3,Bakery
+824,3,3,Non Veg
+824,43,1,Veg
+824,24,1,Veg
+824,46,1,Veg
+824,40,3,Veg
+824,29,3,Non Veg
+825,34,4,SeaFood
+825,43,2,Veg
+825,40,2,Veg
+825,36,3,SeaFood
+826,22,4,Veg
+826,22,4,Veg
+826,27,3,Bakery
+826,27,1,Bakery
+826,37,3,Veg
+826,32,1,SeaFood
+826,18,2,Bakery
+826,26,3,Drinks
+826,11,2,Drinks
+827,27,2,Bakery
+827,9,1,Drinks
+827,34,1,SeaFood
+827,34,4,SeaFood
+827,4,2,Non Veg
+827,40,3,Veg
+827,31,3,Non Veg
+827,18,2,Bakery
+828,6,4,EggFood
+828,16,3,Drinks
+828,21,1,Veg
+828,28,3,Drinks
+828,32,4,SeaFood
+828,45,4,Non Veg
+828,26,2,Drinks
+829,10,3,Drinks
+829,18,3,Bakery
+829,26,2,Drinks
+830,22,2,Veg
+830,2,4,Non Veg
+830,30,1,SeaFood
+830,46,4,Veg
+830,44,1,Non Veg
+830,44,4,Non Veg
+831,27,2,Bakery
+831,14,2,Drinks
+831,48,2,Bakery
+831,48,4,Bakery
+831,24,2,Veg
+831,18,2,Bakery
+832,34,2,SeaFood
+832,21,2,Veg
+832,48,4,Bakery
+832,45,3,Non Veg
+832,41,1,Veg
+832,13,2,Drinks
+832,11,2,Drinks
+833,28,4,Drinks
+833,45,2,Non Veg
+833,13,2,Drinks
+834,6,4,EggFood
+834,16,3,Drinks
+834,35,4,SeaFood
+834,35,1,SeaFood
+834,11,3,Drinks
+835,6,1,EggFood
+835,25,1,Drinks
+835,19,2,Non Veg
+835,47,3,Veg
+836,25,3,Drinks
+836,3,4,Non Veg
+836,23,2,Veg
+836,7,3,Drinks
+836,29,2,Non Veg
+837,3,1,Non Veg
+837,21,1,Veg
+837,21,2,Veg
+837,37,3,Veg
+837,37,4,Veg
+837,15,4,Drinks
+838,25,3,Drinks
+838,9,3,Drinks
+838,1,1,EggFood
+839,37,3,Veg
+839,24,1,Veg
+839,18,3,Bakery
+839,35,4,SeaFood
+840,12,4,Drinks
+840,4,3,Non Veg
+840,44,4,Non Veg
+841,16,2,Drinks
+841,47,2,Veg
+841,9,1,Drinks
+841,34,2,SeaFood
+841,38,2,Non Veg
+841,43,1,Veg
+841,28,4,Drinks
+841,46,2,Veg
+841,5,4,Non Veg
+842,34,4,SeaFood
+842,21,1,Veg
+842,21,4,Veg
+842,48,2,Bakery
+842,10,2,Drinks
+842,23,4,Veg
+842,23,1,Veg
+842,7,4,Drinks
+842,36,1,SeaFood
+842,8,3,Drinks
+843,25,4,Drinks
+843,20,4,Veg
+843,46,1,Veg
+843,26,2,Drinks
+844,48,1,Bakery
+844,43,3,Veg
+844,13,2,Drinks
+844,35,2,SeaFood
+845,39,3,Non Veg
+845,25,2,Drinks
+845,25,3,Drinks
+845,17,2,Bakery
+845,3,1,Non Veg
+845,30,3,SeaFood
+845,37,3,Veg
+845,33,4,SeaFood
+845,36,2,SeaFood
+846,22,1,Veg
+846,48,2,Bakery
+846,49,1,Non Veg
+846,46,1,Veg
+846,44,2,Non Veg
+847,21,2,Veg
+847,23,3,Veg
+847,36,4,SeaFood
+848,47,1,Veg
+848,38,4,Non Veg
+848,2,3,Non Veg
+848,40,4,Veg
+848,8,4,Drinks
+848,18,4,Bakery
+849,40,3,Veg
+849,41,4,Veg
+849,26,4,Drinks
+849,11,4,Drinks
+850,6,4,EggFood
+850,25,3,Drinks
+850,19,3,Non Veg
+850,43,2,Veg
+850,4,4,Non Veg
+850,46,1,Veg
+850,8,1,Drinks
+850,31,3,Non Veg
+851,43,2,Veg
+851,28,2,Drinks
+851,4,1,Non Veg
+851,44,4,Non Veg
+851,15,1,Drinks
+852,39,4,Non Veg
+852,34,4,SeaFood
+852,32,4,SeaFood
+854,2,4,Non Veg
+854,44,3,Non Veg
+854,41,2,Veg
+854,26,1,Drinks
+855,6,2,EggFood
+855,34,3,SeaFood
+855,48,3,Bakery
+855,2,4,Non Veg
+855,37,1,Veg
+855,12,2,Drinks
+855,12,4,Drinks
+855,40,3,Veg
+855,41,1,Veg
+856,22,2,Veg
+856,48,2,Bakery
+856,30,1,SeaFood
+856,49,4,Non Veg
+856,41,3,Veg
+856,13,3,Drinks
+856,1,1,EggFood
+857,39,1,Non Veg
+857,19,4,Non Veg
+857,4,1,Non Veg
+857,32,1,SeaFood
+857,15,2,Drinks
+857,15,4,Drinks
+858,42,3,Non Veg
+858,2,2,Non Veg
+858,30,3,SeaFood
+858,28,1,Drinks
+858,13,1,Drinks
+858,29,4,Non Veg
+858,11,4,Drinks
+858,11,2,Drinks
+859,25,2,Drinks
+859,15,3,Drinks
+859,15,3,Drinks
+859,15,4,Drinks
+859,11,2,Drinks
+860,17,2,Bakery
+860,2,2,Non Veg
+860,23,4,Veg
+860,37,2,Veg
+860,24,2,Veg
+860,33,4,SeaFood
+860,41,3,Veg
+860,18,4,Bakery
+861,34,3,SeaFood
+861,24,3,Veg
+861,1,1,EggFood
+861,1,2,EggFood
+862,18,1,Bakery
+863,19,3,Non Veg
+863,30,3,SeaFood
+863,43,1,Veg
+863,23,4,Veg
+863,13,1,Drinks
+863,8,3,Drinks
+864,6,2,EggFood
+864,11,4,Drinks
+865,39,3,Non Veg
+865,3,3,Non Veg
+865,12,2,Drinks
+865,24,1,Veg
+866,25,1,Drinks
+866,43,4,Veg
+866,23,4,Veg
+866,7,3,Drinks
+866,31,1,Non Veg
+866,1,1,EggFood
+867,14,4,Drinks
+867,7,1,Drinks
+867,20,2,Veg
+867,49,2,Non Veg
+867,44,4,Non Veg
+867,5,3,Non Veg
+868,25,3,Drinks
+868,17,1,Bakery
+868,42,2,Non Veg
+868,30,1,SeaFood
+868,7,1,Drinks
+868,5,3,Non Veg
+869,17,2,Bakery
+869,14,3,Drinks
+869,2,3,Non Veg
+869,10,2,Drinks
+869,10,1,Drinks
+869,12,3,Drinks
+869,24,3,Veg
+869,15,1,Drinks
+869,11,1,Drinks
+870,3,2,Non Veg
+870,14,4,Drinks
+870,38,3,Non Veg
+870,32,1,SeaFood
+870,15,3,Drinks
+870,36,2,SeaFood
+871,16,4,Drinks
+871,9,4,Drinks
+871,37,3,Veg
+871,41,3,Veg
+871,41,4,Veg
+871,41,3,Veg
+871,36,4,SeaFood
+871,26,4,Drinks
+872,38,2,Non Veg
+872,5,4,Non Veg
+872,40,3,Veg
+873,34,2,SeaFood
+873,2,2,Non Veg
+873,5,2,Non Veg
+873,35,2,SeaFood
+873,1,3,EggFood
+874,2,3,Non Veg
+874,37,2,Veg
+875,6,1,EggFood
+875,22,1,Veg
+875,38,1,Non Veg
+875,2,1,Non Veg
+875,12,3,Drinks
+875,18,1,Bakery
+876,6,3,EggFood
+876,27,1,Bakery
+876,17,2,Bakery
+876,42,2,Non Veg
+876,28,4,Drinks
+876,23,1,Veg
+876,7,1,Drinks
+876,49,2,Non Veg
+876,18,2,Bakery
+877,19,1,Non Veg
+877,34,4,SeaFood
+877,45,1,Non Veg
+877,11,3,Drinks
+878,48,2,Bakery
+878,10,2,Drinks
+878,46,4,Veg
+878,8,2,Drinks
+879,39,3,Non Veg
+879,16,4,Drinks
+879,19,1,Non Veg
+879,23,1,Veg
+879,44,2,Non Veg
+879,41,3,Veg
+879,35,1,SeaFood
+879,29,2,Non Veg
+880,6,1,EggFood
+880,19,3,Non Veg
+880,30,1,SeaFood
+880,28,4,Drinks
+880,36,2,SeaFood
+880,26,3,Drinks
+881,47,2,Veg
+881,14,4,Drinks
+881,24,1,Veg
+881,40,3,Veg
+881,36,3,SeaFood
+882,37,3,Veg
+882,37,3,Veg
+882,24,2,Veg
+882,44,3,Non Veg
+882,15,3,Drinks
+882,41,4,Veg
+882,8,1,Drinks
+882,26,3,Drinks
+883,16,3,Drinks
+883,3,2,Non Veg
+883,33,3,SeaFood
+883,41,4,Veg
+883,18,1,Bakery
+883,1,1,EggFood
+883,1,1,EggFood
+883,26,2,Drinks
+884,22,1,Veg
+884,22,1,Veg
+884,16,4,Drinks
+884,2,2,Non Veg
+884,28,4,Drinks
+885,10,3,Drinks
+885,28,4,Drinks
+885,23,2,Veg
+885,12,1,Drinks
+885,26,1,Drinks
+885,26,2,Drinks
+886,21,3,Veg
+886,38,2,Non Veg
+886,28,4,Drinks
+886,23,1,Veg
+886,7,2,Drinks
+886,8,4,Drinks
+886,18,2,Bakery
+887,2,1,Non Veg
+887,2,2,Non Veg
+887,28,3,Drinks
+887,20,4,Veg
+887,31,2,Non Veg
+887,18,3,Bakery
+888,19,1,Non Veg
+888,34,3,SeaFood
+888,48,4,Bakery
+888,15,2,Drinks
+888,18,3,Bakery
+889,16,2,Drinks
+889,9,1,Drinks
+889,38,4,Non Veg
+889,48,4,Bakery
+889,43,3,Veg
+889,43,2,Veg
+889,28,1,Drinks
+889,49,3,Non Veg
+889,41,2,Veg
+889,13,3,Drinks
+890,17,4,Bakery
+890,43,1,Veg
+890,4,1,Non Veg
+890,20,4,Veg
+890,31,3,Non Veg
+891,12,2,Drinks
+892,47,3,Veg
+892,37,3,Veg
+892,12,2,Drinks
+892,44,4,Non Veg
+893,21,1,Veg
+893,38,4,Non Veg
+893,2,1,Non Veg
+894,48,4,Bakery
+894,12,3,Drinks
+894,5,3,Non Veg
+894,31,4,Non Veg
+895,25,3,Drinks
+895,27,4,Bakery
+895,19,4,Non Veg
+895,17,4,Bakery
+895,14,1,Drinks
+895,2,2,Non Veg
+895,28,1,Drinks
+895,5,1,Non Veg
+895,41,1,Veg
+895,18,4,Bakery
+895,35,2,SeaFood
+895,29,2,Non Veg
+896,25,4,Drinks
+896,19,3,Non Veg
+896,48,1,Bakery
+896,48,4,Bakery
+896,24,2,Veg
+896,5,3,Non Veg
+896,1,4,EggFood
+897,15,2,Drinks
+897,33,4,SeaFood
+897,13,4,Drinks
+897,18,3,Bakery
+898,22,1,Veg
+898,3,1,Non Veg
+898,30,4,SeaFood
+898,28,3,Drinks
+898,37,2,Veg
+898,20,4,Veg
+898,40,2,Veg
+898,8,1,Drinks
+898,35,4,SeaFood
+898,26,3,Drinks
+899,17,1,Bakery
+899,3,3,Non Veg
+899,38,1,Non Veg
+899,2,1,Non Veg
+899,40,3,Veg
+899,18,3,Bakery
+899,26,3,Drinks
+899,11,3,Drinks
+900,16,1,Drinks
+900,42,4,Non Veg
+900,48,3,Bakery
+900,45,3,Non Veg
+901,39,2,Non Veg
+901,2,2,Non Veg
+901,49,1,Non Veg
+901,8,2,Drinks
+901,26,4,Drinks
+902,22,2,Veg
+902,9,2,Drinks
+902,42,2,Non Veg
+902,38,1,Non Veg
+902,49,4,Non Veg
+902,13,3,Drinks
+902,26,2,Drinks
+903,47,1,Veg
+903,2,4,Non Veg
+903,12,3,Drinks
+904,6,4,EggFood
+904,47,3,Veg
+904,37,2,Veg
+904,7,4,Drinks
+904,49,4,Non Veg
+904,49,4,Non Veg
+905,27,1,Bakery
+905,42,4,Non Veg
+905,4,3,Non Veg
+905,13,4,Drinks
+905,36,4,SeaFood
+906,19,2,Non Veg
+906,14,1,Drinks
+906,2,3,Non Veg
+906,28,3,Drinks
+906,32,1,SeaFood
+906,36,3,SeaFood
+906,26,1,Drinks
+907,19,4,Non Veg
+907,30,1,SeaFood
+907,49,4,Non Veg
+907,5,1,Non Veg
+908,6,1,EggFood
+908,42,1,Non Veg
+908,32,4,SeaFood
+909,16,2,Drinks
+909,47,4,Veg
+909,34,4,SeaFood
+909,10,3,Drinks
+909,44,2,Non Veg
+909,33,3,SeaFood
+909,18,4,Bakery
+910,47,2,Veg
+910,33,1,SeaFood
+910,31,1,Non Veg
+910,1,4,EggFood
+911,47,2,Veg
+911,34,3,SeaFood
+911,11,3,Drinks
+912,34,2,SeaFood
+912,30,1,SeaFood
+912,37,3,Veg
+912,46,4,Veg
+912,13,2,Drinks
+913,27,4,Bakery
+913,47,4,Veg
+913,42,2,Non Veg
+913,43,3,Veg
+913,40,3,Veg
+913,26,2,Drinks
+914,25,2,Drinks
+914,17,4,Bakery
+914,21,2,Veg
+914,30,4,SeaFood
+914,26,2,Drinks
+915,16,1,Drinks
+915,23,1,Veg
+915,46,4,Veg
+916,9,2,Drinks
+916,42,2,Non Veg
+916,36,3,SeaFood
+917,42,4,Non Veg
+917,10,1,Drinks
+917,23,1,Veg
+917,40,2,Veg
+917,41,1,Veg
+917,8,3,Drinks
+917,31,2,Non Veg
+917,26,2,Drinks
+918,38,4,Non Veg
+918,5,1,Non Veg
+918,29,2,Non Veg
+918,11,4,Drinks
+919,21,3,Veg
+919,2,1,Non Veg
+919,10,1,Drinks
+919,37,4,Veg
+919,4,4,Non Veg
+919,41,2,Veg
+920,47,4,Veg
+920,7,4,Drinks
+920,49,1,Non Veg
+920,49,4,Non Veg
+921,6,2,EggFood
+921,42,3,Non Veg
+921,1,3,EggFood
+922,39,3,Non Veg
+922,16,1,Drinks
+922,42,2,Non Veg
+922,2,4,Non Veg
+922,43,4,Veg
+922,44,4,Non Veg
+923,22,1,Veg
+923,25,3,Drinks
+923,27,4,Bakery
+923,42,3,Non Veg
+923,46,2,Veg
+923,11,2,Drinks
+924,39,1,Non Veg
+924,42,4,Non Veg
+924,49,4,Non Veg
+924,46,3,Veg
+924,15,3,Drinks
+924,5,4,Non Veg
+924,45,4,Non Veg
+924,26,4,Drinks
+925,25,2,Drinks
+925,45,2,Non Veg
+926,27,4,Bakery
+926,27,1,Bakery
+926,23,2,Veg
+926,7,4,Drinks
+926,44,2,Non Veg
+926,40,3,Veg
+926,41,4,Veg
+926,26,2,Drinks
+927,14,2,Drinks
+927,21,1,Veg
+927,24,3,Veg
+928,20,4,Veg
+928,44,2,Non Veg
+928,45,2,Non Veg
+929,47,1,Veg
+929,34,2,SeaFood
+929,38,3,Non Veg
+929,10,2,Drinks
+929,23,4,Veg
+929,24,4,Veg
+929,18,1,Bakery
+930,25,2,Drinks
+930,34,4,SeaFood
+930,28,2,Drinks
+930,28,4,Drinks
+931,9,3,Drinks
+931,23,4,Veg
+931,49,3,Non Veg
+931,45,4,Non Veg
+931,13,4,Drinks
+931,36,3,SeaFood
+931,18,1,Bakery
+931,1,3,EggFood
+932,21,2,Veg
+932,5,4,Non Veg
+932,40,3,Veg
+932,36,2,SeaFood
+932,18,3,Bakery
+932,26,4,Drinks
+932,11,3,Drinks
+933,3,1,Non Veg
+933,38,2,Non Veg
+934,48,1,Bakery
+934,7,2,Drinks
+934,20,1,Veg
+934,15,3,Drinks
+934,33,1,SeaFood
+935,34,2,SeaFood
+935,14,3,Drinks
+935,4,2,Non Veg
+935,24,1,Veg
+935,32,3,SeaFood
+935,33,2,SeaFood
+935,13,1,Drinks
+936,48,1,Bakery
+936,2,3,Non Veg
+936,12,2,Drinks
+937,17,4,Bakery
+937,42,3,Non Veg
+937,30,3,SeaFood
+937,15,1,Drinks
+937,40,2,Veg
+938,6,1,EggFood
+938,34,4,SeaFood
+938,44,4,Non Veg
+938,8,1,Drinks
+938,18,3,Bakery
+938,26,1,Drinks
+940,47,3,Veg
+940,14,4,Drinks
+940,21,1,Veg
+940,40,2,Veg
+940,1,2,EggFood
+941,17,3,Bakery
+941,37,2,Veg
+941,15,4,Drinks
+941,15,3,Drinks
+941,45,4,Non Veg
+941,45,2,Non Veg
+941,45,1,Non Veg
+941,40,4,Veg
+941,13,1,Drinks
+942,17,1,Bakery
+942,42,1,Non Veg
+942,2,2,Non Veg
+942,28,1,Drinks
+942,24,4,Veg
+942,13,1,Drinks
+942,29,3,Non Veg
+942,11,2,Drinks
+943,39,4,Non Veg
+943,19,4,Non Veg
+943,17,4,Bakery
+943,33,1,SeaFood
+943,35,4,SeaFood
+944,9,2,Drinks
+944,21,3,Veg
+944,30,2,SeaFood
+944,28,3,Drinks
+944,41,2,Veg
+945,3,3,Non Veg
+945,14,2,Drinks
+945,7,4,Drinks
+945,49,2,Non Veg
+945,8,2,Drinks
+945,1,2,EggFood
+946,17,4,Bakery
+946,14,2,Drinks
+946,28,1,Drinks
+946,4,4,Non Veg
+946,41,2,Veg
+947,27,1,Bakery
+947,2,3,Non Veg
+947,30,4,SeaFood
+947,7,1,Drinks
+947,49,3,Non Veg
+947,13,1,Drinks
+947,1,1,EggFood
+948,25,3,Drinks
+948,40,2,Veg
+949,27,4,Bakery
+949,47,1,Veg
+949,43,4,Veg
+949,12,2,Drinks
+949,24,1,Veg
+949,8,2,Drinks
+949,29,1,Non Veg
+950,17,3,Bakery
+950,34,3,SeaFood
+950,2,4,Non Veg
+950,7,4,Drinks
+950,35,3,SeaFood
+950,29,2,Non Veg
+951,47,1,Veg
+951,30,4,SeaFood
+951,49,4,Non Veg
+951,49,1,Non Veg
+951,49,4,Non Veg
+951,45,4,Non Veg
+951,18,3,Bakery
+952,38,4,Non Veg
+952,2,4,Non Veg
+952,43,2,Veg
+952,32,1,SeaFood
+952,18,4,Bakery
+952,26,2,Drinks
+953,9,2,Drinks
+953,34,4,SeaFood
+953,37,2,Veg
+953,24,2,Veg
+953,32,3,SeaFood
+953,45,3,Non Veg
+954,39,3,Non Veg
+954,23,4,Veg
+954,46,1,Veg
+954,5,1,Non Veg
+954,18,4,Bakery
+955,30,3,SeaFood
+956,3,4,Non Veg
+956,2,4,Non Veg
+957,22,2,Veg
+957,7,1,Drinks
+957,4,1,Non Veg
+957,15,3,Drinks
+957,40,3,Veg
+958,6,1,EggFood
+958,3,1,Non Veg
+958,7,1,Drinks
+958,44,3,Non Veg
+958,36,2,SeaFood
+959,22,2,Veg
+959,23,1,Veg
+959,5,2,Non Veg
+959,45,4,Non Veg
+959,8,4,Drinks
+959,8,3,Drinks
+959,35,3,SeaFood
+959,11,3,Drinks
+960,6,3,EggFood
+960,20,4,Veg
+960,46,4,Veg
+961,38,3,Non Veg
+961,10,1,Drinks
+961,20,2,Veg
+961,31,4,Non Veg
+961,11,4,Drinks
+962,6,1,EggFood
+962,22,2,Veg
+962,39,1,Non Veg
+962,4,1,Non Veg
+962,1,1,EggFood
+962,11,3,Drinks
+962,11,1,Drinks
+963,24,3,Veg
+964,14,1,Drinks
+964,24,3,Veg
+964,44,2,Non Veg
+965,37,4,Veg
+965,4,3,Non Veg
+965,4,2,Non Veg
+965,20,3,Veg
+965,49,4,Non Veg
+965,44,2,Non Veg
+965,1,3,EggFood
+966,6,4,EggFood
+966,42,4,Non Veg
+966,21,3,Veg
+966,48,2,Bakery
+966,12,2,Drinks
+966,49,4,Non Veg
+966,32,4,SeaFood
+966,40,1,Veg
+966,26,2,Drinks
+967,42,2,Non Veg
+967,46,3,Veg
+968,48,3,Bakery
+968,2,4,Non Veg
+968,10,2,Drinks
+968,28,4,Drinks
+968,33,3,SeaFood
+968,41,2,Veg
+968,13,3,Drinks
+969,39,4,Non Veg
+969,39,3,Non Veg
+969,27,2,Bakery
+969,48,3,Bakery
+969,30,3,SeaFood
+969,12,4,Drinks
+970,6,3,EggFood
+970,22,3,Veg
+970,34,4,SeaFood
+970,38,4,Non Veg
+970,15,1,Drinks
+970,5,1,Non Veg
+971,10,2,Drinks
+971,45,3,Non Veg
+971,36,1,SeaFood
+972,34,1,SeaFood
+972,2,3,Non Veg
+972,37,1,Veg
+972,40,2,Veg
+973,34,4,SeaFood
+973,21,1,Veg
+973,43,2,Veg
+973,43,2,Veg
+973,1,3,EggFood
+974,48,4,Bakery
+974,40,3,Veg
+974,36,4,SeaFood
+974,26,4,Drinks
+975,22,3,Veg
+975,34,3,SeaFood
+975,38,2,Non Veg
+975,44,2,Non Veg
+975,36,2,SeaFood
+976,22,4,Veg
+976,11,1,Drinks
+977,19,4,Non Veg
+977,14,1,Drinks
+977,30,3,SeaFood
+977,10,2,Drinks
+977,23,3,Veg
+977,46,2,Veg
+977,44,3,Non Veg
+977,45,1,Non Veg
+977,40,3,Veg
+977,1,4,EggFood
+977,11,4,Drinks
+978,17,1,Bakery
+978,8,4,Drinks
+979,48,2,Bakery
+979,32,2,SeaFood
+979,8,1,Drinks
+980,42,1,Non Veg
+980,10,3,Drinks
+980,13,1,Drinks
+981,32,4,SeaFood
+981,40,2,Veg
+982,25,2,Drinks
+982,10,1,Drinks
+982,24,2,Veg
+982,40,2,Veg
+983,42,3,Non Veg
+983,38,1,Non Veg
+983,4,3,Non Veg
+983,8,3,Drinks
+984,30,4,SeaFood
+984,15,3,Drinks
+984,45,4,Non Veg
+984,1,4,EggFood
+985,6,1,EggFood
+985,37,3,Veg
+985,13,1,Drinks
+985,1,4,EggFood
+986,30,2,SeaFood
+986,28,4,Drinks
+986,4,1,Non Veg
+986,32,4,SeaFood
+987,6,3,EggFood
+987,6,1,EggFood
+987,2,2,Non Veg
+987,4,3,Non Veg
+987,46,1,Veg
+987,35,3,SeaFood
+988,47,3,Veg
+988,34,1,SeaFood
+988,49,4,Non Veg
+988,36,2,SeaFood
+989,9,3,Drinks
+989,10,3,Drinks
+989,28,3,Drinks
+989,20,2,Veg
+989,20,1,Veg
+989,36,2,SeaFood
+990,30,3,SeaFood
+990,43,4,Veg
+990,28,4,Drinks
+990,13,4,Drinks
+991,22,3,Veg
+991,39,1,Non Veg
+991,9,3,Drinks
+991,5,3,Non Veg
+991,13,4,Drinks
+991,18,1,Bakery
+991,18,1,Bakery
+991,26,3,Drinks
+992,25,1,Drinks
+992,17,1,Bakery
+992,3,4,Non Veg
+992,38,3,Non Veg
+992,12,4,Drinks
+992,4,4,Non Veg
+992,15,1,Drinks
+992,13,3,Drinks
+993,21,1,Veg
+993,38,2,Non Veg
+993,48,2,Bakery
+993,45,4,Non Veg
+993,35,3,SeaFood
+994,16,4,Drinks
+994,48,3,Bakery
+994,41,2,Veg
+995,16,1,Drinks
+995,27,2,Bakery
+995,3,4,Non Veg
+995,46,1,Veg
+995,15,1,Drinks
+995,8,2,Drinks
+995,11,4,Drinks
+996,25,3,Drinks
+996,27,4,Bakery
+996,3,1,Non Veg
+996,37,2,Veg
+996,40,3,Veg
+997,47,4,Veg
+997,3,3,Non Veg
+997,38,2,Non Veg
+997,23,3,Veg
+997,32,1,SeaFood
+997,33,2,SeaFood
+997,45,2,Non Veg
+997,40,4,Veg
+997,36,2,SeaFood
+997,1,1,EggFood
+998,37,1,Veg
+998,18,3,Bakery
+999,39,1,Non Veg
+999,39,3,Non Veg
+999,47,3,Veg
+999,3,2,Non Veg
+999,48,1,Bakery
+999,7,4,Drinks
+1000,37,1,Veg
+1000,37,2,Veg
+1000,36,1,SeaFood
+1001,14,2,Drinks
+1001,37,1,Veg
+1001,12,1,Drinks
+1001,49,2,Non Veg
+1001,15,1,Drinks
+1001,36,1,SeaFood
+1001,1,4,EggFood
+1002,25,4,Drinks
+1002,2,2,Non Veg
+1002,4,3,Non Veg
+1003,25,1,Drinks
+1003,9,2,Drinks
+1003,7,1,Drinks
+1004,25,2,Drinks
+1004,14,1,Drinks
+1004,28,2,Drinks
+1004,35,4,SeaFood
+1005,6,4,EggFood
+1005,10,2,Drinks
+1005,33,3,SeaFood
+1005,31,2,Non Veg
+1006,42,1,Non Veg
+1006,30,1,SeaFood
+1006,7,4,Drinks
+1007,42,1,Non Veg
+1007,38,4,Non Veg
+1007,2,1,Non Veg
+1007,8,3,Drinks
+1008,39,4,Non Veg
+1008,3,4,Non Veg
+1008,21,3,Veg
+1008,20,2,Veg
+1008,49,3,Non Veg
+1008,13,1,Drinks
+1008,31,4,Non Veg
+1008,18,2,Bakery
+1008,11,3,Drinks
+1009,39,3,Non Veg
+1009,19,4,Non Veg
+1009,10,2,Drinks
+1009,28,1,Drinks
+1009,5,3,Non Veg
+1009,11,1,Drinks
+1010,27,3,Bakery
+1010,9,1,Drinks
+1010,23,3,Veg
+1010,7,2,Drinks
+1010,49,4,Non Veg
+1010,33,1,SeaFood
+1010,45,1,Non Veg
+1011,9,1,Drinks
+1011,21,3,Veg
+1011,12,2,Drinks
+1011,33,3,SeaFood
+1011,31,4,Non Veg
+1011,1,3,EggFood
+1012,39,1,Non Veg
+1012,34,3,SeaFood
+1012,14,3,Drinks
+1012,21,4,Veg
+1013,34,3,SeaFood
+1013,7,3,Drinks
+1013,32,3,SeaFood
+1013,40,4,Veg
+1013,1,3,EggFood
+1013,29,1,Non Veg
+1014,6,3,EggFood
+1014,27,3,Bakery
+1014,19,4,Non Veg
+1014,2,1,Non Veg
+1014,32,1,SeaFood
+1014,44,2,Non Veg
+1015,19,4,Non Veg
+1015,44,3,Non Veg
+1016,47,3,Veg
+1016,36,2,SeaFood
+1016,18,4,Bakery
+1017,47,2,Veg
+1017,47,1,Veg
+1017,34,4,SeaFood
+1017,21,4,Veg
+1017,48,2,Bakery
+1017,48,4,Bakery
+1017,2,3,Non Veg
+1017,10,1,Drinks
+1017,7,1,Drinks
+1017,5,2,Non Veg
+1017,8,1,Drinks
+1017,29,4,Non Veg
+1018,25,4,Drinks
+1018,17,1,Bakery
+1018,33,2,SeaFood
+1018,35,4,SeaFood
+1018,29,2,Non Veg
+1019,17,3,Bakery
+1019,17,3,Bakery
+1019,37,1,Veg
+1019,36,4,SeaFood
+1019,26,4,Drinks
+1020,34,2,SeaFood
+1020,46,4,Veg
+1020,40,3,Veg
+1020,35,1,SeaFood
+1021,2,4,Non Veg
+1021,23,4,Veg
+1021,5,1,Non Veg
+1021,8,1,Drinks
+1022,48,1,Bakery
+1022,49,3,Non Veg
+1022,45,1,Non Veg
+1022,18,1,Bakery
+1022,1,3,EggFood
+1023,20,2,Veg
+1023,45,3,Non Veg
+1023,8,4,Drinks
+1023,26,1,Drinks
+1024,42,1,Non Veg
+1024,26,1,Drinks
+1025,16,4,Drinks
+1025,17,2,Bakery
+1025,30,1,SeaFood
+1025,24,2,Veg
+1025,20,2,Veg
+1025,13,4,Drinks
+1025,1,3,EggFood
+1025,29,2,Non Veg
+1026,34,2,SeaFood
+1026,10,1,Drinks
+1026,12,3,Drinks
+1026,32,1,SeaFood
+1026,41,2,Veg
+1026,26,1,Drinks
+1027,47,3,Veg
+1027,9,3,Drinks
+1027,23,2,Veg
+1027,37,2,Veg
+1027,41,4,Veg
+1027,36,4,SeaFood
+1027,1,2,EggFood
+1027,26,3,Drinks
+1028,16,2,Drinks
+1028,20,3,Veg
+1029,6,2,EggFood
+1029,38,3,Non Veg
+1029,49,2,Non Veg
+1029,32,3,SeaFood
+1029,45,2,Non Veg
+1029,41,2,Veg
+1030,17,4,Bakery
+1030,47,4,Veg
+1030,12,3,Drinks
+1030,32,2,SeaFood
+1030,8,2,Drinks
+1030,31,3,Non Veg
+1031,22,4,Veg
+1031,25,1,Drinks
+1031,14,1,Drinks
+1031,24,3,Veg
+1031,49,4,Non Veg
+1032,21,4,Veg
+1032,10,1,Drinks
+1032,24,1,Veg
+1032,32,3,SeaFood
+1032,36,2,SeaFood
+1032,26,2,Drinks
+1033,6,4,EggFood
+1033,22,4,Veg
+1033,19,3,Non Veg
+1033,42,2,Non Veg
+1033,42,4,Non Veg
+1033,14,4,Drinks
+1034,25,2,Drinks
+1034,34,4,SeaFood
+1034,34,2,SeaFood
+1034,21,4,Veg
+1034,44,2,Non Veg
+1034,31,1,Non Veg
+1034,35,2,SeaFood
+1034,11,3,Drinks
+1035,9,2,Drinks
+1035,20,3,Veg
+1035,15,1,Drinks
+1035,45,2,Non Veg
+1035,41,2,Veg
+1035,26,1,Drinks
+1036,39,2,Non Veg
+1036,33,1,SeaFood
+1036,31,1,Non Veg
+1036,18,3,Bakery
+1037,17,1,Bakery
+1037,45,2,Non Veg
+1037,36,3,SeaFood
+1037,8,1,Drinks
+1038,47,2,Veg
+1038,10,2,Drinks
+1038,28,2,Drinks
+1039,6,1,EggFood
+1039,39,3,Non Veg
+1039,39,2,Non Veg
+1039,3,1,Non Veg
+1039,37,4,Veg
+1039,12,1,Drinks
+1039,45,4,Non Veg
+1039,31,1,Non Veg
+1040,49,1,Non Veg
+1040,41,2,Veg
+1040,31,1,Non Veg
+1041,38,1,Non Veg
+1041,31,2,Non Veg
+1042,6,3,EggFood
+1042,34,2,SeaFood
+1043,16,4,Drinks
+1043,16,2,Drinks
+1043,8,3,Drinks
+1043,29,3,Non Veg
+1044,19,4,Non Veg
+1044,47,1,Veg
+1044,34,3,SeaFood
+1044,33,3,SeaFood
+1044,36,1,SeaFood
+1045,23,4,Veg
+1045,7,3,Drinks
+1045,4,3,Non Veg
+1045,32,4,SeaFood
+1045,33,3,SeaFood
+1045,18,2,Bakery
+1045,1,4,EggFood
+1046,6,3,EggFood
+1046,17,3,Bakery
+1046,15,1,Drinks
+1046,1,3,EggFood
+1047,47,4,Veg
+1047,47,1,Veg
+1047,28,2,Drinks
+1047,44,3,Non Veg
+1047,8,3,Drinks
+1048,19,1,Non Veg
+1048,21,3,Veg
+1048,10,4,Drinks
+1048,28,2,Drinks
+1048,33,3,SeaFood
+1049,24,4,Veg
+1049,40,2,Veg
+1049,36,1,SeaFood
+1049,26,2,Drinks
+1050,6,2,EggFood
+1050,43,2,Veg
+1050,43,4,Veg
+1050,5,3,Non Veg
+1050,40,3,Veg
+1050,29,2,Non Veg
+1051,48,4,Bakery
+1051,8,1,Drinks
+1051,11,3,Drinks
+1052,42,4,Non Veg
+1052,45,2,Non Veg
+1052,35,1,SeaFood
+1052,11,3,Drinks
+1053,25,2,Drinks
+1053,28,3,Drinks
+1053,23,4,Veg
+1053,37,2,Veg
+1053,12,3,Drinks
+1053,36,4,SeaFood
+1053,36,1,SeaFood
+1053,26,2,Drinks
+1054,46,3,Veg
+1054,18,4,Bakery
+1055,47,3,Veg
+1055,3,3,Non Veg
+1055,10,3,Drinks
+1055,20,4,Veg
+1055,32,3,SeaFood
+1055,45,3,Non Veg
+1055,36,2,SeaFood
+1055,31,2,Non Veg
+1056,7,3,Drinks
+1056,49,1,Non Veg
+1056,33,4,SeaFood
+1056,40,2,Veg
+1056,36,3,SeaFood
+1057,9,1,Drinks
+1057,9,3,Drinks
+1057,30,3,SeaFood
+1057,49,2,Non Veg
+1057,40,3,Veg
+1058,39,4,Non Veg
+1058,12,4,Drinks
+1058,44,1,Non Veg
+1058,15,2,Drinks
+1059,14,1,Drinks
+1059,2,4,Non Veg
+1059,44,2,Non Veg
+1059,15,2,Drinks
+1060,19,3,Non Veg
+1060,48,1,Bakery
+1060,2,2,Non Veg
+1060,7,2,Drinks
+1060,46,2,Veg
+1060,18,1,Bakery
+1061,9,2,Drinks
+1061,9,3,Drinks
+1061,42,4,Non Veg
+1061,14,1,Drinks
+1061,43,1,Veg
+1061,28,2,Drinks
+1061,12,2,Drinks
+1062,22,3,Veg
+1062,14,1,Drinks
+1062,49,2,Non Veg
+1062,44,1,Non Veg
+1062,31,4,Non Veg
+1062,11,1,Drinks
+1062,11,3,Drinks
+1063,3,3,Non Veg
+1063,34,3,SeaFood
+1063,48,3,Bakery
+1063,10,3,Drinks
+1063,37,2,Veg
+1063,49,2,Non Veg
+1063,33,1,SeaFood
+1063,29,3,Non Veg
+1064,48,2,Bakery
+1064,31,3,Non Veg
+1065,6,1,EggFood
+1065,6,4,EggFood
+1065,17,2,Bakery
+1065,9,1,Drinks
+1065,10,1,Drinks
+1065,28,2,Drinks
+1065,1,1,EggFood
+1066,39,4,Non Veg
+1066,40,4,Veg
+1067,22,2,Veg
+1067,42,4,Non Veg
+1067,30,4,SeaFood
+1067,46,1,Veg
+1068,21,4,Veg
+1068,2,4,Non Veg
+1068,23,2,Veg
+1068,12,4,Drinks
+1068,41,4,Veg
+1068,36,4,SeaFood
+1069,17,2,Bakery
+1069,37,2,Veg
+1069,20,4,Veg
+1070,19,1,Non Veg
+1070,43,1,Veg
+1070,23,3,Veg
+1070,33,2,SeaFood
+1071,19,1,Non Veg
+1071,31,1,Non Veg
+1072,25,1,Drinks
+1072,16,2,Drinks
+1072,14,1,Drinks
+1072,21,4,Veg
+1073,39,4,Non Veg
+1073,27,3,Bakery
+1073,34,4,SeaFood
+1073,7,2,Drinks
+1073,4,2,Non Veg
+1073,20,1,Veg
+1073,49,2,Non Veg
+1073,36,1,SeaFood
+1073,18,1,Bakery
+1074,30,2,SeaFood
+1074,43,2,Veg
+1074,49,2,Non Veg
+1074,32,1,SeaFood
+1074,44,3,Non Veg
+1074,33,3,SeaFood
+1074,40,4,Veg
+1075,22,3,Veg
+1075,38,4,Non Veg
+1076,3,1,Non Veg
+1076,8,3,Drinks
+1076,31,3,Non Veg
+1076,35,4,SeaFood
+1077,16,3,Drinks
+1077,9,4,Drinks
+1077,20,1,Veg
+1077,5,1,Non Veg
+1077,1,4,EggFood
+1078,27,1,Bakery
+1078,17,3,Bakery
+1078,34,2,SeaFood
+1078,14,3,Drinks
+1078,29,3,Non Veg
+1079,34,4,SeaFood
+1079,30,1,SeaFood
+1079,23,3,Veg
+1079,49,3,Non Veg
+1079,46,1,Veg
+1079,44,3,Non Veg
+1079,5,1,Non Veg
+1079,40,2,Veg
+1079,36,3,SeaFood
+1080,9,4,Drinks
+1080,12,3,Drinks
+1080,7,1,Drinks
+1080,5,1,Non Veg
+1080,11,3,Drinks
+1081,37,1,Veg
+1081,46,3,Veg
+1081,18,3,Bakery
+1081,18,3,Bakery
+1082,37,1,Veg
+1082,12,3,Drinks
+1082,44,4,Non Veg
+1082,41,4,Veg
+1082,8,3,Drinks
+1082,35,3,SeaFood
+1082,11,2,Drinks
+1083,17,2,Bakery
+1083,3,4,Non Veg
+1083,44,4,Non Veg
+1083,40,1,Veg
+1083,36,4,SeaFood
+1083,36,2,SeaFood
+1084,47,4,Veg
+1084,42,4,Non Veg
+1084,21,1,Veg
+1084,44,3,Non Veg
+1084,31,3,Non Veg
+1085,16,4,Drinks
+1085,32,1,SeaFood
+1085,26,3,Drinks
+1086,46,3,Veg
+1086,33,4,SeaFood
+1086,33,4,SeaFood
+1086,8,4,Drinks
+1087,48,2,Bakery
+1087,2,2,Non Veg
+1087,43,4,Veg
+1087,4,1,Non Veg
+1087,20,1,Veg
+1087,13,1,Drinks
+1088,6,3,EggFood
+1088,3,1,Non Veg
+1088,46,3,Veg
+1088,45,4,Non Veg
+1088,18,4,Bakery
+1088,26,3,Drinks
+1089,43,1,Veg
+1089,23,3,Veg
+1089,46,1,Veg
+1089,29,2,Non Veg
+1090,43,3,Veg
+1090,28,3,Drinks
+1090,5,4,Non Veg
+1090,29,1,Non Veg
+1091,17,1,Bakery
+1091,49,2,Non Veg
+1091,46,1,Veg
+1091,5,4,Non Veg
+1091,33,2,SeaFood
+1091,40,4,Veg
+1091,31,1,Non Veg
+1091,11,3,Drinks
+1092,25,1,Drinks
+1092,27,2,Bakery
+1092,48,2,Bakery
+1092,28,2,Drinks
+1092,36,2,SeaFood
+1092,31,3,Non Veg
+1093,34,3,SeaFood
+1093,48,3,Bakery
+1093,46,2,Veg
+1093,36,4,SeaFood
+1094,12,2,Drinks
+1095,28,2,Drinks
+1095,23,1,Veg
+1095,20,3,Veg
+1095,36,4,SeaFood
+1096,25,3,Drinks
+1096,37,1,Veg
+1096,41,3,Veg
+1096,8,1,Drinks
+1097,6,3,EggFood
+1097,30,2,SeaFood
+1097,7,3,Drinks
+1097,44,3,Non Veg
+1098,39,1,Non Veg
+1098,15,3,Drinks
+1098,35,3,SeaFood
+1099,27,4,Bakery
+1099,24,2,Veg
+1099,24,3,Veg
+1099,18,1,Bakery
+1100,9,3,Drinks
+1100,34,1,SeaFood
+1100,30,4,SeaFood
+1100,40,4,Veg
+1100,35,4,SeaFood
+1100,26,3,Drinks
+1100,11,3,Drinks
+1101,22,1,Veg
+1101,39,1,Non Veg
+1101,27,2,Bakery
+1101,34,1,SeaFood
+1101,10,3,Drinks
+1101,49,2,Non Veg
+1101,49,3,Non Veg
+1101,35,1,SeaFood
+1102,14,3,Drinks
+1102,21,1,Veg
+1102,30,3,SeaFood
+1102,24,3,Veg
+1102,41,2,Veg
+1102,35,1,SeaFood
+1103,27,2,Bakery
+1103,44,2,Non Veg
+1103,33,3,SeaFood
+1103,40,4,Veg
+1103,8,1,Drinks
+1104,27,4,Bakery
+1104,30,2,SeaFood
+1104,10,4,Drinks
+1104,41,2,Veg
+1105,27,4,Bakery
+1105,17,4,Bakery
+1105,46,2,Veg
+1105,15,4,Drinks
+1106,21,2,Veg
+1106,10,4,Drinks
+1106,12,2,Drinks
+1106,20,2,Veg
+1106,41,3,Veg
+1107,10,2,Drinks
+1107,10,2,Drinks
+1107,43,2,Veg
+1107,32,1,SeaFood
+1107,44,3,Non Veg
+1107,45,1,Non Veg
+1108,2,2,Non Veg
+1108,43,4,Veg
+1108,37,3,Veg
+1109,42,2,Non Veg
+1109,37,1,Veg
+1109,36,4,SeaFood
+1110,27,4,Bakery
+1110,27,2,Bakery
+1110,14,3,Drinks
+1110,15,3,Drinks
+1110,33,4,SeaFood
+1110,33,4,SeaFood
+1110,36,2,SeaFood
+1111,6,4,EggFood
+1111,15,1,Drinks
+1112,24,3,Veg
+1112,32,1,SeaFood
+1112,46,4,Veg
+1112,45,1,Non Veg
+1112,41,2,Veg
+1112,18,4,Bakery
+1112,18,4,Bakery
+1113,17,2,Bakery
+1113,24,4,Veg
+1113,46,1,Veg
+1113,46,1,Veg
+1113,11,2,Drinks
+1114,22,2,Veg
+1114,42,1,Non Veg
+1114,28,1,Drinks
+1114,7,4,Drinks
+1115,39,2,Non Veg
+1115,38,1,Non Veg
+1115,12,1,Drinks
+1115,45,2,Non Veg
+1115,18,3,Bakery
+1116,25,4,Drinks
+1116,47,3,Veg
+1116,10,2,Drinks
+1116,37,3,Veg
+1116,44,1,Non Veg
+1117,25,4,Drinks
+1117,19,3,Non Veg
+1117,47,1,Veg
+1117,2,3,Non Veg
+1117,32,1,SeaFood
+1117,11,4,Drinks
+1118,19,1,Non Veg
+1118,3,3,Non Veg
+1118,42,4,Non Veg
+1118,23,3,Veg
+1118,37,1,Veg
+1118,20,1,Veg
+1118,36,3,SeaFood
+1119,6,1,EggFood
+1119,24,3,Veg
+1119,45,4,Non Veg
+1119,36,2,SeaFood
+1119,36,1,SeaFood
+1119,8,2,Drinks
+1119,29,4,Non Veg
+1120,12,2,Drinks
+1120,24,1,Veg
+1120,32,4,SeaFood
+1120,44,1,Non Veg
+1120,35,2,SeaFood
+1121,19,1,Non Veg
+1121,30,3,SeaFood
+1121,10,1,Drinks
+1121,43,1,Veg
+1122,42,2,Non Veg
+1122,14,3,Drinks
+1122,23,4,Veg
+1122,33,3,SeaFood
+1123,3,3,Non Veg
+1124,39,2,Non Veg
+1124,9,3,Drinks
+1124,14,4,Drinks
+1124,28,4,Drinks
+1124,44,2,Non Veg
+1124,29,3,Non Veg
+1125,16,4,Drinks
+1125,48,4,Bakery
+1125,37,3,Veg
+1125,8,4,Drinks
+1125,18,2,Bakery
+1126,34,2,SeaFood
+1126,21,2,Veg
+1126,48,2,Bakery
+1126,49,1,Non Veg
+1126,44,2,Non Veg
+1126,15,2,Drinks
+1126,5,1,Non Veg
+1127,48,3,Bakery
+1127,28,3,Drinks
+1128,19,3,Non Veg
+1128,47,1,Veg
+1128,24,1,Veg
+1128,45,1,Non Veg
+1129,16,2,Drinks
+1129,27,1,Bakery
+1130,4,1,Non Veg
+1130,18,4,Bakery
+1130,26,3,Drinks
+1131,23,1,Veg
+1131,4,3,Non Veg
+1131,15,3,Drinks
+1131,15,1,Drinks
+1132,47,4,Veg
+1132,2,3,Non Veg
+1132,15,4,Drinks
+1133,39,2,Non Veg
+1133,38,3,Non Veg
+1133,30,4,SeaFood
+1133,35,1,SeaFood
+1134,39,4,Non Veg
+1134,30,3,SeaFood
+1134,23,1,Veg
+1134,37,4,Veg
+1134,49,4,Non Veg
+1134,45,2,Non Veg
+1134,13,2,Drinks
+1134,35,1,SeaFood
+1134,35,4,SeaFood
+1135,13,1,Drinks
+1135,35,1,SeaFood
+1135,1,2,EggFood
+1136,34,1,SeaFood
+1136,14,2,Drinks
+1136,36,1,SeaFood
+1136,18,1,Bakery
+1137,25,4,Drinks
+1137,49,4,Non Veg
+1137,46,1,Veg
+1137,18,3,Bakery
+1138,28,1,Drinks
+1138,20,1,Veg
+1138,45,4,Non Veg
+1139,6,2,EggFood
+1139,21,1,Veg
+1139,48,2,Bakery
+1139,33,2,SeaFood
+1139,35,3,SeaFood
+1139,35,1,SeaFood
+1140,21,3,Veg
+1140,24,2,Veg
+1140,49,4,Non Veg
+1140,36,1,SeaFood
+1141,28,3,Drinks
+1141,5,2,Non Veg
+1141,41,4,Veg
+1141,18,4,Bakery
+1142,22,2,Veg
+1142,21,4,Veg
+1142,33,2,SeaFood
+1142,13,4,Drinks
+1142,18,2,Bakery
+1142,35,3,SeaFood
+1142,1,1,EggFood
+1143,19,2,Non Veg
+1143,7,1,Drinks
+1143,40,2,Veg
+1143,36,2,SeaFood
+1143,29,1,Non Veg
+1144,21,4,Veg
+1144,2,2,Non Veg
+1144,8,1,Drinks
+1145,17,1,Bakery
+1145,14,4,Drinks
+1145,28,4,Drinks
+1145,23,4,Veg
+1145,32,3,SeaFood
+1145,15,3,Drinks
+1145,41,4,Veg
+1145,18,1,Bakery
+1145,18,1,Bakery
+1146,14,2,Drinks
+1147,14,3,Drinks
+1147,10,4,Drinks
+1147,43,2,Veg
+1147,7,1,Drinks
+1147,15,2,Drinks
+1147,5,3,Non Veg
+1147,40,2,Veg
+1148,39,2,Non Veg
+1148,31,3,Non Veg
+1149,6,2,EggFood
+1149,47,1,Veg
+1149,38,3,Non Veg
+1149,10,3,Drinks
+1149,24,1,Veg
+1149,46,2,Veg
+1149,44,1,Non Veg
+1149,33,2,SeaFood
+1149,35,2,SeaFood
+1150,16,1,Drinks
+1150,47,2,Veg
+1150,9,1,Drinks
+1150,34,2,SeaFood
+1150,38,3,Non Veg
+1150,43,1,Veg
+1150,43,4,Veg
+1150,37,1,Veg
+1150,46,2,Veg
+1150,46,4,Veg
+1150,13,1,Drinks
+1150,8,1,Drinks
+1150,31,2,Non Veg
+1151,19,3,Non Veg
+1151,14,3,Drinks
+1151,21,4,Veg
+1151,43,3,Veg
+1151,20,3,Veg
+1151,45,1,Non Veg
+1151,35,2,SeaFood
+1151,29,2,Non Veg
+1152,14,1,Drinks
+1152,20,3,Veg
+1152,44,1,Non Veg
+1152,31,1,Non Veg
+1152,35,4,SeaFood
+1153,39,2,Non Veg
+1153,39,3,Non Veg
+1153,4,3,Non Veg
+1153,20,1,Veg
+1153,29,1,Non Veg
+1154,39,4,Non Veg
+1154,27,1,Bakery
+1154,28,3,Drinks
+1154,41,1,Veg
+1154,8,3,Drinks
+1155,39,3,Non Veg
+1155,33,2,SeaFood
+1155,45,3,Non Veg
+1155,45,1,Non Veg
+1155,40,4,Veg
+1155,13,2,Drinks
+1155,36,4,SeaFood
+1156,22,2,Veg
+1156,16,4,Drinks
+1156,12,2,Drinks
+1156,7,1,Drinks
+1156,36,2,SeaFood
+1157,39,1,Non Veg
+1157,47,2,Veg
+1157,34,1,SeaFood
+1157,38,3,Non Veg
+1157,43,4,Veg
+1157,4,4,Non Veg
+1158,15,3,Drinks
+1158,36,4,SeaFood
+1159,42,1,Non Veg
+1159,24,4,Veg
+1159,33,3,SeaFood
+1160,37,4,Veg
+1160,24,4,Veg
+1161,39,2,Non Veg
+1161,25,2,Drinks
+1161,3,3,Non Veg
+1161,2,1,Non Veg
+1161,15,4,Drinks
+1161,26,1,Drinks
+1162,6,3,EggFood
+1162,22,3,Veg
+1162,25,1,Drinks
+1162,19,4,Non Veg
+1162,14,3,Drinks
+1162,32,3,SeaFood
+1162,45,4,Non Veg
+1163,23,3,Veg
+1163,37,3,Veg
+1163,1,3,EggFood
+1164,27,2,Bakery
+1164,34,4,SeaFood
+1164,38,1,Non Veg
+1164,38,4,Non Veg
+1164,40,4,Veg
+1164,13,4,Drinks
+1164,36,4,SeaFood
+1165,39,1,Non Veg
+1165,19,3,Non Veg
+1165,35,4,SeaFood
+1166,39,4,Non Veg
+1166,3,4,Non Veg
+1166,21,4,Veg
+1166,26,1,Drinks
+1167,48,4,Bakery
+1167,37,2,Veg
+1167,49,4,Non Veg
+1167,33,2,SeaFood
+1167,45,3,Non Veg
+1167,18,3,Bakery
+1168,25,3,Drinks
+1168,17,1,Bakery
+1168,17,3,Bakery
+1168,21,4,Veg
+1168,12,4,Drinks
+1168,7,1,Drinks
+1168,49,2,Non Veg
+1168,45,4,Non Veg
+1168,31,1,Non Veg
+1169,22,3,Veg
+1169,22,4,Veg
+1169,19,1,Non Veg
+1169,34,1,SeaFood
+1169,7,3,Drinks
+1169,4,2,Non Veg
+1169,41,4,Veg
+1169,29,3,Non Veg
+1170,14,3,Drinks
+1170,23,4,Veg
+1170,4,3,Non Veg
+1170,49,3,Non Veg
+1170,15,4,Drinks
+1171,25,2,Drinks
+1171,27,4,Bakery
+1171,19,2,Non Veg
+1171,17,1,Bakery
+1171,43,4,Veg
+1171,4,4,Non Veg
+1171,20,4,Veg
+1171,46,3,Veg
+1171,44,4,Non Veg
+1171,45,3,Non Veg
+1172,21,4,Veg
+1172,23,3,Veg
+1172,44,4,Non Veg
+1172,33,1,SeaFood
+1172,13,2,Drinks
+1172,36,1,SeaFood
+1172,36,2,SeaFood
+1173,27,1,Bakery
+1173,42,4,Non Veg
+1173,14,4,Drinks
+1173,5,3,Non Veg
+1174,14,1,Drinks
+1174,21,2,Veg
+1174,10,1,Drinks
+1174,37,1,Veg
+1174,12,1,Drinks
+1174,20,2,Veg
+1174,49,2,Non Veg
+1174,13,4,Drinks
+1175,30,1,SeaFood
+1175,4,1,Non Veg
+1175,44,3,Non Veg
+1175,15,4,Drinks
+1175,45,4,Non Veg
+1176,39,2,Non Veg
+1176,4,3,Non Veg
+1176,40,2,Veg
+1176,11,2,Drinks
+1177,40,4,Veg
+1177,41,2,Veg
+1177,31,1,Non Veg
+1178,47,3,Veg
+1178,28,3,Drinks
+1178,37,2,Veg
+1178,7,3,Drinks
+1178,4,2,Non Veg
+1178,45,2,Non Veg
+1178,18,2,Bakery
+1179,39,2,Non Veg
+1179,25,1,Drinks
+1179,14,3,Drinks
+1179,4,1,Non Veg
+1179,4,3,Non Veg
+1179,11,1,Drinks
+1180,12,2,Drinks
+1180,36,4,SeaFood
+1180,1,1,EggFood
+1180,26,2,Drinks
+1181,47,1,Veg
+1181,3,1,Non Veg
+1181,21,4,Veg
+1181,28,2,Drinks
+1181,49,3,Non Veg
+1181,32,3,SeaFood
+1181,44,4,Non Veg
+1181,5,3,Non Veg
+1182,25,1,Drinks
+1182,42,1,Non Veg
+1182,14,1,Drinks
+1182,14,1,Drinks
+1182,43,1,Veg
+1182,46,2,Veg
+1183,42,3,Non Veg
+1183,42,3,Non Veg
+1183,7,3,Drinks
+1183,4,3,Non Veg
+1183,32,2,SeaFood
+1183,5,1,Non Veg
+1184,16,4,Drinks
+1184,16,2,Drinks
+1184,9,4,Drinks
+1184,38,3,Non Veg
+1184,2,1,Non Veg
+1184,28,1,Drinks
+1184,7,3,Drinks
+1184,4,4,Non Veg
+1184,20,1,Veg
+1184,31,3,Non Veg
+1184,29,1,Non Veg
+1184,29,1,Non Veg
+1185,47,4,Veg
+1185,14,2,Drinks
+1185,2,3,Non Veg
+1185,30,2,SeaFood
+1185,37,1,Veg
+1185,24,4,Veg
+1185,8,4,Drinks
+1186,16,3,Drinks
+1186,24,3,Veg
+1186,49,4,Non Veg
+1186,33,4,SeaFood
+1186,18,3,Bakery
+1186,11,2,Drinks
+1187,22,3,Veg
+1187,16,1,Drinks
+1187,17,3,Bakery
+1187,3,1,Non Veg
+1187,2,4,Non Veg
+1187,5,1,Non Veg
+1187,13,1,Drinks
+1187,8,2,Drinks
+1188,22,2,Veg
+1188,16,3,Drinks
+1188,17,3,Bakery
+1188,3,4,Non Veg
+1188,7,4,Drinks
+1188,4,4,Non Veg
+1188,20,1,Veg
+1188,32,1,SeaFood
+1188,13,2,Drinks
+1188,26,4,Drinks
+1189,12,3,Drinks
+1189,26,4,Drinks
+1190,27,4,Bakery
+1190,27,3,Bakery
+1190,27,4,Bakery
+1190,42,2,Non Veg
+1190,30,4,SeaFood
+1190,5,3,Non Veg
+1190,45,1,Non Veg
+1190,31,4,Non Veg
+1190,11,2,Drinks
+1191,9,4,Drinks
+1191,34,2,SeaFood
+1191,23,3,Veg
+1191,23,1,Veg
+1191,49,4,Non Veg
+1191,45,2,Non Veg
+1192,34,2,SeaFood
+1192,37,1,Veg
+1193,6,1,EggFood
+1193,47,3,Veg
+1193,37,1,Veg
+1193,37,1,Veg
+1193,31,4,Non Veg
+1194,47,4,Veg
+1194,9,3,Drinks
+1194,34,3,SeaFood
+1194,14,4,Drinks
+1194,37,3,Veg
+1194,7,1,Drinks
+1194,7,2,Drinks
+1194,26,1,Drinks
+1195,6,2,EggFood
+1195,20,3,Veg
+1195,49,3,Non Veg
+1195,46,2,Veg
+1195,18,3,Bakery
+1196,6,4,EggFood
+1196,40,4,Veg
+1197,8,4,Drinks
+1198,14,4,Drinks
+1198,33,3,SeaFood
+1199,47,4,Veg
+1199,30,4,SeaFood
+1199,32,3,SeaFood
+1200,48,1,Bakery
+1200,23,2,Veg
+1200,4,2,Non Veg
+1200,46,4,Veg
+1200,45,3,Non Veg
+1200,29,4,Non Veg
+1201,42,3,Non Veg
+1201,42,1,Non Veg
+1201,43,3,Veg
+1201,13,4,Drinks
+1201,11,3,Drinks
+1202,24,3,Veg
+1202,5,4,Non Veg
+1202,45,4,Non Veg
+1203,16,2,Drinks
+1203,3,2,Non Veg
+1203,38,1,Non Veg
+1203,24,2,Veg
+1203,40,1,Veg
+1203,26,1,Drinks
+1204,17,1,Bakery
+1204,28,2,Drinks
+1204,26,1,Drinks
+1204,11,3,Drinks
+1205,47,4,Veg
+1205,24,3,Veg
+1205,11,2,Drinks
+1206,22,3,Veg
+1206,10,1,Drinks
+1206,43,2,Veg
+1206,24,1,Veg
+1207,22,1,Veg
+1207,49,2,Non Veg
+1208,30,3,SeaFood
+1208,18,4,Bakery
+1209,4,1,Non Veg
+1209,32,3,SeaFood
+1209,36,2,SeaFood
+1210,16,2,Drinks
+1210,38,1,Non Veg
+1210,37,1,Veg
+1210,12,2,Drinks
+1211,16,4,Drinks
+1211,34,2,SeaFood
+1211,46,2,Veg
+1211,13,4,Drinks
+1211,31,1,Non Veg
+1212,19,4,Non Veg
+1212,44,4,Non Veg
+1212,41,3,Veg
+1212,13,3,Drinks
+1213,6,3,EggFood
+1213,47,2,Veg
+1213,38,2,Non Veg
+1213,15,1,Drinks
+1213,41,2,Veg
+1213,26,1,Drinks
+1214,19,2,Non Veg
+1214,9,4,Drinks
+1214,3,2,Non Veg
+1214,10,2,Drinks
+1214,31,2,Non Veg
+1214,11,4,Drinks
+1215,9,3,Drinks
+1215,38,3,Non Veg
+1215,43,2,Veg
+1215,28,4,Drinks
+1215,11,3,Drinks
+1216,6,3,EggFood
+1216,39,1,Non Veg
+1216,27,2,Bakery
+1216,14,1,Drinks
+1216,30,1,SeaFood
+1216,23,1,Veg
+1216,15,3,Drinks
+1217,27,2,Bakery
+1217,19,2,Non Veg
+1217,49,4,Non Veg
+1217,5,3,Non Veg
+1218,11,4,Drinks
+1218,11,2,Drinks
+1219,39,4,Non Veg
+1219,38,1,Non Veg
+1219,30,4,SeaFood
+1219,23,2,Veg
+1219,23,3,Veg
+1220,12,2,Drinks
+1220,12,1,Drinks
+1220,32,1,SeaFood
+1220,45,4,Non Veg
+1221,6,2,EggFood
+1221,38,2,Non Veg
+1221,2,4,Non Veg
+1221,28,2,Drinks
+1221,35,2,SeaFood
+1221,35,1,SeaFood
+1221,1,2,EggFood
+1222,25,3,Drinks
+1222,25,3,Drinks
+1222,3,1,Non Veg
+1222,41,1,Veg
+1222,13,1,Drinks
+1222,8,2,Drinks
+1223,28,4,Drinks
+1223,40,1,Veg
+1224,23,3,Veg
+1224,13,1,Drinks
+1224,18,4,Bakery
+1225,39,4,Non Veg
+1225,23,3,Veg
+1226,25,2,Drinks
+1226,27,2,Bakery
+1226,34,2,SeaFood
+1226,10,4,Drinks
+1226,5,3,Non Veg
+1226,13,4,Drinks
+1226,18,4,Bakery
+1227,42,1,Non Veg
+1227,38,4,Non Veg
+1227,40,2,Veg
+1227,35,1,SeaFood
+1227,1,1,EggFood
+1227,11,1,Drinks
+1228,22,3,Veg
+1228,43,1,Veg
+1228,28,3,Drinks
+1228,18,4,Bakery
+1229,6,4,EggFood
+1229,42,4,Non Veg
+1229,10,1,Drinks
+1229,28,1,Drinks
+1229,45,4,Non Veg
+1229,18,3,Bakery
+1230,47,1,Veg
+1230,9,4,Drinks
+1230,4,2,Non Veg
+1230,40,1,Veg
+1230,40,2,Veg
+1230,41,4,Veg
+1230,36,4,SeaFood
+1230,8,2,Drinks
+1230,31,3,Non Veg
+1231,38,2,Non Veg
+1231,10,1,Drinks
+1231,12,1,Drinks
+1231,7,2,Drinks
+1231,36,3,SeaFood
+1231,36,3,SeaFood
+1231,31,1,Non Veg
+1232,6,2,EggFood
+1232,34,1,SeaFood
+1232,45,2,Non Veg
+1233,39,4,Non Veg
+1233,25,4,Drinks
+1233,30,2,SeaFood
+1233,30,2,SeaFood
+1233,20,2,Veg
+1234,10,4,Drinks
+1234,10,4,Drinks
+1234,7,3,Drinks
+1234,4,1,Non Veg
+1234,24,3,Veg
+1234,49,2,Non Veg
+1234,41,1,Veg
+1235,3,2,Non Veg
+1235,2,3,Non Veg
+1236,34,3,SeaFood
+1236,4,1,Non Veg
+1236,36,4,SeaFood
+1237,47,3,Veg
+1237,48,2,Bakery
+1237,2,4,Non Veg
+1237,43,2,Veg
+1237,26,2,Drinks
+1238,3,3,Non Veg
+1239,6,1,EggFood
+1239,30,1,SeaFood
+1239,32,1,SeaFood
+1240,39,2,Non Veg
+1240,47,1,Veg
+1240,37,3,Veg
+1240,4,2,Non Veg
+1240,29,4,Non Veg
+1241,3,2,Non Veg
+1241,10,3,Drinks
+1241,24,2,Veg
+1241,46,1,Veg
+1241,44,1,Non Veg
+1241,35,3,SeaFood
+1242,19,4,Non Veg
+1242,9,1,Drinks
+1242,3,3,Non Veg
+1242,34,4,SeaFood
+1242,36,1,SeaFood
+1242,35,1,SeaFood
+1242,29,3,Non Veg
+1243,17,1,Bakery
+1243,3,1,Non Veg
+1243,30,4,SeaFood
+1243,37,3,Veg
+1243,12,1,Drinks
+1243,24,4,Veg
+1243,15,3,Drinks
+1243,31,2,Non Veg
+1244,7,2,Drinks
+1244,8,4,Drinks
+1245,2,2,Non Veg
+1245,10,1,Drinks
+1246,38,3,Non Veg
+1246,18,1,Bakery
+1247,25,1,Drinks
+1247,16,3,Drinks
+1247,47,2,Veg
+1247,21,3,Veg
+1247,49,2,Non Veg
+1247,41,4,Veg
+1248,17,4,Bakery
+1248,17,1,Bakery
+1248,3,4,Non Veg
+1248,34,3,SeaFood
+1248,43,2,Veg
+1248,7,4,Drinks
+1248,5,4,Non Veg
+1248,13,4,Drinks
+1248,36,4,SeaFood
+1249,16,4,Drinks
+1249,47,3,Veg
+1249,32,2,SeaFood
+1249,5,2,Non Veg
+1249,13,2,Drinks
+1249,26,1,Drinks
+1250,47,3,Veg
+1250,28,2,Drinks
+1250,37,4,Veg
+1250,33,2,SeaFood
+1250,45,3,Non Veg
+1250,11,2,Drinks
+1251,34,2,SeaFood
+1251,10,3,Drinks
+1251,32,1,SeaFood
+1251,13,4,Drinks
+1251,36,3,SeaFood
+1251,1,3,EggFood
+1252,19,3,Non Veg
+1252,21,1,Veg
+1252,28,4,Drinks
+1252,23,1,Veg
+1252,33,4,SeaFood
+1252,33,3,SeaFood
+1252,35,3,SeaFood
+1253,43,1,Veg
+1253,5,4,Non Veg
+1253,29,3,Non Veg
+1253,11,1,Drinks
+1253,11,4,Drinks
+1254,22,4,Veg
+1254,43,4,Veg
+1254,49,4,Non Veg
+1254,33,1,SeaFood
+1254,36,3,SeaFood
+1254,29,1,Non Veg
+1255,39,3,Non Veg
+1255,7,2,Drinks
+1255,4,2,Non Veg
+1255,31,2,Non Veg
+1255,35,3,SeaFood
+1256,25,2,Drinks
+1256,27,2,Bakery
+1256,34,2,SeaFood
+1256,21,2,Veg
+1256,7,2,Drinks
+1256,4,2,Non Veg
+1256,26,3,Drinks
+1256,26,4,Drinks
+1257,27,1,Bakery
+1257,27,4,Bakery
+1257,17,1,Bakery
+1257,3,4,Non Veg
+1257,21,3,Veg
+1257,15,1,Drinks
+1257,8,1,Drinks
+1257,11,1,Drinks
+1258,34,2,SeaFood
+1258,14,1,Drinks
+1258,30,3,SeaFood
+1258,10,2,Drinks
+1258,44,1,Non Veg
+1258,45,1,Non Veg
+1258,13,1,Drinks
+1258,18,4,Bakery
+1259,6,2,EggFood
+1259,39,4,Non Veg
+1259,39,1,Non Veg
+1259,17,2,Bakery
+1259,23,4,Veg
+1259,31,2,Non Veg
+1259,18,1,Bakery
+1260,9,4,Drinks
+1260,33,3,SeaFood
+1260,13,2,Drinks
+1261,19,2,Non Veg
+1261,47,4,Veg
+1261,42,1,Non Veg
+1261,34,2,SeaFood
+1261,15,1,Drinks
+1261,29,3,Non Veg
+1262,34,2,SeaFood
+1262,49,2,Non Veg
+1262,40,3,Veg
+1262,35,4,SeaFood
+1262,1,1,EggFood
+1263,22,2,Veg
+1263,4,3,Non Veg
+1264,3,3,Non Veg
+1264,14,3,Drinks
+1264,38,3,Non Veg
+1264,31,3,Non Veg
+1265,39,2,Non Veg
+1265,34,2,SeaFood
+1265,21,4,Veg
+1265,43,4,Veg
+1265,4,2,Non Veg
+1265,26,4,Drinks
+1266,6,1,EggFood
+1266,47,1,Veg
+1266,34,4,SeaFood
+1266,38,3,Non Veg
+1266,44,3,Non Veg
+1266,8,2,Drinks
+1266,35,3,SeaFood
+1267,48,1,Bakery
+1267,44,4,Non Veg
+1267,41,4,Veg
+1268,24,3,Veg
+1268,24,2,Veg
+1268,36,4,SeaFood
+1268,36,2,SeaFood
+1268,36,3,SeaFood
+1268,26,4,Drinks
+1269,2,2,Non Veg
+1269,37,2,Veg
+1269,40,2,Veg
+1270,19,4,Non Veg
+1270,21,3,Veg
+1270,2,1,Non Veg
+1270,43,1,Veg
+1270,20,4,Veg
+1270,44,1,Non Veg
+1270,41,2,Veg
+1271,25,1,Drinks
+1271,16,1,Drinks
+1271,17,3,Bakery
+1271,34,3,SeaFood
+1271,10,2,Drinks
+1271,10,1,Drinks
+1271,10,1,Drinks
+1271,7,3,Drinks
+1271,35,4,SeaFood
+1272,22,2,Veg
+1272,14,3,Drinks
+1272,13,2,Drinks
+1272,13,2,Drinks
+1273,36,2,SeaFood
+1274,22,4,Veg
+1274,16,1,Drinks
+1274,16,3,Drinks
+1274,12,4,Drinks
+1274,7,2,Drinks
+1274,46,2,Veg
+1274,36,4,SeaFood
+1275,22,2,Veg
+1275,47,1,Veg
+1275,12,4,Drinks
+1275,12,1,Drinks
+1275,24,3,Veg
+1275,45,2,Non Veg
+1275,31,2,Non Veg
+1276,38,1,Non Veg
+1276,43,1,Veg
+1276,23,1,Veg
+1276,49,4,Non Veg
+1276,40,2,Veg
+1276,29,2,Non Veg
+1277,27,2,Bakery
+1277,7,1,Drinks
+1277,40,3,Veg
+1277,31,4,Non Veg
+1278,21,1,Veg
+1278,41,1,Veg
+1278,41,2,Veg
+1278,36,4,SeaFood
+1278,31,4,Non Veg
+1279,30,1,SeaFood
+1279,13,1,Drinks
+1280,23,4,Veg
+1280,37,1,Veg
+1280,7,4,Drinks
+1280,41,4,Veg
+1280,36,1,SeaFood
+1280,29,1,Non Veg
+1280,11,2,Drinks
+1281,21,1,Veg
+1281,30,3,SeaFood
+1281,30,4,SeaFood
+1281,5,4,Non Veg
+1282,21,4,Veg
+1282,35,4,SeaFood
+1283,21,3,Veg
+1283,10,1,Drinks
+1283,5,1,Non Veg
+1283,29,3,Non Veg
+1284,9,2,Drinks
+1284,34,3,SeaFood
+1284,24,4,Veg
+1284,40,2,Veg
+1284,31,3,Non Veg
+1285,25,2,Drinks
+1285,37,3,Veg
+1285,49,2,Non Veg
+1285,49,3,Non Veg
+1285,49,1,Non Veg
+1285,36,2,SeaFood
+1285,18,1,Bakery
+1285,18,2,Bakery
+1285,11,3,Drinks
+1286,38,1,Non Veg
+1286,2,3,Non Veg
+1286,37,3,Veg
+1286,4,2,Non Veg
+1286,18,4,Bakery
+1287,47,3,Veg
+1287,30,1,SeaFood
+1287,49,2,Non Veg
+1287,32,3,SeaFood
+1287,15,4,Drinks
+1287,13,2,Drinks
+1287,31,2,Non Veg
+1288,9,3,Drinks
+1288,2,4,Non Veg
+1288,29,3,Non Veg
+1289,28,1,Drinks
+1289,49,2,Non Veg
+1289,5,4,Non Veg
+1290,21,2,Veg
+1290,4,3,Non Veg
+1290,5,3,Non Veg
+1291,17,2,Bakery
+1291,9,4,Drinks
+1291,42,3,Non Veg
+1291,12,2,Drinks
+1291,32,1,SeaFood
+1291,13,4,Drinks
+1291,36,4,SeaFood
+1291,8,2,Drinks
+1291,1,3,EggFood
+1292,34,1,SeaFood
+1292,34,2,SeaFood
+1292,43,2,Veg
+1292,49,2,Non Veg
+1292,41,1,Veg
+1293,19,4,Non Veg
+1293,5,2,Non Veg
+1293,31,2,Non Veg
+1294,12,1,Drinks
+1295,22,2,Veg
+1295,19,2,Non Veg
+1295,23,3,Veg
+1295,20,3,Veg
+1295,41,3,Veg
+1295,18,1,Bakery
+1296,14,4,Drinks
+1296,2,3,Non Veg
+1296,7,1,Drinks
+1296,31,3,Non Veg
+1296,31,2,Non Veg
+1297,27,1,Bakery
+1298,6,2,EggFood
+1298,25,4,Drinks
+1298,10,2,Drinks
+1298,12,1,Drinks
+1298,4,1,Non Veg
+1298,45,2,Non Veg
+1298,45,2,Non Veg
+1299,47,4,Veg
+1299,21,2,Veg
+1299,20,3,Veg
+1300,19,2,Non Veg
+1300,47,2,Veg
+1300,38,4,Non Veg
+1300,23,1,Veg
+1300,37,4,Veg
+1300,4,3,Non Veg
+1300,11,3,Drinks
+1301,30,3,SeaFood
+1301,12,1,Drinks
+1302,6,2,EggFood
+1302,48,4,Bakery
+1302,30,4,SeaFood
+1302,37,4,Veg
+1302,4,4,Non Veg
+1302,5,2,Non Veg
+1302,45,2,Non Veg
+1302,18,4,Bakery
+1302,26,3,Drinks
+1303,17,1,Bakery
+1303,12,4,Drinks
+1303,4,3,Non Veg
+1303,29,4,Non Veg
+1304,42,4,Non Veg
+1304,14,4,Drinks
+1304,38,4,Non Veg
+1304,2,1,Non Veg
+1304,10,1,Drinks
+1304,41,2,Veg
+1305,32,2,SeaFood
+1305,40,4,Veg
+1306,40,4,Veg
+1307,22,2,Veg
+1307,44,3,Non Veg
+1307,41,2,Veg
+1307,31,2,Non Veg
+1308,16,3,Drinks
+1308,47,3,Veg
+1308,28,3,Drinks
+1308,12,2,Drinks
+1308,46,1,Veg
+1308,45,2,Non Veg
+1308,36,2,SeaFood
+1309,22,3,Veg
+1309,47,4,Veg
+1309,20,4,Veg
+1309,46,1,Veg
+1309,36,4,SeaFood
+1310,19,2,Non Veg
+1310,30,1,SeaFood
+1310,46,1,Veg
+1310,44,1,Non Veg
+1310,13,2,Drinks
+1311,6,2,EggFood
+1311,46,2,Veg
+1311,5,3,Non Veg
+1311,33,3,SeaFood
+1311,1,3,EggFood
+1311,1,4,EggFood
+1311,1,1,EggFood
+1312,42,3,Non Veg
+1312,2,2,Non Veg
+1312,43,4,Veg
+1312,15,2,Drinks
+1312,5,4,Non Veg
+1313,22,2,Veg
+1313,25,3,Drinks
+1313,16,3,Drinks
+1313,40,4,Veg
+1314,34,1,SeaFood
+1314,12,1,Drinks
+1315,16,1,Drinks
+1315,17,4,Bakery
+1315,47,2,Veg
+1315,9,1,Drinks
+1315,44,1,Non Veg
+1315,33,2,SeaFood
+1315,1,4,EggFood
+1316,3,3,Non Veg
+1316,10,1,Drinks
+1316,46,1,Veg
+1316,5,1,Non Veg
+1316,35,1,SeaFood
+1317,3,2,Non Veg
+1317,2,2,Non Veg
+1317,23,1,Veg
+1317,4,3,Non Veg
+1317,36,1,SeaFood
+1317,11,4,Drinks
+1318,34,3,SeaFood
+1318,43,3,Veg
+1318,15,2,Drinks
+1318,35,4,SeaFood
+1319,47,1,Veg
+1319,21,4,Veg
+1319,43,4,Veg
+1319,12,3,Drinks
+1320,21,1,Veg
+1320,37,4,Veg
+1320,24,4,Veg
+1320,40,4,Veg
+1320,26,3,Drinks
+1321,16,2,Drinks
+1321,3,3,Non Veg
+1321,42,4,Non Veg
+1321,48,4,Bakery
+1321,33,3,SeaFood
+1321,36,2,SeaFood
+1321,8,1,Drinks
+1322,25,1,Drinks
+1322,3,3,Non Veg
+1322,4,2,Non Veg
+1322,49,3,Non Veg
+1322,11,2,Drinks
+1323,22,3,Veg
+1323,30,2,SeaFood
+1323,37,1,Veg
+1324,10,3,Drinks
+1324,8,3,Drinks
+1325,6,3,EggFood
+1325,25,4,Drinks
+1325,16,2,Drinks
+1325,4,3,Non Veg
+1326,21,4,Veg
+1326,10,1,Drinks
+1326,12,2,Drinks
+1326,46,1,Veg
+1326,41,1,Veg
+1327,13,4,Drinks
+1327,13,4,Drinks
+1327,8,4,Drinks
+1328,40,1,Veg
+1328,36,4,SeaFood
+1328,31,1,Non Veg
+1328,18,3,Bakery
+1329,22,1,Veg
+1329,37,1,Veg
+1329,5,3,Non Veg
+1329,40,1,Veg
+1329,40,2,Veg
+1330,27,4,Bakery
+1330,19,1,Non Veg
+1330,40,2,Veg
+1330,11,4,Drinks
+1331,37,4,Veg
+1331,5,2,Non Veg
+1331,8,1,Drinks
+1332,19,4,Non Veg
+1332,48,1,Bakery
+1332,2,4,Non Veg
+1332,13,4,Drinks
+1332,36,3,SeaFood
+1333,47,1,Veg
+1333,20,1,Veg
+1333,15,2,Drinks
+1333,15,2,Drinks
+1333,15,3,Drinks
+1334,9,2,Drinks
+1334,48,4,Bakery
+1334,44,2,Non Veg
+1334,26,1,Drinks
+1335,27,3,Bakery
+1335,27,2,Bakery
+1335,14,4,Drinks
+1335,21,2,Veg
+1335,21,2,Veg
+1335,48,4,Bakery
+1335,49,3,Non Veg
+1335,26,3,Drinks
+1336,6,2,EggFood
+1336,17,2,Bakery
+1336,8,3,Drinks
+1336,31,3,Non Veg
+1336,1,2,EggFood
+1337,43,4,Veg
+1337,7,2,Drinks
+1337,32,4,SeaFood
+1337,33,1,SeaFood
+1337,13,1,Drinks
+1338,2,4,Non Veg
+1338,37,1,Veg
+1338,4,1,Non Veg
+1338,40,4,Veg
+1338,1,2,EggFood
+1339,10,3,Drinks
+1339,24,1,Veg
+1339,44,3,Non Veg
+1340,6,3,EggFood
+1340,19,3,Non Veg
+1340,17,3,Bakery
+1340,2,2,Non Veg
+1341,47,1,Veg
+1341,48,2,Bakery
+1341,12,3,Drinks
+1341,33,1,SeaFood
+1341,33,3,SeaFood
+1341,45,3,Non Veg
+1342,43,2,Veg
+1342,12,4,Drinks
+1342,44,3,Non Veg
+1342,44,2,Non Veg
+1343,16,1,Drinks
+1343,19,3,Non Veg
+1343,24,1,Veg
+1343,46,2,Veg
+1343,44,3,Non Veg
+1344,48,2,Bakery
+1345,22,3,Veg
+1345,30,2,SeaFood
+1345,10,4,Drinks
+1345,24,1,Veg
+1346,39,1,Non Veg
+1346,27,1,Bakery
+1346,10,4,Drinks
+1346,7,1,Drinks
+1346,8,3,Drinks
+1347,21,3,Veg
+1347,10,1,Drinks
+1347,46,2,Veg
+1347,31,1,Non Veg
+1348,6,1,EggFood
+1348,16,4,Drinks
+1348,12,1,Drinks
+1348,24,1,Veg
+1348,24,2,Veg
+1348,45,4,Non Veg
+1349,43,1,Veg
+1349,49,4,Non Veg
+1349,44,2,Non Veg
+1349,40,3,Veg
+1349,8,2,Drinks
+1349,31,3,Non Veg
+1349,18,3,Bakery
+1349,1,3,EggFood
+1350,39,3,Non Veg
+1350,14,4,Drinks
+1350,24,4,Veg
+1351,3,3,Non Veg
+1351,23,1,Veg
+1351,35,3,SeaFood
+1352,34,1,SeaFood
+1352,23,1,Veg
+1352,49,2,Non Veg
+1352,45,4,Non Veg
+1352,41,3,Veg
+1353,22,3,Veg
+1353,9,3,Drinks
+1353,14,3,Drinks
+1353,49,4,Non Veg
+1354,49,3,Non Veg
+1354,13,1,Drinks
+1355,25,3,Drinks
+1355,27,1,Bakery
+1355,17,3,Bakery
+1355,28,2,Drinks
+1355,45,3,Non Veg
+1355,18,3,Bakery
+1355,35,4,SeaFood
+1356,3,4,Non Veg
+1356,42,1,Non Veg
+1356,34,1,SeaFood
+1356,32,1,SeaFood
+1356,32,3,SeaFood
+1356,40,1,Veg
+1356,40,1,Veg
+1357,16,2,Drinks
+1357,14,3,Drinks
+1357,10,3,Drinks
+1357,43,4,Veg
+1357,20,1,Veg
+1357,40,4,Veg
+1357,1,1,EggFood
+1357,29,1,Non Veg
+1357,11,4,Drinks
+1358,43,3,Veg
+1358,28,4,Drinks
+1358,23,1,Veg
+1358,26,2,Drinks
+1359,47,3,Veg
+1359,40,1,Veg
+1360,33,4,SeaFood
+1360,36,3,SeaFood
+1360,8,1,Drinks
+1360,29,3,Non Veg
+1361,16,3,Drinks
+1361,27,2,Bakery
+1361,48,3,Bakery
+1361,18,4,Bakery
+1361,26,1,Drinks
+1362,42,2,Non Veg
+1362,14,2,Drinks
+1362,10,4,Drinks
+1362,26,2,Drinks
+1363,14,3,Drinks
+1363,30,2,SeaFood
+1363,20,4,Veg
+1363,45,3,Non Veg
+1363,26,4,Drinks
+1364,47,2,Veg
+1364,9,3,Drinks
+1364,34,2,SeaFood
+1364,10,4,Drinks
+1364,37,1,Veg
+1364,12,4,Drinks
+1365,23,1,Veg
+1365,5,1,Non Veg
+1365,11,1,Drinks
+1366,37,4,Veg
+1366,18,3,Bakery
+1366,29,1,Non Veg
+1367,22,4,Veg
+1367,21,3,Veg
+1367,20,1,Veg
+1367,49,2,Non Veg
+1367,33,2,SeaFood
+1367,45,4,Non Veg
+1368,48,3,Bakery
+1368,10,1,Drinks
+1368,20,4,Veg
+1368,49,4,Non Veg
+1368,35,4,SeaFood
+1368,1,2,EggFood
+1369,6,4,EggFood
+1369,21,1,Veg
+1369,37,3,Veg
+1369,12,4,Drinks
+1369,5,1,Non Veg
+1369,33,4,SeaFood
+1369,1,1,EggFood
+1370,6,4,EggFood
+1370,3,3,Non Veg
+1370,12,3,Drinks
+1370,20,4,Veg
+1370,26,3,Drinks
+1371,22,2,Veg
+1371,27,4,Bakery
+1371,28,1,Drinks
+1371,12,3,Drinks
+1371,49,3,Non Veg
+1371,40,3,Veg
+1371,11,2,Drinks
+1372,28,4,Drinks
+1372,5,4,Non Veg
+1372,18,2,Bakery
+1373,14,2,Drinks
+1373,4,4,Non Veg
+1374,22,4,Veg
+1374,34,1,SeaFood
+1374,24,2,Veg
+1374,8,4,Drinks
+1374,35,2,SeaFood
+1374,35,1,SeaFood
+1375,30,2,SeaFood
+1375,10,4,Drinks
+1375,7,1,Drinks
+1375,24,3,Veg
+1375,44,3,Non Veg
+1375,36,1,SeaFood
+1376,16,2,Drinks
+1376,4,1,Non Veg
+1376,45,2,Non Veg
+1376,13,1,Drinks
+1377,34,3,SeaFood
+1377,32,1,SeaFood
+1377,13,3,Drinks
+1377,35,4,SeaFood
+1378,16,1,Drinks
+1378,48,1,Bakery
+1378,24,3,Veg
+1378,20,2,Veg
+1378,41,4,Veg
+1378,11,2,Drinks
+1379,49,1,Non Veg
+1379,5,3,Non Veg
+1379,1,4,EggFood
+1380,28,3,Drinks
+1380,28,4,Drinks
+1381,46,3,Veg
+1381,41,1,Veg
+1381,8,1,Drinks
+1381,35,3,SeaFood
+1381,26,2,Drinks
+1382,19,1,Non Veg
+1382,17,2,Bakery
+1382,17,3,Bakery
+1382,9,1,Drinks
+1382,28,1,Drinks
+1382,41,2,Veg
+1383,17,4,Bakery
+1383,34,2,SeaFood
+1383,35,2,SeaFood
+1383,11,4,Drinks
+1384,3,3,Non Veg
+1384,30,3,SeaFood
+1384,37,3,Veg
+1384,7,2,Drinks
+1384,44,2,Non Veg
+1384,33,3,SeaFood
+1384,33,4,SeaFood
+1385,22,2,Veg
+1385,16,4,Drinks
+1385,9,3,Drinks
+1385,23,3,Veg
+1385,5,3,Non Veg
+1385,41,2,Veg
+1385,29,2,Non Veg
+1385,11,3,Drinks
+1386,40,3,Veg
+1387,19,3,Non Veg
+1387,7,1,Drinks
+1387,36,2,SeaFood
+1388,42,1,Non Veg
+1388,31,1,Non Veg
+1388,31,2,Non Veg
+1388,1,4,EggFood
+1389,25,2,Drinks
+1389,46,4,Veg
+1389,5,1,Non Veg
+1390,3,3,Non Veg
+1390,24,3,Veg
+1390,44,2,Non Veg
+1390,13,4,Drinks
+1391,39,4,Non Veg
+1391,30,3,SeaFood
+1391,10,2,Drinks
+1391,12,2,Drinks
+1391,15,3,Drinks
+1392,3,2,Non Veg
+1392,23,4,Veg
+1392,24,1,Veg
+1392,15,1,Drinks
+1392,40,1,Veg
+1393,3,4,Non Veg
+1393,4,3,Non Veg
+1393,1,2,EggFood
+1394,39,2,Non Veg
+1394,19,4,Non Veg
+1394,4,3,Non Veg
+1394,4,1,Non Veg
+1395,14,3,Drinks
+1395,5,1,Non Veg
+1395,36,2,SeaFood
+1395,11,1,Drinks
+1396,25,1,Drinks
+1396,27,2,Bakery
+1396,19,2,Non Veg
+1396,34,4,SeaFood
+1396,41,3,Veg
+1396,26,3,Drinks
+1397,47,3,Veg
+1397,9,3,Drinks
+1397,3,1,Non Veg
+1397,14,4,Drinks
+1398,24,1,Veg
+1398,33,1,SeaFood
+1399,48,1,Bakery
+1399,2,1,Non Veg
+1399,44,3,Non Veg
+1399,13,3,Drinks
+1399,29,1,Non Veg
+1400,47,3,Veg
+1400,12,4,Drinks
+1400,32,3,SeaFood
+1400,45,4,Non Veg
+1400,13,4,Drinks
+1400,8,2,Drinks
+1400,18,2,Bakery
+1401,9,2,Drinks
+1401,30,3,SeaFood
+1401,30,2,SeaFood
+1401,46,2,Veg
+1402,3,2,Non Veg
+1402,34,3,SeaFood
+1402,49,2,Non Veg
+1402,18,2,Bakery
+1403,7,4,Drinks
+1403,20,3,Veg
+1404,19,1,Non Veg
+1404,9,4,Drinks
+1404,20,3,Veg
+1404,26,2,Drinks
+1405,22,3,Veg
+1405,39,3,Non Veg
+1405,34,3,SeaFood
+1405,14,4,Drinks
+1405,12,4,Drinks
+1405,20,4,Veg
+1405,36,4,SeaFood
+1405,36,4,SeaFood
+1406,47,2,Veg
+1406,28,2,Drinks
+1406,40,2,Veg
+1406,26,2,Drinks
+1406,11,1,Drinks
+1408,6,3,EggFood
+1408,16,4,Drinks
+1408,34,3,SeaFood
+1408,23,4,Veg
+1408,4,2,Non Veg
+1408,41,3,Veg
+1409,39,2,Non Veg
+1409,25,4,Drinks
+1409,48,4,Bakery
+1409,4,2,Non Veg
+1409,44,1,Non Veg
+1409,45,4,Non Veg
+1409,13,4,Drinks
+1409,31,1,Non Veg
+1411,39,2,Non Veg
+1411,16,1,Drinks
+1411,48,3,Bakery
+1411,45,2,Non Veg
+1411,36,4,SeaFood
+1411,29,3,Non Veg
+1411,11,2,Drinks
+1411,11,1,Drinks
+1412,3,2,Non Veg
+1412,30,2,SeaFood
+1412,23,3,Veg
+1412,40,4,Veg
+1412,1,4,EggFood
+1412,11,3,Drinks
+1413,14,1,Drinks
+1413,38,2,Non Veg
+1413,38,4,Non Veg
+1413,43,4,Veg
+1413,46,1,Veg
+1413,31,4,Non Veg
+1414,25,2,Drinks
+1414,21,3,Veg
+1414,43,1,Veg
+1414,8,2,Drinks
+1415,27,1,Bakery
+1415,34,2,SeaFood
+1415,5,2,Non Veg
+1415,36,2,SeaFood
+1415,18,2,Bakery
+1415,35,3,SeaFood
+1415,35,3,SeaFood
+1416,16,1,Drinks
+1416,17,1,Bakery
+1416,44,1,Non Veg
+1416,1,4,EggFood
+1416,11,2,Drinks
+1417,10,1,Drinks
+1417,7,2,Drinks
+1417,4,1,Non Veg
+1417,5,4,Non Veg
+1417,40,4,Veg
+1417,40,4,Veg
+1418,22,2,Veg
+1418,47,2,Veg
+1418,47,3,Veg
+1418,9,1,Drinks
+1418,2,3,Non Veg
+1418,12,1,Drinks
+1418,24,2,Veg
+1418,32,2,SeaFood
+1419,27,4,Bakery
+1419,48,2,Bakery
+1419,43,2,Veg
+1419,4,1,Non Veg
+1419,15,3,Drinks
+1419,41,3,Veg
+1419,1,1,EggFood
+1420,30,2,SeaFood
+1420,23,2,Veg
+1420,45,3,Non Veg
+1421,22,3,Veg
+1421,39,1,Non Veg
+1421,21,1,Veg
+1421,38,1,Non Veg
+1421,12,1,Drinks
+1421,24,3,Veg
+1421,24,4,Veg
+1421,33,3,SeaFood
+1421,45,4,Non Veg
+1422,16,1,Drinks
+1422,16,1,Drinks
+1422,21,3,Veg
+1422,21,2,Veg
+1422,36,3,SeaFood
+1422,18,3,Bakery
+1423,22,2,Veg
+1423,9,2,Drinks
+1423,9,2,Drinks
+1423,3,4,Non Veg
+1423,21,4,Veg
+1423,38,2,Non Veg
+1423,36,1,SeaFood
+1423,31,3,Non Veg
+1424,16,3,Drinks
+1424,23,2,Veg
+1424,44,2,Non Veg
+1424,15,2,Drinks
+1425,39,3,Non Veg
+1425,2,3,Non Veg
+1425,10,1,Drinks
+1425,4,2,Non Veg
+1425,46,2,Veg
+1425,8,3,Drinks
+1426,39,2,Non Veg
+1426,9,4,Drinks
+1426,28,2,Drinks
+1426,23,2,Veg
+1426,32,1,SeaFood
+1427,38,2,Non Veg
+1427,28,1,Drinks
+1427,15,4,Drinks
+1427,5,1,Non Veg
+1427,26,1,Drinks
+1428,6,3,EggFood
+1428,42,1,Non Veg
+1428,48,2,Bakery
+1428,12,4,Drinks
+1428,24,3,Veg
+1428,5,1,Non Veg
+1428,35,4,SeaFood
+1429,9,2,Drinks
+1429,9,4,Drinks
+1429,14,1,Drinks
+1429,23,4,Veg
+1429,7,2,Drinks
+1429,4,3,Non Veg
+1429,20,4,Veg
+1429,5,4,Non Veg
+1429,41,4,Veg
+1429,31,1,Non Veg
+1429,26,2,Drinks
+1430,28,1,Drinks
+1430,33,2,SeaFood
+1431,9,2,Drinks
+1431,24,4,Veg
+1431,36,2,SeaFood
+1432,38,2,Non Veg
+1432,28,2,Drinks
+1432,18,4,Bakery
+1433,17,2,Bakery
+1433,15,2,Drinks
+1433,29,4,Non Veg
+1434,16,2,Drinks
+1434,34,2,SeaFood
+1434,43,2,Veg
+1434,33,3,SeaFood
+1435,19,4,Non Veg
+1435,23,1,Veg
+1435,7,4,Drinks
+1435,4,2,Non Veg
+1436,17,4,Bakery
+1436,42,1,Non Veg
+1436,30,3,SeaFood
+1436,40,4,Veg
+1437,27,4,Bakery
+1437,27,1,Bakery
+1437,48,3,Bakery
+1437,23,3,Veg
+1438,34,4,SeaFood
+1438,21,3,Veg
+1438,10,4,Drinks
+1438,37,3,Veg
+1438,24,4,Veg
+1438,45,1,Non Veg
+1438,40,3,Veg
+1439,25,3,Drinks
+1439,8,3,Drinks
+1440,24,3,Veg
+1440,32,2,SeaFood
+1440,15,1,Drinks
+1440,40,1,Veg
+1440,41,2,Veg
+1440,26,4,Drinks
+1440,11,3,Drinks
+1441,3,1,Non Veg
+1441,7,3,Drinks
+1441,32,1,SeaFood
+1441,13,3,Drinks
+1442,30,2,SeaFood
+1442,37,4,Veg
+1442,4,4,Non Veg
+1442,32,4,SeaFood
+1442,35,3,SeaFood
+1442,35,2,SeaFood
+1443,22,3,Veg
+1443,16,3,Drinks
+1443,3,1,Non Veg
+1443,31,3,Non Veg
+1443,31,1,Non Veg
+1443,35,2,SeaFood
+1444,19,2,Non Veg
+1444,15,2,Drinks
+1445,16,3,Drinks
+1445,14,4,Drinks
+1445,23,4,Veg
+1445,32,4,SeaFood
+1445,5,1,Non Veg
+1445,31,4,Non Veg
+1445,35,4,SeaFood
+1446,2,3,Non Veg
+1446,24,1,Veg
+1446,29,2,Non Veg
+1447,27,3,Bakery
+1447,44,2,Non Veg
+1447,40,4,Veg
+1447,1,1,EggFood
+1448,14,4,Drinks
+1448,23,4,Veg
+1448,20,2,Veg
+1449,47,4,Veg
+1449,7,1,Drinks
+1449,15,2,Drinks
+1449,29,3,Non Veg
+1450,19,1,Non Veg
+1450,10,3,Drinks
+1450,7,4,Drinks
+1451,19,3,Non Veg
+1451,28,4,Drinks
+1451,23,2,Veg
+1451,24,4,Veg
+1451,32,4,SeaFood
+1451,8,1,Drinks
+1451,35,2,SeaFood
+1452,6,2,EggFood
+1452,42,4,Non Veg
+1452,14,3,Drinks
+1452,21,4,Veg
+1452,32,2,SeaFood
+1452,15,1,Drinks
+1452,13,4,Drinks
+1452,36,2,SeaFood
+1452,26,4,Drinks
+1452,26,4,Drinks
+1453,17,3,Bakery
+1453,47,1,Veg
+1453,47,3,Veg
+1453,2,3,Non Veg
+1453,24,1,Veg
+1453,46,4,Veg
+1453,40,4,Veg
+1453,36,3,SeaFood
+1454,27,4,Bakery
+1454,19,3,Non Veg
+1454,43,3,Veg
+1454,5,4,Non Veg
+1455,27,2,Bakery
+1455,48,4,Bakery
+1455,23,3,Veg
+1455,45,4,Non Veg
+1456,38,3,Non Veg
+1456,23,2,Veg
+1456,20,3,Veg
+1456,49,2,Non Veg
+1456,44,4,Non Veg
+1456,45,3,Non Veg
+1456,18,2,Bakery
+1456,18,1,Bakery
+1457,39,3,Non Veg
+1457,16,2,Drinks
+1457,10,4,Drinks
+1457,4,3,Non Veg
+1457,13,1,Drinks
+1458,39,1,Non Veg
+1458,14,2,Drinks
+1458,2,1,Non Veg
+1458,43,2,Veg
+1458,36,2,SeaFood
+1458,1,1,EggFood
+1459,13,3,Drinks
+1459,35,4,SeaFood
+1460,34,3,SeaFood
+1460,21,4,Veg
+1460,13,4,Drinks
+1461,27,3,Bakery
+1461,42,3,Non Veg
+1461,30,3,SeaFood
+1461,20,3,Veg
+1461,1,4,EggFood
+1461,26,2,Drinks
+1462,12,3,Drinks
+1462,40,3,Veg
+1462,35,3,SeaFood
+1463,22,2,Veg
+1463,20,3,Veg
+1464,25,4,Drinks
+1464,9,4,Drinks
+1464,48,2,Bakery
+1464,32,3,SeaFood
+1464,33,3,SeaFood
+1464,26,4,Drinks
+1465,8,4,Drinks
+1465,26,2,Drinks
+1465,26,3,Drinks
+1466,16,2,Drinks
+1466,42,2,Non Veg
+1466,30,4,SeaFood
+1466,32,2,SeaFood
+1467,2,2,Non Veg
+1467,5,3,Non Veg
+1467,8,3,Drinks
+1467,31,4,Non Veg
+1468,48,2,Bakery
+1468,30,3,SeaFood
+1468,46,2,Veg
+1468,33,3,SeaFood
+1468,29,3,Non Veg
+1469,39,2,Non Veg
+1469,14,3,Drinks
+1469,46,2,Veg
+1469,45,3,Non Veg
+1469,26,4,Drinks
+1470,22,3,Veg
+1470,5,4,Non Veg
+1470,41,3,Veg
+1470,8,4,Drinks
+1471,22,4,Veg
+1471,39,1,Non Veg
+1471,17,4,Bakery
+1471,21,3,Veg
+1471,38,4,Non Veg
+1471,10,1,Drinks
+1471,24,1,Veg
+1471,29,3,Non Veg
+1472,3,2,Non Veg
+1472,48,4,Bakery
+1472,45,4,Non Veg
+1472,31,2,Non Veg
+1473,39,4,Non Veg
+1473,32,3,SeaFood
+1473,8,4,Drinks
+1474,25,2,Drinks
+1474,25,1,Drinks
+1474,27,1,Bakery
+1474,9,1,Drinks
+1474,38,3,Non Veg
+1474,10,1,Drinks
+1474,44,3,Non Veg
+1475,17,2,Bakery
+1475,47,3,Veg
+1475,28,1,Drinks
+1475,32,4,SeaFood
+1475,35,1,SeaFood
+1475,26,2,Drinks
+1476,22,4,Veg
+1476,25,3,Drinks
+1476,47,3,Veg
+1476,33,1,SeaFood
+1477,25,4,Drinks
+1477,47,3,Veg
+1477,42,3,Non Veg
+1477,2,2,Non Veg
+1477,30,4,SeaFood
+1477,23,1,Veg
+1477,7,1,Drinks
+1477,40,3,Veg
+1478,43,1,Veg
+1478,32,1,SeaFood
+1479,19,3,Non Veg
+1479,38,1,Non Veg
+1479,40,4,Veg
+1479,29,4,Non Veg
+1480,19,1,Non Veg
+1480,30,3,SeaFood
+1480,23,2,Veg
+1480,44,1,Non Veg
+1480,18,4,Bakery
+1481,22,1,Veg
+1481,21,3,Veg
+1481,23,4,Veg
+1481,20,1,Veg
+1482,47,3,Veg
+1482,23,2,Veg
+1482,23,1,Veg
+1482,29,2,Non Veg
+1483,30,2,SeaFood
+1483,4,3,Non Veg
+1483,24,1,Veg
+1484,17,1,Bakery
+1484,7,3,Drinks
+1484,4,2,Non Veg
+1484,4,4,Non Veg
+1484,20,1,Veg
+1484,33,2,SeaFood
+1485,10,2,Drinks
+1485,10,4,Drinks
+1485,24,4,Veg
+1485,29,3,Non Veg
+1486,37,1,Veg
+1486,41,4,Veg
+1486,36,1,SeaFood
+1486,31,3,Non Veg
+1486,1,2,EggFood
+1487,42,1,Non Veg
+1487,38,4,Non Veg
+1487,41,1,Veg
+1487,31,1,Non Veg
+1487,29,3,Non Veg
+1487,29,3,Non Veg
+1487,11,4,Drinks
+1488,15,2,Drinks
+1489,6,1,EggFood
+1489,17,4,Bakery
+1489,9,4,Drinks
+1489,38,4,Non Veg
+1490,39,1,Non Veg
+1490,12,4,Drinks
+1490,45,4,Non Veg
+1490,40,2,Veg
+1491,21,2,Veg
+1491,46,4,Veg
+1491,46,3,Veg
+1491,15,3,Drinks
+1491,35,2,SeaFood
+1492,42,2,Non Veg
+1492,34,1,SeaFood
+1492,12,2,Drinks
+1492,5,3,Non Veg
+1493,28,4,Drinks
+1493,37,1,Veg
+1494,22,2,Veg
+1494,42,1,Non Veg
+1494,41,4,Veg
+1494,31,2,Non Veg
+1495,42,1,Non Veg
+1495,34,1,SeaFood
+1495,38,1,Non Veg
+1495,38,4,Non Veg
+1495,12,4,Drinks
+1495,45,2,Non Veg
+1496,34,3,SeaFood
+1496,30,2,SeaFood
+1496,33,2,SeaFood
+1496,18,4,Bakery
+1497,19,4,Non Veg
+1497,43,1,Veg
+1498,22,4,Veg
+1498,34,3,SeaFood
+1498,43,3,Veg
+1498,4,3,Non Veg
+1498,4,1,Non Veg
+1498,44,3,Non Veg
+1499,19,4,Non Veg
+1499,34,3,SeaFood
+1499,7,1,Drinks
+1499,32,2,SeaFood
+1499,13,4,Drinks
+1499,36,2,SeaFood
+1499,1,1,EggFood
+1500,27,3,Bakery
+1500,19,3,Non Veg
+1500,19,4,Non Veg
+1500,48,1,Bakery
+1501,42,2,Non Veg
+1501,21,4,Veg
+1501,30,3,SeaFood
+1501,10,3,Drinks
+1501,28,4,Drinks
+1501,37,3,Veg
+1501,24,2,Veg
+1501,31,2,Non Veg
+1501,11,2,Drinks
+1502,17,1,Bakery
+1502,13,3,Drinks
+1502,31,1,Non Veg
+1503,9,4,Drinks
+1503,3,2,Non Veg
+1503,44,1,Non Veg
+1503,45,3,Non Veg
+1503,31,1,Non Veg
+1503,35,1,SeaFood
+1503,11,1,Drinks
+1504,43,3,Veg
+1504,45,3,Non Veg
+1504,13,3,Drinks
+1504,13,4,Drinks
+1505,17,1,Bakery
+1505,43,4,Veg
+1505,37,4,Veg
+1505,24,3,Veg
+1505,46,3,Veg
+1505,41,1,Veg
+1505,1,2,EggFood
+1506,48,1,Bakery
+1506,24,4,Veg
+1507,22,4,Veg
+1507,10,2,Drinks
+1507,20,3,Veg
+1507,44,4,Non Veg
+1507,41,1,Veg
+1507,36,3,SeaFood
+1508,14,3,Drinks
+1508,21,4,Veg
+1508,28,1,Drinks
+1508,20,1,Veg
+1508,20,2,Veg
+1508,36,3,SeaFood
+1509,9,2,Drinks
+1509,7,4,Drinks
+1509,13,3,Drinks
+1509,29,1,Non Veg
+1510,6,3,EggFood
+1510,19,1,Non Veg
+1510,17,3,Bakery
+1510,43,3,Veg
+1510,46,2,Veg
+1510,1,1,EggFood
+1511,7,3,Drinks
+1511,20,3,Veg
+1511,5,2,Non Veg
+1511,36,2,SeaFood
+1511,31,1,Non Veg
+1512,22,3,Veg
+1512,2,3,Non Veg
+1512,43,3,Veg
+1512,28,3,Drinks
+1512,49,1,Non Veg
+1512,18,3,Bakery
+1512,18,4,Bakery
+1513,17,2,Bakery
+1513,34,4,SeaFood
+1513,30,4,SeaFood
+1513,30,1,SeaFood
+1513,24,4,Veg
+1513,44,4,Non Veg
+1513,1,4,EggFood
+1513,26,2,Drinks
+1514,25,4,Drinks
+1514,17,3,Bakery
+1514,9,3,Drinks
+1514,36,1,SeaFood
+1514,36,2,SeaFood
+1515,19,1,Non Veg
+1515,9,2,Drinks
+1515,2,2,Non Veg
+1515,37,4,Veg
+1515,45,2,Non Veg
+1515,45,1,Non Veg
+1516,21,2,Veg
+1516,28,1,Drinks
+1516,15,4,Drinks
+1517,25,1,Drinks
+1517,3,2,Non Veg
+1517,4,2,Non Veg
+1517,44,1,Non Veg
+1517,44,3,Non Veg
+1517,33,3,SeaFood
+1518,25,1,Drinks
+1518,17,4,Bakery
+1518,10,1,Drinks
+1518,4,3,Non Veg
+1518,44,4,Non Veg
+1518,15,3,Drinks
+1518,26,4,Drinks
+1518,11,4,Drinks
+1519,27,2,Bakery
+1519,14,1,Drinks
+1519,21,4,Veg
+1519,2,3,Non Veg
+1520,39,3,Non Veg
+1520,25,4,Drinks
+1520,47,3,Veg
+1520,42,2,Non Veg
+1520,43,1,Veg
+1520,44,2,Non Veg
+1521,21,4,Veg
+1521,38,1,Non Veg
+1521,23,2,Veg
+1521,4,1,Non Veg
+1521,24,1,Veg
+1521,13,1,Drinks
+1522,16,2,Drinks
+1522,34,4,SeaFood
+1522,32,2,SeaFood
+1522,35,4,SeaFood
+1523,7,3,Drinks
+1523,20,2,Veg
+1523,44,2,Non Veg
+1523,29,2,Non Veg
+1523,11,1,Drinks
+1524,43,3,Veg
+1524,33,4,SeaFood
+1524,45,4,Non Veg
+1524,40,3,Veg
+1524,8,4,Drinks
+1525,34,4,SeaFood
+1525,38,4,Non Veg
+1525,38,4,Non Veg
+1525,49,4,Non Veg
+1525,18,2,Bakery
+1525,29,1,Non Veg
+1526,39,4,Non Veg
+1526,25,4,Drinks
+1526,37,2,Veg
+1526,12,3,Drinks
+1526,32,1,SeaFood
+1526,41,1,Veg
+1527,42,3,Non Veg
+1527,38,4,Non Veg
+1527,12,4,Drinks
+1527,24,2,Veg
+1528,47,3,Veg
+1528,21,3,Veg
+1528,30,1,SeaFood
+1528,10,1,Drinks
+1528,12,4,Drinks
+1528,32,3,SeaFood
+1528,31,3,Non Veg
+1528,1,3,EggFood
+1528,11,4,Drinks
+1529,18,1,Bakery
+1529,1,1,EggFood
+1529,11,1,Drinks
+1530,18,3,Bakery
+1531,17,3,Bakery
+1531,31,2,Non Veg
+1531,29,3,Non Veg
+1532,32,4,SeaFood
+1532,41,1,Veg
+1532,11,1,Drinks
+1533,22,1,Veg
+1533,22,4,Veg
+1533,48,3,Bakery
+1533,2,1,Non Veg
+1533,43,3,Veg
+1533,20,2,Veg
+1533,40,4,Veg
+1533,40,2,Veg
+1533,41,4,Veg
+1533,13,3,Drinks
+1534,38,3,Non Veg
+1534,20,1,Veg
+1534,5,2,Non Veg
+1535,21,4,Veg
+1535,2,3,Non Veg
+1535,23,4,Veg
+1535,7,3,Drinks
+1535,24,4,Veg
+1535,33,2,SeaFood
+1535,1,2,EggFood
+1536,12,2,Drinks
+1536,32,1,SeaFood
+1536,41,4,Veg
+1536,26,2,Drinks
+1536,11,4,Drinks
+1537,35,2,SeaFood
+1538,39,1,Non Veg
+1538,34,1,SeaFood
+1538,12,2,Drinks
+1538,20,4,Veg
+1538,40,4,Veg
+1539,27,2,Bakery
+1539,43,4,Veg
+1539,1,1,EggFood
+1540,6,1,EggFood
+1540,47,3,Veg
+1540,9,3,Drinks
+1540,24,4,Veg
+1540,40,4,Veg
+1541,22,1,Veg
+1541,24,4,Veg
+1541,15,3,Drinks
+1542,39,4,Non Veg
+1542,4,1,Non Veg
+1542,46,3,Veg
+1542,40,4,Veg
+1542,31,2,Non Veg
+1542,29,3,Non Veg
+1542,29,2,Non Veg
+1543,14,3,Drinks
+1543,14,1,Drinks
+1543,48,1,Bakery
+1543,23,3,Veg
+1543,5,3,Non Veg
+1544,9,1,Drinks
+1544,38,1,Non Veg
+1544,23,3,Veg
+1544,20,4,Veg
+1544,26,1,Drinks
+1545,43,4,Veg
+1545,23,4,Veg
+1545,37,3,Veg
+1545,15,3,Drinks
+1545,33,3,SeaFood
+1545,41,1,Veg
+1545,8,2,Drinks
+1545,1,1,EggFood
+1546,42,2,Non Veg
+1546,15,3,Drinks
+1546,26,2,Drinks
+1547,19,3,Non Veg
+1547,34,3,SeaFood
+1547,2,2,Non Veg
+1547,36,3,SeaFood
+1548,2,4,Non Veg
+1548,12,2,Drinks
+1548,46,4,Veg
+1548,18,1,Bakery
+1549,28,3,Drinks
+1549,23,2,Veg
+1549,12,3,Drinks
+1549,5,3,Non Veg
+1549,26,3,Drinks
+1550,43,2,Veg
+1550,23,3,Veg
+1550,46,3,Veg
+1551,43,3,Veg
+1551,37,1,Veg
+1551,12,4,Drinks
+1552,9,3,Drinks
+1552,38,3,Non Veg
+1552,12,2,Drinks
+1553,16,3,Drinks
+1553,23,3,Veg
+1553,4,2,Non Veg
+1553,1,2,EggFood
+1554,27,4,Bakery
+1554,47,4,Veg
+1554,3,4,Non Veg
+1554,24,2,Veg
+1554,32,2,SeaFood
+1555,16,3,Drinks
+1555,47,4,Veg
+1555,2,1,Non Veg
+1555,30,1,SeaFood
+1555,30,4,SeaFood
+1555,44,4,Non Veg
+1555,15,1,Drinks
+1556,8,3,Drinks
+1557,49,3,Non Veg
+1557,5,1,Non Veg
+1557,8,3,Drinks
+1557,8,1,Drinks
+1558,9,4,Drinks
+1558,10,1,Drinks
+1558,41,3,Veg
+1559,42,1,Non Veg
+1559,42,3,Non Veg
+1559,4,4,Non Veg
+1559,11,1,Drinks
+1560,9,2,Drinks
+1560,38,1,Non Veg
+1560,48,4,Bakery
+1560,7,4,Drinks
+1560,24,3,Veg
+1560,41,4,Veg
+1561,47,4,Veg
+1561,42,1,Non Veg
+1561,38,4,Non Veg
+1561,38,2,Non Veg
+1561,43,4,Veg
+1561,32,1,SeaFood
+1561,15,4,Drinks
+1561,45,2,Non Veg
+1562,48,1,Bakery
+1562,43,1,Veg
+1562,49,1,Non Veg
+1563,39,3,Non Veg
+1563,16,1,Drinks
+1563,30,1,SeaFood
+1563,10,4,Drinks
+1563,7,3,Drinks
+1563,13,4,Drinks
+1564,42,2,Non Veg
+1564,38,3,Non Veg
+1564,4,4,Non Veg
+1564,44,4,Non Veg
+1564,31,1,Non Veg
+1565,16,3,Drinks
+1565,30,1,SeaFood
+1565,30,3,SeaFood
+1565,30,1,SeaFood
+1565,24,3,Veg
+1565,24,2,Veg
+1565,29,3,Non Veg
+1566,14,1,Drinks
+1566,48,3,Bakery
+1566,24,3,Veg
+1566,49,1,Non Veg
+1567,30,2,SeaFood
+1567,12,1,Drinks
+1567,46,1,Veg
+1567,26,1,Drinks
+1568,3,2,Non Veg
+1568,34,3,SeaFood
+1568,34,3,SeaFood
+1568,31,2,Non Veg
+1568,1,3,EggFood
+1568,11,1,Drinks
+1569,6,3,EggFood
+1569,10,1,Drinks
+1569,28,4,Drinks
+1569,45,4,Non Veg
+1569,36,1,SeaFood
+1570,22,1,Veg
+1570,14,1,Drinks
+1570,7,4,Drinks
+1570,33,4,SeaFood
+1570,13,3,Drinks
+1572,47,4,Veg
+1572,3,1,Non Veg
+1572,12,1,Drinks
+1572,44,2,Non Veg
+1572,31,2,Non Veg
+1573,34,4,SeaFood
+1573,13,1,Drinks
+1573,29,3,Non Veg
+1574,17,4,Bakery
+1574,47,3,Veg
+1574,10,2,Drinks
+1574,37,1,Veg
+1574,20,2,Veg
+1574,46,3,Veg
+1575,47,4,Veg
+1575,34,1,SeaFood
+1575,14,1,Drinks
+1575,45,1,Non Veg
+1575,41,2,Veg
+1575,29,3,Non Veg
+1576,47,1,Veg
+1576,3,2,Non Veg
+1576,34,2,SeaFood
+1576,48,3,Bakery
+1576,15,1,Drinks
+1576,40,2,Veg
+1577,33,3,SeaFood
+1577,40,2,Veg
+1578,25,1,Drinks
+1578,14,1,Drinks
+1578,38,3,Non Veg
+1578,30,4,SeaFood
+1578,7,3,Drinks
+1578,4,1,Non Veg
+1578,31,1,Non Veg
+1578,1,4,EggFood
+1578,1,3,EggFood
+1579,48,3,Bakery
+1580,16,1,Drinks
+1580,16,4,Drinks
+1580,30,2,SeaFood
+1580,10,1,Drinks
+1580,15,4,Drinks
+1580,18,2,Bakery
+1580,35,3,SeaFood
+1581,23,1,Veg
+1581,4,4,Non Veg
+1581,5,4,Non Veg
+1581,18,1,Bakery
+1581,26,2,Drinks
+1582,21,1,Veg
+1582,2,4,Non Veg
+1582,28,4,Drinks
+1582,12,4,Drinks
+1582,20,1,Veg
+1582,20,2,Veg
+1582,49,2,Non Veg
+1582,44,2,Non Veg
+1582,8,1,Drinks
+1582,31,2,Non Veg
+1582,35,2,SeaFood
+1582,29,4,Non Veg
+1582,29,3,Non Veg
+1582,26,4,Drinks
+1583,19,2,Non Veg
+1583,47,2,Veg
+1583,15,3,Drinks
+1583,41,1,Veg
+1583,13,2,Drinks
+1583,8,4,Drinks
+1583,29,3,Non Veg
+1584,42,3,Non Veg
+1584,14,2,Drinks
+1584,40,3,Veg
+1585,6,3,EggFood
+1585,27,2,Bakery
+1586,9,4,Drinks
+1586,36,4,SeaFood
+1586,31,2,Non Veg
+1586,18,2,Bakery
+1587,6,4,EggFood
+1587,48,4,Bakery
+1587,18,4,Bakery
+1588,6,4,EggFood
+1588,27,3,Bakery
+1588,17,1,Bakery
+1588,3,3,Non Veg
+1588,14,2,Drinks
+1588,21,3,Veg
+1588,23,4,Veg
+1588,18,3,Bakery
+1589,3,3,Non Veg
+1589,3,3,Non Veg
+1589,14,1,Drinks
+1589,28,1,Drinks
+1589,28,4,Drinks
+1589,23,1,Veg
+1589,7,3,Drinks
+1590,16,4,Drinks
+1590,23,4,Veg
+1590,12,3,Drinks
+1590,13,1,Drinks
+1591,27,3,Bakery
+1591,19,3,Non Veg
+1591,9,1,Drinks
+1591,34,1,SeaFood
+1591,23,3,Veg
+1591,32,1,SeaFood
+1591,1,4,EggFood
+1591,1,2,EggFood
+1591,29,1,Non Veg
+1592,39,3,Non Veg
+1592,42,2,Non Veg
+1592,23,3,Veg
+1592,37,1,Veg
+1592,32,2,SeaFood
+1592,32,2,SeaFood
+1592,8,3,Drinks
+1593,39,4,Non Veg
+1593,17,4,Bakery
+1593,12,4,Drinks
+1593,41,3,Veg
+1593,11,2,Drinks
+1594,6,4,EggFood
+1594,3,4,Non Veg
+1594,2,1,Non Veg
+1594,30,4,SeaFood
+1594,23,4,Veg
+1594,7,2,Drinks
+1594,24,1,Veg
+1594,24,2,Veg
+1594,5,1,Non Veg
+1595,22,2,Veg
+1595,17,1,Bakery
+1595,14,3,Drinks
+1595,48,2,Bakery
+1595,7,3,Drinks
+1595,20,2,Veg
+1595,31,1,Non Veg
+1596,22,2,Veg
+1596,7,3,Drinks
+1596,20,1,Veg
+1596,32,2,SeaFood
+1596,33,2,SeaFood
+1597,22,2,Veg
+1597,9,4,Drinks
+1597,2,2,Non Veg
+1597,43,3,Veg
+1597,23,1,Veg
+1597,20,1,Veg
+1597,41,1,Veg
+1597,31,4,Non Veg
+1597,35,3,SeaFood
+1598,33,2,SeaFood
+1598,40,4,Veg
+1598,13,3,Drinks
+1598,36,1,SeaFood
+1598,8,1,Drinks
+1598,31,3,Non Veg
+1598,1,1,EggFood
+1599,16,2,Drinks
+1599,3,1,Non Veg
+1599,44,4,Non Veg
+1599,33,2,SeaFood
+1600,21,4,Veg
+1601,2,3,Non Veg
+1601,10,2,Drinks
+1601,49,4,Non Veg
+1601,40,4,Veg
+1601,8,3,Drinks
+1601,1,1,EggFood
+1602,47,3,Veg
+1602,47,2,Veg
+1602,5,3,Non Veg
+1602,31,2,Non Veg
+1603,7,1,Drinks
+1603,4,3,Non Veg
+1603,44,2,Non Veg
+1604,21,4,Veg
+1604,37,2,Veg
+1604,12,2,Drinks
+1604,49,3,Non Veg
+1604,36,4,SeaFood
+1604,8,3,Drinks
+1604,35,1,SeaFood
+1605,9,1,Drinks
+1605,9,4,Drinks
+1605,10,2,Drinks
+1605,37,3,Veg
+1605,7,4,Drinks
+1605,44,3,Non Veg
+1605,13,1,Drinks
+1606,16,2,Drinks
+1606,19,2,Non Veg
+1606,20,4,Veg
+1606,49,1,Non Veg
+1606,46,4,Veg
+1606,29,2,Non Veg
+1607,6,4,EggFood
+1607,9,1,Drinks
+1607,7,2,Drinks
+1608,25,3,Drinks
+1608,42,3,Non Veg
+1608,42,4,Non Veg
+1608,37,1,Veg
+1608,24,1,Veg
+1608,20,1,Veg
+1608,44,4,Non Veg
+1608,13,1,Drinks
+1609,39,2,Non Veg
+1609,9,1,Drinks
+1609,3,4,Non Veg
+1609,21,4,Veg
+1609,20,1,Veg
+1609,45,1,Non Veg
+1609,18,1,Bakery
+1610,48,3,Bakery
+1610,23,1,Veg
+1610,33,2,SeaFood
+1610,45,2,Non Veg
+1610,26,2,Drinks
+1611,3,2,Non Veg
+1611,3,4,Non Veg
+1611,21,4,Veg
+1611,43,2,Veg
+1611,46,4,Veg
+1611,5,4,Non Veg
+1611,26,3,Drinks
+1611,11,3,Drinks
+1612,22,1,Veg
+1612,19,1,Non Veg
+1612,23,4,Veg
+1612,37,1,Veg
+1612,4,3,Non Veg
+1612,8,3,Drinks
+1612,1,2,EggFood
+1613,25,1,Drinks
+1613,14,2,Drinks
+1613,21,2,Veg
+1613,44,1,Non Veg
+1613,1,1,EggFood
+1614,17,3,Bakery
+1614,38,4,Non Veg
+1614,15,4,Drinks
+1614,8,3,Drinks
+1615,19,3,Non Veg
+1615,2,3,Non Veg
+1615,24,1,Veg
+1615,13,4,Drinks
+1616,31,4,Non Veg
+1616,18,3,Bakery
+1617,27,3,Bakery
+1617,19,3,Non Veg
+1617,9,4,Drinks
+1617,38,4,Non Veg
+1617,30,2,SeaFood
+1617,23,4,Veg
+1617,18,3,Bakery
+1617,29,2,Non Veg
+1618,16,2,Drinks
+1618,9,1,Drinks
+1618,37,4,Veg
+1618,44,3,Non Veg
+1618,15,4,Drinks
+1618,40,1,Veg
+1619,25,4,Drinks
+1619,21,2,Veg
+1619,28,3,Drinks
+1619,23,2,Veg
+1619,20,2,Veg
+1619,15,2,Drinks
+1619,31,4,Non Veg
+1620,6,2,EggFood
+1620,42,1,Non Veg
+1620,38,1,Non Veg
+1620,38,1,Non Veg
+1620,48,2,Bakery
+1620,2,2,Non Veg
+1620,2,1,Non Veg
+1620,7,3,Drinks
+1620,33,4,SeaFood
+1620,45,4,Non Veg
+1620,13,1,Drinks
+1620,31,2,Non Veg
+1621,43,2,Veg
+1622,9,2,Drinks
+1623,39,2,Non Veg
+1623,23,3,Veg
+1623,33,4,SeaFood
+1623,45,3,Non Veg
+1623,45,2,Non Veg
+1623,31,2,Non Veg
+1624,38,3,Non Veg
+1624,2,3,Non Veg
+1624,2,4,Non Veg
+1624,46,2,Veg
+1624,36,1,SeaFood
+1624,31,4,Non Veg
+1625,9,1,Drinks
+1625,45,2,Non Veg
+1625,41,1,Veg
+1625,1,2,EggFood
+1626,47,2,Veg
+1626,48,3,Bakery
+1626,13,2,Drinks
+1626,8,3,Drinks
+1626,18,4,Bakery
+1627,6,2,EggFood
+1627,30,1,SeaFood
+1627,12,4,Drinks
+1627,4,1,Non Veg
+1627,26,1,Drinks
+1628,47,3,Veg
+1628,49,1,Non Veg
+1628,40,1,Veg
+1629,7,1,Drinks
+1629,32,2,SeaFood
+1629,26,4,Drinks
+1630,21,4,Veg
+1630,48,2,Bakery
+1630,44,2,Non Veg
+1630,5,2,Non Veg
+1630,31,1,Non Veg
+1630,26,2,Drinks
+1631,17,2,Bakery
+1631,14,3,Drinks
+1631,48,3,Bakery
+1631,2,3,Non Veg
+1632,42,2,Non Veg
+1632,24,4,Veg
+1632,40,1,Veg
+1632,11,4,Drinks
+1633,19,3,Non Veg
+1633,47,1,Veg
+1633,42,3,Non Veg
+1633,14,2,Drinks
+1633,38,4,Non Veg
+1633,45,3,Non Veg
+1633,26,2,Drinks
+1634,2,1,Non Veg
+1634,37,2,Veg
+1634,12,1,Drinks
+1634,4,2,Non Veg
+1634,5,3,Non Veg
+1634,1,1,EggFood
+1635,23,1,Veg
+1635,33,3,SeaFood
+1635,13,4,Drinks
+1635,36,4,SeaFood
+1636,34,3,SeaFood
+1636,37,2,Veg
+1636,12,4,Drinks
+1636,4,3,Non Veg
+1636,24,1,Veg
+1636,36,4,SeaFood
+1636,11,3,Drinks
+1637,22,4,Veg
+1637,5,2,Non Veg
+1637,35,3,SeaFood
+1638,34,4,SeaFood
+1638,48,2,Bakery
+1638,37,2,Veg
+1638,7,1,Drinks
+1639,24,3,Veg
+1639,44,3,Non Veg
+1639,33,1,SeaFood
+1639,40,3,Veg
+1641,22,1,Veg
+1641,21,4,Veg
+1642,3,3,Non Veg
+1642,28,4,Drinks
+1642,29,3,Non Veg
+1643,39,1,Non Veg
+1643,45,1,Non Veg
+1643,18,1,Bakery
+1643,35,4,SeaFood
+1644,25,2,Drinks
+1644,16,3,Drinks
+1644,48,1,Bakery
+1644,28,2,Drinks
+1644,28,1,Drinks
+1644,37,4,Veg
+1645,27,1,Bakery
+1645,3,3,Non Veg
+1645,34,1,SeaFood
+1645,48,3,Bakery
+1645,2,2,Non Veg
+1645,49,2,Non Veg
+1645,18,3,Bakery
+1646,21,4,Veg
+1646,2,4,Non Veg
+1646,20,2,Veg
+1646,41,1,Veg
+1647,6,3,EggFood
+1647,30,3,SeaFood
+1647,10,4,Drinks
+1647,40,1,Veg
+1647,36,4,SeaFood
+1647,1,1,EggFood
+1647,11,4,Drinks
+1648,6,2,EggFood
+1648,16,3,Drinks
+1648,3,2,Non Veg
+1648,14,4,Drinks
+1648,20,4,Veg
+1648,49,1,Non Veg
+1648,46,3,Veg
+1649,14,2,Drinks
+1649,21,4,Veg
+1649,15,4,Drinks
+1649,31,1,Non Veg
+1650,32,1,SeaFood
+1651,9,4,Drinks
+1651,48,4,Bakery
+1651,30,4,SeaFood
+1651,28,3,Drinks
+1651,44,4,Non Veg
+1651,15,1,Drinks
+1651,36,4,SeaFood
+1651,35,1,SeaFood
+1652,25,4,Drinks
+1652,19,4,Non Veg
+1652,17,2,Bakery
+1652,3,4,Non Veg
+1652,30,1,SeaFood
+1652,5,2,Non Veg
+1652,29,2,Non Veg
+1653,40,2,Veg
+1654,10,4,Drinks
+1654,10,1,Drinks
+1654,24,1,Veg
+1654,24,2,Veg
+1654,15,3,Drinks
+1654,31,2,Non Veg
+1655,32,3,SeaFood
+1655,33,3,SeaFood
+1655,18,3,Bakery
+1655,35,2,SeaFood
+1655,11,2,Drinks
+1656,6,2,EggFood
+1656,17,1,Bakery
+1656,47,4,Veg
+1656,3,1,Non Veg
+1656,2,4,Non Veg
+1656,49,2,Non Veg
+1656,29,1,Non Veg
+1656,11,1,Drinks
+1657,22,4,Veg
+1657,16,2,Drinks
+1657,24,3,Veg
+1657,46,3,Veg
+1657,33,1,SeaFood
+1657,8,4,Drinks
+1657,18,4,Bakery
+1658,5,2,Non Veg
+1659,24,4,Veg
+1659,46,4,Veg
+1659,40,3,Veg
+1659,13,3,Drinks
+1660,12,3,Drinks
+1661,21,2,Veg
+1661,43,4,Veg
+1661,28,2,Drinks
+1661,31,1,Non Veg
+1661,26,1,Drinks
+1661,26,1,Drinks
+1662,22,2,Veg
+1662,48,4,Bakery
+1662,2,3,Non Veg
+1662,10,1,Drinks
+1662,37,3,Veg
+1662,7,2,Drinks
+1663,43,1,Veg
+1663,12,2,Drinks
+1663,44,4,Non Veg
+1663,35,2,SeaFood
+1664,27,2,Bakery
+1664,4,2,Non Veg
+1664,20,3,Veg
+1664,46,1,Veg
+1665,6,2,EggFood
+1665,14,1,Drinks
+1665,14,2,Drinks
+1665,40,1,Veg
+1666,24,3,Veg
+1666,44,4,Non Veg
+1667,22,2,Veg
+1667,23,4,Veg
+1667,44,1,Non Veg
+1667,31,2,Non Veg
+1667,1,4,EggFood
+1668,23,2,Veg
+1668,33,2,SeaFood
+1668,45,2,Non Veg
+1668,8,1,Drinks
+1669,39,4,Non Veg
+1669,21,2,Veg
+1669,28,3,Drinks
+1669,15,4,Drinks
+1669,40,2,Veg
+1669,29,4,Non Veg
+1670,22,2,Veg
+1670,27,3,Bakery
+1670,7,1,Drinks
+1670,49,3,Non Veg
+1670,8,2,Drinks
+1671,25,3,Drinks
+1671,14,2,Drinks
+1671,48,2,Bakery
+1671,49,4,Non Veg
+1671,18,3,Bakery
+1672,25,4,Drinks
+1672,15,4,Drinks
+1673,6,4,EggFood
+1673,43,4,Veg
+1673,28,2,Drinks
+1674,27,4,Bakery
+1674,10,1,Drinks
+1674,45,1,Non Veg
+1674,31,2,Non Veg
+1675,39,3,Non Veg
+1675,25,4,Drinks
+1675,44,1,Non Veg
+1675,33,2,SeaFood
+1675,45,4,Non Veg
+1675,35,4,SeaFood
+1676,39,1,Non Veg
+1676,30,3,SeaFood
+1676,46,1,Veg
+1676,36,4,SeaFood
+1676,18,3,Bakery
+1676,35,3,SeaFood
+1676,11,4,Drinks
+1676,11,1,Drinks
+1677,6,4,EggFood
+1677,22,2,Veg
+1677,10,3,Drinks
+1677,28,3,Drinks
+1677,35,3,SeaFood
+1678,6,4,EggFood
+1678,49,1,Non Veg
+1678,32,2,SeaFood
+1679,6,3,EggFood
+1679,47,1,Veg
+1679,21,4,Veg
+1680,22,3,Veg
+1680,17,4,Bakery
+1680,34,1,SeaFood
+1680,21,4,Veg
+1680,8,2,Drinks
+1681,19,3,Non Veg
+1681,47,4,Veg
+1682,25,3,Drinks
+1682,47,4,Veg
+1682,14,1,Drinks
+1682,4,1,Non Veg
+1682,45,4,Non Veg
+1682,29,1,Non Veg
+1683,22,1,Veg
+1683,17,4,Bakery
+1683,7,3,Drinks
+1683,8,2,Drinks
+1684,4,2,Non Veg
+1684,31,2,Non Veg
+1684,35,4,SeaFood
+1685,42,1,Non Veg
+1685,38,4,Non Veg
+1685,4,4,Non Veg
+1685,36,4,SeaFood
+1685,11,1,Drinks
+1686,16,4,Drinks
+1686,43,4,Veg
+1686,31,3,Non Veg
+1686,29,3,Non Veg
+1686,26,4,Drinks
+1686,26,1,Drinks
+1686,11,3,Drinks
+1687,22,2,Veg
+1687,16,1,Drinks
+1687,21,4,Veg
+1687,31,1,Non Veg
+1687,18,4,Bakery
+1688,37,3,Veg
+1688,5,1,Non Veg
+1689,43,2,Veg
+1689,7,1,Drinks
+1689,20,2,Veg
+1689,20,4,Veg
+1689,44,2,Non Veg
+1689,33,4,SeaFood
+1689,18,3,Bakery
+1690,22,4,Veg
+1690,39,3,Non Veg
+1690,42,2,Non Veg
+1690,28,1,Drinks
+1690,12,3,Drinks
+1690,7,4,Drinks
+1690,7,4,Drinks
+1690,45,2,Non Veg
+1691,19,4,Non Veg
+1691,21,4,Veg
+1691,48,4,Bakery
+1691,32,4,SeaFood
+1692,28,1,Drinks
+1692,7,2,Drinks
+1693,25,2,Drinks
+1693,16,3,Drinks
+1693,27,3,Bakery
+1693,23,1,Veg
+1693,23,1,Veg
+1693,15,2,Drinks
+1693,1,1,EggFood
+1694,49,4,Non Veg
+1694,41,3,Veg
+1694,8,3,Drinks
+1694,31,2,Non Veg
+1695,25,4,Drinks
+1695,3,2,Non Veg
+1695,21,3,Veg
+1695,32,4,SeaFood
+1695,46,2,Veg
+1696,39,4,Non Veg
+1696,7,2,Drinks
+1696,46,2,Veg
+1697,16,1,Drinks
+1697,19,1,Non Veg
+1697,24,1,Veg
+1697,15,2,Drinks
+1697,33,1,SeaFood
+1697,8,1,Drinks
+1698,34,4,SeaFood
+1698,48,4,Bakery
+1699,27,4,Bakery
+1699,42,1,Non Veg
+1699,8,3,Drinks
+1699,18,1,Bakery
+1700,2,4,Non Veg
+1700,4,4,Non Veg
+1700,24,2,Veg
+1700,32,2,SeaFood
+1701,48,2,Bakery
+1701,31,2,Non Veg
+1701,35,3,SeaFood
+1702,34,2,SeaFood
+1702,20,2,Veg
+1703,6,1,EggFood
+1703,14,1,Drinks
+1703,24,3,Veg
+1703,24,4,Veg
+1703,29,1,Non Veg
+1704,20,2,Veg
+1704,31,3,Non Veg
+1704,1,4,EggFood
+1705,38,1,Non Veg
+1705,7,1,Drinks
+1705,5,3,Non Veg
+1705,8,4,Drinks
+1705,8,1,Drinks
+1705,26,4,Drinks
+1706,3,4,Non Veg
+1706,38,2,Non Veg
+1706,10,4,Drinks
+1706,46,3,Veg
+1706,33,3,SeaFood
+1707,47,1,Veg
+1707,14,2,Drinks
+1707,46,3,Veg
+1707,13,1,Drinks
+1707,8,4,Drinks
+1708,43,4,Veg
+1708,7,1,Drinks
+1708,13,1,Drinks
+1708,29,1,Non Veg
+1709,42,2,Non Veg
+1709,42,1,Non Veg
+1709,38,3,Non Veg
+1709,24,1,Veg
+1709,33,1,SeaFood
+1710,27,2,Bakery
+1710,17,2,Bakery
+1711,49,1,Non Veg
+1711,33,1,SeaFood
+1712,9,2,Drinks
+1712,30,4,SeaFood
+1713,12,1,Drinks
+1713,33,1,SeaFood
+1714,47,4,Veg
+1714,42,1,Non Veg
+1715,16,1,Drinks
+1715,19,1,Non Veg
+1716,48,1,Bakery
+1716,43,2,Veg
+1716,4,2,Non Veg
+1716,33,4,SeaFood
+1716,41,1,Veg
+1717,9,4,Drinks
+1717,30,1,SeaFood
+1717,28,3,Drinks
+1717,8,2,Drinks
+1717,1,4,EggFood
+1718,42,2,Non Veg
+1718,40,3,Veg
+1718,31,1,Non Veg
+1718,35,4,SeaFood
+1718,35,1,SeaFood
+1718,1,4,EggFood
+1719,3,4,Non Veg
+1719,43,3,Veg
+1719,28,4,Drinks
+1719,32,1,SeaFood
+1720,25,1,Drinks
+1720,9,4,Drinks
+1720,34,2,SeaFood
+1720,48,3,Bakery
+1720,28,1,Drinks
+1720,46,1,Veg
+1720,45,2,Non Veg
+1720,13,2,Drinks
+1721,39,2,Non Veg
+1721,42,1,Non Veg
+1721,33,1,SeaFood
+1721,41,1,Veg
+1722,6,2,EggFood
+1722,9,4,Drinks
+1722,21,4,Veg
+1722,48,1,Bakery
+1722,1,3,EggFood
+1723,25,1,Drinks
+1723,37,1,Veg
+1723,4,2,Non Veg
+1723,15,4,Drinks
+1724,19,1,Non Veg
+1724,47,4,Veg
+1724,21,1,Veg
+1724,12,4,Drinks
+1724,4,3,Non Veg
+1724,20,4,Veg
+1724,15,2,Drinks
+1724,1,3,EggFood
+1725,6,4,EggFood
+1725,14,3,Drinks
+1725,21,3,Veg
+1726,39,2,Non Veg
+1726,19,4,Non Veg
+1726,30,2,SeaFood
+1726,7,1,Drinks
+1726,24,2,Veg
+1727,27,4,Bakery
+1727,14,3,Drinks
+1727,2,2,Non Veg
+1727,23,3,Veg
+1727,32,2,SeaFood
+1727,29,1,Non Veg
+1728,23,4,Veg
+1728,5,1,Non Veg
+1728,41,2,Veg
+1729,16,1,Drinks
+1729,47,1,Veg
+1729,21,3,Veg
+1729,4,3,Non Veg
+1729,46,3,Veg
+1730,10,4,Drinks
+1730,31,3,Non Veg
+1731,39,2,Non Veg
+1731,43,1,Veg
+1731,28,4,Drinks
+1732,17,1,Bakery
+1732,17,4,Bakery
+1732,38,4,Non Veg
+1732,26,3,Drinks
+1733,22,2,Veg
+1733,28,3,Drinks
+1733,46,1,Veg
+1733,33,1,SeaFood
+1733,8,1,Drinks
+1734,27,2,Bakery
+1734,43,1,Veg
+1734,20,2,Veg
+1734,44,2,Non Veg
+1734,29,2,Non Veg
+1735,30,4,SeaFood
+1735,20,1,Veg
+1735,49,4,Non Veg
+1735,41,1,Veg
+1736,19,3,Non Veg
+1736,17,2,Bakery
+1736,30,1,SeaFood
+1736,43,4,Veg
+1736,46,2,Veg
+1736,1,2,EggFood
+1737,16,2,Drinks
+1737,43,3,Veg
+1737,4,4,Non Veg
+1737,24,2,Veg
+1738,17,3,Bakery
+1738,43,2,Veg
+1738,20,3,Veg
+1739,34,3,SeaFood
+1739,48,2,Bakery
+1739,23,1,Veg
+1739,13,3,Drinks
+1740,27,2,Bakery
+1740,3,2,Non Veg
+1740,21,4,Veg
+1740,30,3,SeaFood
+1740,46,1,Veg
+1740,40,1,Veg
+1740,41,3,Veg
+1741,6,3,EggFood
+1741,43,4,Veg
+1741,18,1,Bakery
+1742,22,1,Veg
+1742,20,1,Veg
+1742,5,4,Non Veg
+1743,9,3,Drinks
+1743,37,2,Veg
+1743,11,4,Drinks
+1744,25,4,Drinks
+1744,21,3,Veg
+1744,38,1,Non Veg
+1744,4,4,Non Veg
+1745,2,2,Non Veg
+1745,45,3,Non Veg
+1746,7,3,Drinks
+1746,15,4,Drinks
+1746,8,4,Drinks
+1747,6,4,EggFood
+1747,39,4,Non Veg
+1747,19,1,Non Veg
+1747,14,2,Drinks
+1747,10,4,Drinks
+1747,12,4,Drinks
+1747,45,1,Non Veg
+1747,36,1,SeaFood
+1748,34,3,SeaFood
+1748,12,3,Drinks
+1748,5,3,Non Veg
+1748,45,4,Non Veg
+1748,45,3,Non Veg
+1749,34,3,SeaFood
+1749,4,1,Non Veg
+1749,20,1,Veg
+1749,15,1,Drinks
+1749,36,1,SeaFood
+1749,8,3,Drinks
+1750,3,1,Non Veg
+1750,34,2,SeaFood
+1750,5,2,Non Veg
+1750,41,1,Veg
+1750,41,1,Veg
+1751,2,4,Non Veg
+1751,30,4,SeaFood
+1751,7,1,Drinks
+1751,44,3,Non Veg
+1752,43,2,Veg
+1752,28,2,Drinks
+1752,24,1,Veg
+1752,32,4,SeaFood
+1752,45,2,Non Veg
+1753,48,2,Bakery
+1753,20,3,Veg
+1753,33,3,SeaFood
+1754,19,2,Non Veg
+1754,28,4,Drinks
+1754,37,3,Veg
+1754,20,1,Veg
+1754,44,3,Non Veg
+1754,13,4,Drinks
+1754,8,4,Drinks
+1755,6,2,EggFood
+1755,19,3,Non Veg
+1755,7,3,Drinks
+1755,44,4,Non Veg
+1756,47,4,Veg
+1756,47,4,Veg
+1756,9,4,Drinks
+1756,30,4,SeaFood
+1756,28,1,Drinks
+1756,12,2,Drinks
+1756,4,3,Non Veg
+1756,32,4,SeaFood
+1757,19,3,Non Veg
+1757,9,3,Drinks
+1757,46,4,Veg
+1757,13,1,Drinks
+1757,36,1,SeaFood
+1758,17,1,Bakery
+1758,28,1,Drinks
+1758,7,3,Drinks
+1758,45,4,Non Veg
+1758,41,2,Veg
+1759,42,4,Non Veg
+1759,24,4,Veg
+1759,20,1,Veg
+1759,8,1,Drinks
+1760,9,3,Drinks
+1760,28,4,Drinks
+1761,27,4,Bakery
+1761,42,3,Non Veg
+1761,31,4,Non Veg
+1761,18,4,Bakery
+1761,35,2,SeaFood
+1761,11,1,Drinks
+1762,19,3,Non Veg
+1762,9,1,Drinks
+1762,3,4,Non Veg
+1762,28,4,Drinks
+1762,5,1,Non Veg
+1762,8,3,Drinks
+1762,31,1,Non Veg
+1762,18,4,Bakery
+1762,29,1,Non Veg
+1762,29,1,Non Veg
+1763,42,3,Non Veg
+1763,38,3,Non Veg
+1763,2,1,Non Veg
+1763,8,3,Drinks
+1764,47,2,Veg
+1764,9,2,Drinks
+1764,36,1,SeaFood
+1765,9,1,Drinks
+1765,2,2,Non Veg
+1765,23,4,Veg
+1765,5,2,Non Veg
+1765,40,3,Veg
+1765,35,2,SeaFood
+1765,29,2,Non Veg
+1766,21,3,Veg
+1766,44,1,Non Veg
+1766,41,3,Veg
+1766,8,2,Drinks
+1767,22,4,Veg
+1767,25,3,Drinks
+1767,9,3,Drinks
+1767,48,2,Bakery
+1767,4,4,Non Veg
+1767,32,2,SeaFood
+1767,26,1,Drinks
+1768,20,1,Veg
+1768,20,4,Veg
+1769,3,2,Non Veg
+1769,3,2,Non Veg
+1769,10,1,Drinks
+1769,24,2,Veg
+1769,40,1,Veg
+1769,29,2,Non Veg
+1770,28,4,Drinks
+1770,49,1,Non Veg
+1771,16,2,Drinks
+1771,17,3,Bakery
+1771,42,2,Non Veg
+1771,14,2,Drinks
+1771,48,4,Bakery
+1772,6,4,EggFood
+1772,25,4,Drinks
+1772,9,4,Drinks
+1772,14,4,Drinks
+1772,7,1,Drinks
+1772,44,1,Non Veg
+1772,35,3,SeaFood
+1773,16,1,Drinks
+1773,47,4,Veg
+1773,14,1,Drinks
+1773,21,2,Veg
+1773,28,3,Drinks
+1773,15,1,Drinks
+1773,11,1,Drinks
+1774,16,3,Drinks
+1774,13,2,Drinks
+1775,22,1,Veg
+1775,38,4,Non Veg
+1775,43,1,Veg
+1775,37,2,Veg
+1775,20,4,Veg
+1775,49,2,Non Veg
+1775,1,2,EggFood
+1776,22,4,Veg
+1776,10,3,Drinks
+1776,46,3,Veg
+1776,18,3,Bakery
+1777,16,1,Drinks
+1777,27,3,Bakery
+1777,47,2,Veg
+1777,2,2,Non Veg
+1777,12,2,Drinks
+1777,5,4,Non Veg
+1778,39,3,Non Veg
+1778,48,2,Bakery
+1778,49,3,Non Veg
+1778,1,4,EggFood
+1778,26,2,Drinks
+1779,19,2,Non Veg
+1779,12,4,Drinks
+1779,4,2,Non Veg
+1779,1,2,EggFood
+1780,21,2,Veg
+1780,30,1,SeaFood
+1780,10,2,Drinks
+1780,32,2,SeaFood
+1781,17,2,Bakery
+1781,3,1,Non Veg
+1781,14,1,Drinks
+1781,48,1,Bakery
+1781,2,3,Non Veg
+1781,30,3,SeaFood
+1781,11,1,Drinks
+1782,4,3,Non Veg
+1782,32,1,SeaFood
+1782,32,4,SeaFood
+1783,6,4,EggFood
+1783,39,4,Non Veg
+1783,39,1,Non Veg
+1783,44,3,Non Veg
+1783,31,3,Non Veg
+1784,6,3,EggFood
+1784,32,4,SeaFood
+1784,46,3,Veg
+1784,29,4,Non Veg
+1785,3,3,Non Veg
+1785,38,3,Non Veg
+1785,30,2,SeaFood
+1785,32,2,SeaFood
+1786,3,2,Non Veg
+1786,24,1,Veg
+1786,13,2,Drinks
+1786,8,2,Drinks
+1786,11,1,Drinks
+1787,28,1,Drinks
+1787,23,4,Veg
+1787,23,2,Veg
+1787,37,1,Veg
+1787,44,4,Non Veg
+1787,11,1,Drinks
+1788,39,4,Non Veg
+1788,9,2,Drinks
+1788,42,2,Non Veg
+1788,46,4,Veg
+1788,13,3,Drinks
+1788,1,3,EggFood
+1789,16,1,Drinks
+1789,23,3,Veg
+1790,3,1,Non Veg
+1790,14,1,Drinks
+1790,12,2,Drinks
+1790,15,3,Drinks
+1790,45,3,Non Veg
+1790,45,4,Non Veg
+1790,13,4,Drinks
+1791,2,1,Non Veg
+1791,44,3,Non Veg
+1791,5,1,Non Veg
+1791,36,1,SeaFood
+1792,39,3,Non Veg
+1792,2,4,Non Veg
+1792,2,2,Non Veg
+1792,1,1,EggFood
+1793,3,2,Non Veg
+1793,28,3,Drinks
+1793,20,4,Veg
+1793,32,1,SeaFood
+1793,46,3,Veg
+1794,34,1,SeaFood
+1794,49,1,Non Veg
+1795,2,4,Non Veg
+1795,44,4,Non Veg
+1795,45,3,Non Veg
+1796,22,2,Veg
+1796,42,2,Non Veg
+1796,34,4,SeaFood
+1796,10,4,Drinks
+1796,23,1,Veg
+1796,36,2,SeaFood
+1796,35,2,SeaFood
+1797,16,1,Drinks
+1797,19,2,Non Veg
+1797,32,1,SeaFood
+1797,31,1,Non Veg
+1798,22,2,Veg
+1798,17,2,Bakery
+1798,21,3,Veg
+1798,7,1,Drinks
+1798,36,4,SeaFood
+1798,29,3,Non Veg
+1798,11,3,Drinks
+1799,6,4,EggFood
+1799,24,2,Veg
+1799,33,3,SeaFood
+1799,41,4,Veg
+1799,18,2,Bakery
+1799,35,2,SeaFood
+1799,11,3,Drinks
+1800,15,3,Drinks
+1800,41,1,Veg
+1800,13,4,Drinks
+1800,26,1,Drinks
+1801,10,3,Drinks
+1801,20,2,Veg
+1802,22,2,Veg
+1802,27,3,Bakery
+1802,2,3,Non Veg
+1802,28,3,Drinks
+1802,12,3,Drinks
+1802,15,4,Drinks
+1802,26,2,Drinks
+1803,12,3,Drinks
+1803,44,2,Non Veg
+1803,26,1,Drinks
+1804,43,3,Veg
+1804,37,1,Veg
+1804,44,3,Non Veg
+1804,41,2,Veg
+1804,18,2,Bakery
+1805,17,4,Bakery
+1805,34,3,SeaFood
+1805,48,3,Bakery
+1805,13,1,Drinks
+1805,26,3,Drinks
+1806,47,1,Veg
+1806,21,4,Veg
+1806,30,4,SeaFood
+1806,10,3,Drinks
+1806,36,3,SeaFood
+1806,8,3,Drinks
+1806,31,4,Non Veg
+1807,9,1,Drinks
+1807,2,2,Non Veg
+1807,10,2,Drinks
+1807,37,1,Veg
+1807,12,1,Drinks
+1807,20,2,Veg
+1807,1,3,EggFood
+1808,6,3,EggFood
+1808,6,4,EggFood
+1808,6,2,EggFood
+1808,10,3,Drinks
+1808,13,3,Drinks
+1809,25,3,Drinks
+1809,10,3,Drinks
+1809,28,4,Drinks
+1809,20,4,Veg
+1809,33,1,SeaFood
+1809,33,4,SeaFood
+1810,10,2,Drinks
+1810,41,2,Veg
+1810,13,3,Drinks
+1811,38,3,Non Veg
+1811,48,3,Bakery
+1811,2,2,Non Veg
+1812,2,1,Non Veg
+1812,24,2,Veg
+1812,20,2,Veg
+1812,5,1,Non Veg
+1812,5,4,Non Veg
+1812,41,1,Veg
+1812,35,2,SeaFood
+1812,29,4,Non Veg
+1812,29,1,Non Veg
+1812,26,4,Drinks
+1812,26,2,Drinks
+1813,16,2,Drinks
+1813,38,2,Non Veg
+1813,23,2,Veg
+1813,49,4,Non Veg
+1813,13,1,Drinks
+1814,34,1,SeaFood
+1814,14,2,Drinks
+1814,21,4,Veg
+1814,37,4,Veg
+1814,20,3,Veg
+1815,21,4,Veg
+1815,2,1,Non Veg
+1815,24,4,Veg
+1816,37,1,Veg
+1816,7,4,Drinks
+1817,16,4,Drinks
+1817,38,1,Non Veg
+1817,2,4,Non Veg
+1817,23,3,Veg
+1817,45,3,Non Veg
+1817,31,2,Non Veg
+1818,42,1,Non Veg
+1818,21,3,Veg
+1818,15,4,Drinks
+1818,5,2,Non Veg
+1819,22,4,Veg
+1819,27,3,Bakery
+1819,2,3,Non Veg
+1819,32,3,SeaFood
+1819,46,2,Veg
+1819,31,1,Non Veg
+1819,35,4,SeaFood
+1820,27,1,Bakery
+1820,48,4,Bakery
+1820,10,3,Drinks
+1820,10,3,Drinks
+1820,28,1,Drinks
+1820,24,3,Veg
+1821,25,4,Drinks
+1821,14,1,Drinks
+1821,10,3,Drinks
+1821,49,1,Non Veg
+1821,15,2,Drinks
+1822,16,3,Drinks
+1822,42,4,Non Veg
+1822,14,1,Drinks
+1822,45,3,Non Veg
+1822,8,1,Drinks
+1823,16,2,Drinks
+1823,34,1,SeaFood
+1823,14,4,Drinks
+1823,13,3,Drinks
+1824,39,3,Non Veg
+1824,3,4,Non Veg
+1824,43,4,Veg
+1824,37,2,Veg
+1824,1,3,EggFood
+1825,6,2,EggFood
+1825,39,4,Non Veg
+1825,46,1,Veg
+1825,33,2,SeaFood
+1825,40,4,Veg
+1825,36,1,SeaFood
+1825,36,1,SeaFood
+1826,47,4,Veg
+1826,3,3,Non Veg
+1826,2,4,Non Veg
+1826,28,2,Drinks
+1826,37,3,Veg
+1826,5,3,Non Veg
+1827,16,1,Drinks
+1827,14,1,Drinks
+1827,12,3,Drinks
+1827,33,4,SeaFood
+1827,31,2,Non Veg
+1827,31,3,Non Veg
+1828,20,3,Veg
+1828,46,3,Veg
+1828,44,1,Non Veg
+1829,9,4,Drinks
+1829,9,4,Drinks
+1829,43,3,Veg
+1829,12,1,Drinks
+1829,32,4,SeaFood
+1829,1,3,EggFood
+1830,22,2,Veg
+1830,9,3,Drinks
+1830,9,3,Drinks
+1830,41,2,Veg
+1831,14,3,Drinks
+1831,40,3,Veg
+1831,13,3,Drinks
+1831,1,1,EggFood
+1832,47,4,Veg
+1832,38,4,Non Veg
+1832,5,3,Non Veg
+1832,5,4,Non Veg
+1832,45,4,Non Veg
+1832,26,2,Drinks
+1833,22,1,Veg
+1833,27,2,Bakery
+1833,21,4,Veg
+1833,15,2,Drinks
+1833,5,1,Non Veg
+1833,26,4,Drinks
+1834,3,3,Non Veg
+1834,14,3,Drinks
+1834,21,4,Veg
+1835,27,2,Bakery
+1835,36,4,SeaFood
+1835,35,2,SeaFood
+1836,34,3,SeaFood
+1836,20,1,Veg
+1836,13,1,Drinks
+1836,11,3,Drinks
+1837,25,1,Drinks
+1837,16,1,Drinks
+1837,37,4,Veg
+1837,46,1,Veg
+1837,33,4,SeaFood
+1837,8,1,Drinks
+1837,11,4,Drinks
+1838,16,3,Drinks
+1838,19,3,Non Veg
+1838,2,2,Non Veg
+1838,44,4,Non Veg
+1838,40,3,Veg
+1838,31,1,Non Veg
+1838,35,2,SeaFood
+1838,35,1,SeaFood
+1838,35,3,SeaFood
+1839,42,1,Non Veg
+1839,23,1,Veg
+1839,20,2,Veg
+1840,9,1,Drinks
+1840,3,2,Non Veg
+1840,14,4,Drinks
+1840,21,2,Veg
+1840,40,2,Veg
+1840,11,3,Drinks
+1841,17,2,Bakery
+1841,37,1,Veg
+1841,33,4,SeaFood
+1841,26,4,Drinks
+1842,2,2,Non Veg
+1842,43,3,Veg
+1842,29,2,Non Veg
+1842,26,2,Drinks
+1843,9,2,Drinks
+1843,12,3,Drinks
+1843,41,2,Veg
+1844,21,1,Veg
+1844,20,2,Veg
+1844,18,1,Bakery
+1845,5,2,Non Veg
+1845,18,3,Bakery
+1846,38,3,Non Veg
+1846,4,1,Non Veg
+1846,46,2,Veg
+1846,8,1,Drinks
+1847,6,4,EggFood
+1847,22,3,Veg
+1847,37,4,Veg
+1847,41,2,Veg
+1847,13,2,Drinks
+1847,26,2,Drinks
+1848,25,3,Drinks
+1848,14,3,Drinks
+1848,11,2,Drinks
+1849,47,3,Veg
+1849,21,2,Veg
+1849,7,4,Drinks
+1849,4,3,Non Veg
+1849,29,3,Non Veg
+1850,32,1,SeaFood
+1850,36,4,SeaFood
+1851,39,4,Non Veg
+1851,21,1,Veg
+1851,48,2,Bakery
+1851,15,3,Drinks
+1851,5,3,Non Veg
+1851,13,2,Drinks
+1852,27,3,Bakery
+1852,49,2,Non Veg
+1852,33,4,SeaFood
+1852,31,2,Non Veg
+1853,39,2,Non Veg
+1853,10,2,Drinks
+1853,7,1,Drinks
+1853,5,1,Non Veg
+1853,40,1,Veg
+1853,40,1,Veg
+1853,8,4,Drinks
+1854,6,2,EggFood
+1854,19,2,Non Veg
+1854,17,2,Bakery
+1854,3,1,Non Veg
+1855,27,3,Bakery
+1855,3,1,Non Veg
+1855,21,3,Veg
+1855,24,1,Veg
+1855,24,1,Veg
+1855,20,4,Veg
+1856,47,3,Veg
+1856,3,3,Non Veg
+1856,23,1,Veg
+1856,23,3,Veg
+1856,37,2,Veg
+1856,26,3,Drinks
+1856,26,3,Drinks
+1856,11,4,Drinks
+1857,6,3,EggFood
+1857,19,2,Non Veg
+1857,24,1,Veg
+1857,44,1,Non Veg
+1857,36,4,SeaFood
+1857,35,4,SeaFood
+1858,6,4,EggFood
+1858,16,1,Drinks
+1858,19,4,Non Veg
+1858,42,3,Non Veg
+1858,38,3,Non Veg
+1858,10,1,Drinks
+1858,20,2,Veg
+1859,12,1,Drinks
+1859,45,4,Non Veg
+1860,9,4,Drinks
+1860,28,4,Drinks
+1860,37,3,Veg
+1860,24,2,Veg
+1861,19,4,Non Veg
+1861,9,4,Drinks
+1861,28,2,Drinks
+1861,7,3,Drinks
+1861,4,4,Non Veg
+1861,4,3,Non Veg
+1861,13,2,Drinks
+1862,28,3,Drinks
+1862,49,1,Non Veg
+1862,40,4,Veg
+1862,13,1,Drinks
+1863,17,3,Bakery
+1863,42,4,Non Veg
+1863,10,4,Drinks
+1863,43,1,Veg
+1863,5,1,Non Veg
+1863,13,3,Drinks
+1864,41,4,Veg
+1864,1,1,EggFood
+1865,30,4,SeaFood
+1865,5,3,Non Veg
+1865,35,2,SeaFood
+1865,26,4,Drinks
+1866,6,2,EggFood
+1866,39,2,Non Veg
+1866,2,4,Non Veg
+1866,10,3,Drinks
+1866,23,3,Veg
+1866,41,3,Veg
+1867,16,4,Drinks
+1867,27,3,Bakery
+1867,17,3,Bakery
+1867,15,1,Drinks
+1867,18,3,Bakery
+1868,39,2,Non Veg
+1868,2,3,Non Veg
+1868,10,1,Drinks
+1868,41,1,Veg
+1869,16,4,Drinks
+1869,38,3,Non Veg
+1869,12,3,Drinks
+1870,3,4,Non Veg
+1870,38,1,Non Veg
+1870,23,1,Veg
+1870,8,1,Drinks
+1871,30,1,SeaFood
+1871,24,3,Veg
+1871,5,4,Non Veg
+1871,41,2,Veg
+1872,3,1,Non Veg
+1872,34,1,SeaFood
+1872,4,1,Non Veg
+1872,20,1,Veg
+1872,33,2,SeaFood
+1872,18,1,Bakery
+1872,1,2,EggFood
+1873,10,4,Drinks
+1873,23,2,Veg
+1873,12,1,Drinks
+1873,45,1,Non Veg
+1873,40,3,Veg
+1873,31,3,Non Veg
+1874,39,1,Non Veg
+1874,4,4,Non Veg
+1874,49,2,Non Veg
+1874,41,3,Veg
+1874,41,2,Veg
+1874,13,4,Drinks
+1874,18,1,Bakery
+1875,16,3,Drinks
+1875,24,3,Veg
+1875,46,4,Veg
+1875,44,3,Non Veg
+1876,22,1,Veg
+1876,34,2,SeaFood
+1876,21,4,Veg
+1876,15,2,Drinks
+1876,5,3,Non Veg
+1876,40,2,Veg
+1877,6,3,EggFood
+1877,39,4,Non Veg
+1877,19,1,Non Veg
+1877,17,3,Bakery
+1877,42,1,Non Veg
+1877,38,3,Non Veg
+1877,30,2,SeaFood
+1877,12,3,Drinks
+1879,17,3,Bakery
+1879,49,4,Non Veg
+1879,5,1,Non Veg
+1880,17,4,Bakery
+1880,2,4,Non Veg
+1880,43,1,Veg
+1880,28,3,Drinks
+1880,24,3,Veg
+1881,37,4,Veg
+1881,7,2,Drinks
+1882,6,3,EggFood
+1882,22,4,Veg
+1882,9,4,Drinks
+1882,30,3,SeaFood
+1882,28,4,Drinks
+1882,49,2,Non Veg
+1883,19,1,Non Veg
+1883,14,4,Drinks
+1883,8,4,Drinks
+1884,25,4,Drinks
+1884,27,1,Bakery
+1884,27,1,Bakery
+1884,37,2,Veg
+1884,12,3,Drinks
+1884,45,1,Non Veg
+1884,40,2,Veg
+1884,1,2,EggFood
+1885,6,4,EggFood
+1885,38,3,Non Veg
+1885,33,4,SeaFood
+1885,41,2,Veg
+1886,17,4,Bakery
+1886,3,1,Non Veg
+1886,37,2,Veg
+1886,49,3,Non Veg
+1886,44,4,Non Veg
+1886,40,2,Veg
+1886,35,2,SeaFood
+1887,14,2,Drinks
+1887,30,2,SeaFood
+1887,10,1,Drinks
+1887,46,3,Veg
+1887,8,3,Drinks
+1888,37,3,Veg
+1888,15,3,Drinks
+1889,2,1,Non Veg
+1889,35,1,SeaFood
+1889,1,2,EggFood
+1890,17,4,Bakery
+1890,17,2,Bakery
+1890,42,4,Non Veg
+1890,38,1,Non Veg
+1890,4,2,Non Veg
+1890,40,3,Veg
+1891,47,4,Veg
+1891,14,3,Drinks
+1891,38,4,Non Veg
+1891,43,4,Veg
+1891,24,1,Veg
+1891,33,4,SeaFood
+1892,19,4,Non Veg
+1892,3,3,Non Veg
+1892,48,3,Bakery
+1892,7,1,Drinks
+1893,22,2,Veg
+1893,17,4,Bakery
+1893,30,3,SeaFood
+1893,10,4,Drinks
+1893,10,3,Drinks
+1893,28,1,Drinks
+1893,32,1,SeaFood
+1893,18,4,Bakery
+1894,38,2,Non Veg
+1894,32,4,SeaFood
+1894,46,1,Veg
+1894,11,3,Drinks
+1895,3,1,Non Veg
+1895,18,2,Bakery
+1896,6,1,EggFood
+1896,3,4,Non Veg
+1896,23,3,Veg
+1896,20,1,Veg
+1896,44,2,Non Veg
+1897,17,1,Bakery
+1897,47,1,Veg
+1897,21,2,Veg
+1897,24,3,Veg
+1897,45,2,Non Veg
+1897,31,4,Non Veg
+1897,18,2,Bakery
+1898,49,3,Non Veg
+1898,44,1,Non Veg
+1898,40,1,Veg
+1899,30,3,SeaFood
+1899,5,3,Non Veg
+1900,17,4,Bakery
+1900,34,1,SeaFood
+1900,14,1,Drinks
+1900,48,4,Bakery
+1900,20,2,Veg
+1900,15,2,Drinks
+1900,5,1,Non Veg
+1900,31,2,Non Veg
+1901,47,3,Veg
+1901,28,2,Drinks
+1901,37,3,Veg
+1901,49,4,Non Veg
+1901,15,4,Drinks
+1902,47,1,Veg
+1902,47,3,Veg
+1902,2,4,Non Veg
+1902,49,3,Non Veg
+1902,33,4,SeaFood
+1902,8,2,Drinks
+1902,26,1,Drinks
+1903,25,1,Drinks
+1903,16,4,Drinks
+1903,48,3,Bakery
+1903,43,2,Veg
+1903,15,2,Drinks
+1904,10,4,Drinks
+1904,10,3,Drinks
+1904,45,1,Non Veg
+1904,29,1,Non Veg
+1905,14,2,Drinks
+1905,15,2,Drinks
+1905,1,2,EggFood
+1906,42,2,Non Veg
+1906,37,1,Veg
+1906,1,4,EggFood
+1907,14,4,Drinks
+1907,14,3,Drinks
+1907,10,1,Drinks
+1907,12,3,Drinks
+1907,24,3,Veg
+1907,49,3,Non Veg
+1908,42,4,Non Veg
+1909,34,4,SeaFood
+1909,38,3,Non Veg
+1909,46,3,Veg
+1909,46,4,Veg
+1909,15,2,Drinks
+1909,1,4,EggFood
+1910,6,2,EggFood
+1910,39,4,Non Veg
+1910,49,4,Non Veg
+1910,40,1,Veg
+1910,41,2,Veg
+1910,29,3,Non Veg
+1911,3,1,Non Veg
+1911,34,1,SeaFood
+1911,2,4,Non Veg
+1911,33,2,SeaFood
+1911,35,4,SeaFood
+1911,11,3,Drinks
+1912,6,4,EggFood
+1912,48,1,Bakery
+1912,30,3,SeaFood
+1912,23,4,Veg
+1913,17,4,Bakery
+1913,28,3,Drinks
+1913,23,2,Veg
+1913,5,3,Non Veg
+1913,45,1,Non Veg
+1913,40,2,Veg
+1913,31,1,Non Veg
+1914,17,3,Bakery
+1914,14,3,Drinks
+1914,31,3,Non Veg
+1914,1,3,EggFood
+1915,42,2,Non Veg
+1915,34,4,SeaFood
+1915,48,1,Bakery
+1915,20,4,Veg
+1915,49,1,Non Veg
+1916,22,1,Veg
+1916,17,1,Bakery
+1916,9,1,Drinks
+1916,34,2,SeaFood
+1916,38,2,Non Veg
+1916,5,1,Non Veg
+1916,41,1,Veg
+1916,1,4,EggFood
+1917,24,3,Veg
+1917,41,3,Veg
+1918,16,3,Drinks
+1918,8,1,Drinks
+1918,26,4,Drinks
+1918,11,2,Drinks
+1919,22,3,Veg
+1919,39,3,Non Veg
+1919,48,1,Bakery
+1919,48,3,Bakery
+1919,43,2,Veg
+1920,6,1,EggFood
+1920,12,1,Drinks
+1920,13,2,Drinks
+1920,35,3,SeaFood
+1921,47,4,Veg
+1921,21,1,Veg
+1921,48,2,Bakery
+1921,43,2,Veg
+1921,7,2,Drinks
+1922,47,2,Veg
+1922,38,2,Non Veg
+1922,10,3,Drinks
+1923,37,2,Veg
+1923,32,4,SeaFood
+1923,29,1,Non Veg
+1923,11,4,Drinks
+1924,21,2,Veg
+1924,48,2,Bakery
+1924,18,1,Bakery
+1924,29,4,Non Veg
+1924,11,3,Drinks
+1925,25,4,Drinks
+1925,38,1,Non Veg
+1925,4,4,Non Veg
+1925,15,3,Drinks
+1925,35,2,SeaFood
+1926,33,4,SeaFood
+1926,8,3,Drinks
+1926,11,2,Drinks
+1927,10,1,Drinks
+1927,4,3,Non Veg
+1928,39,4,Non Veg
+1928,38,2,Non Veg
+1928,37,4,Veg
+1928,24,4,Veg
+1928,45,3,Non Veg
+1929,22,1,Veg
+1929,9,3,Drinks
+1929,49,3,Non Veg
+1930,39,1,Non Veg
+1930,48,1,Bakery
+1930,23,4,Veg
+1930,20,3,Veg
+1931,34,4,SeaFood
+1931,38,4,Non Veg
+1931,48,4,Bakery
+1931,2,4,Non Veg
+1931,49,3,Non Veg
+1931,15,2,Drinks
+1931,45,3,Non Veg
+1931,11,4,Drinks
+1932,4,2,Non Veg
+1932,4,4,Non Veg
+1932,8,1,Drinks
+1933,6,1,EggFood
+1933,39,2,Non Veg
+1933,43,4,Veg
+1933,32,4,SeaFood
+1934,6,4,EggFood
+1934,42,1,Non Veg
+1934,34,1,SeaFood
+1934,28,3,Drinks
+1934,23,2,Veg
+1935,22,2,Veg
+1935,25,3,Drinks
+1935,27,3,Bakery
+1935,7,4,Drinks
+1936,19,1,Non Veg
+1936,47,2,Veg
+1936,10,4,Drinks
+1936,7,4,Drinks
+1936,24,3,Veg
+1936,24,2,Veg
+1936,31,3,Non Veg
+1936,35,1,SeaFood
+1936,26,3,Drinks
+1937,2,1,Non Veg
+1937,43,2,Veg
+1937,12,2,Drinks
+1937,7,1,Drinks
+1937,8,4,Drinks
+1938,6,2,EggFood
+1938,19,1,Non Veg
+1938,34,4,SeaFood
+1938,44,3,Non Veg
+1938,33,2,SeaFood
+1938,18,4,Bakery
+1939,17,1,Bakery
+1939,47,2,Veg
+1939,42,3,Non Veg
+1939,14,1,Drinks
+1939,21,4,Veg
+1939,49,4,Non Veg
+1939,26,2,Drinks
+1940,22,4,Veg
+1940,16,3,Drinks
+1940,42,1,Non Veg
+1940,14,2,Drinks
+1940,49,4,Non Veg
+1940,33,2,SeaFood
+1940,1,3,EggFood
+1942,10,3,Drinks
+1942,33,4,SeaFood
+1943,47,2,Veg
+1943,5,2,Non Veg
+1944,16,1,Drinks
+1944,47,4,Veg
+1944,3,2,Non Veg
+1944,3,4,Non Veg
+1944,21,4,Veg
+1944,38,2,Non Veg
+1944,2,1,Non Veg
+1944,12,4,Drinks
+1944,49,2,Non Veg
+1944,40,2,Veg
+1944,18,4,Bakery
+1945,39,4,Non Veg
+1945,25,2,Drinks
+1945,16,1,Drinks
+1945,27,3,Bakery
+1945,17,2,Bakery
+1945,47,1,Veg
+1945,10,3,Drinks
+1945,18,3,Bakery
+1945,26,1,Drinks
+1946,17,2,Bakery
+1946,42,1,Non Veg
+1946,34,3,SeaFood
+1946,34,3,SeaFood
+1946,30,4,SeaFood
+1946,43,1,Veg
+1946,4,4,Non Veg
+1946,33,2,SeaFood
+1946,26,2,Drinks
+1947,17,2,Bakery
+1947,14,3,Drinks
+1947,23,2,Veg
+1947,37,4,Veg
+1947,5,4,Non Veg
+1947,45,2,Non Veg
+1947,36,2,SeaFood
+1948,22,2,Veg
+1948,27,1,Bakery
+1948,17,1,Bakery
+1948,26,1,Drinks
+1949,16,4,Drinks
+1949,33,2,SeaFood
+1949,29,2,Non Veg
+1950,6,2,EggFood
+1950,2,1,Non Veg
+1950,1,4,EggFood
+1951,39,4,Non Veg
+1951,42,1,Non Veg
+1951,20,3,Veg
+1951,46,4,Veg
+1951,15,4,Drinks
+1951,41,4,Veg
+1951,13,2,Drinks
+1951,18,4,Bakery
+1952,6,1,EggFood
+1952,16,4,Drinks
+1952,19,2,Non Veg
+1952,10,1,Drinks
+1952,37,4,Veg
+1952,7,3,Drinks
+1952,33,1,SeaFood
+1953,14,1,Drinks
+1953,7,1,Drinks
+1954,16,4,Drinks
+1954,43,2,Veg
+1954,37,2,Veg
+1954,44,1,Non Veg
+1955,42,4,Non Veg
+1955,48,1,Bakery
+1955,20,2,Veg
+1955,36,2,SeaFood
+1956,9,3,Drinks
+1956,43,3,Veg
+1956,23,4,Veg
+1956,15,2,Drinks
+1956,40,2,Veg
+1956,31,3,Non Veg
+1956,31,4,Non Veg
+1956,1,2,EggFood
+1957,19,3,Non Veg
+1957,38,1,Non Veg
+1957,38,3,Non Veg
+1957,43,4,Veg
+1957,23,2,Veg
+1958,7,1,Drinks
+1959,39,4,Non Veg
+1959,27,4,Bakery
+1959,19,2,Non Veg
+1959,9,4,Drinks
+1959,40,2,Veg
+1959,26,2,Drinks
+1960,2,3,Non Veg
+1960,23,2,Veg
+1960,36,3,SeaFood
+1961,39,4,Non Veg
+1961,9,3,Drinks
+1961,21,3,Veg
+1961,2,1,Non Veg
+1961,4,3,Non Veg
+1961,20,2,Veg
+1961,5,4,Non Veg
+1962,42,3,Non Veg
+1962,30,4,SeaFood
+1962,43,4,Veg
+1962,37,1,Veg
+1962,49,3,Non Veg
+1962,36,4,SeaFood
+1962,18,2,Bakery
+1962,26,3,Drinks
+1963,3,2,Non Veg
+1963,7,3,Drinks
+1963,24,3,Veg
+1963,5,4,Non Veg
+1963,45,3,Non Veg
+1963,36,3,SeaFood
+1964,25,4,Drinks
+1964,34,1,SeaFood
+1964,12,3,Drinks
+1965,47,1,Veg
+1965,3,1,Non Veg
+1965,14,2,Drinks
+1965,48,4,Bakery
+1965,28,2,Drinks
+1965,8,4,Drinks
+1966,6,1,EggFood
+1966,16,1,Drinks
+1966,42,1,Non Veg
+1966,32,4,SeaFood
+1966,44,2,Non Veg
+1966,5,3,Non Veg
+1966,40,2,Veg
+1967,17,1,Bakery
+1967,14,3,Drinks
+1967,2,2,Non Veg
+1967,46,4,Veg
+1967,31,2,Non Veg
+1968,9,3,Drinks
+1968,14,2,Drinks
+1968,38,4,Non Veg
+1968,13,4,Drinks
+1969,47,3,Veg
+1969,49,1,Non Veg
+1969,46,4,Veg
+1969,15,4,Drinks
+1970,19,3,Non Veg
+1970,47,4,Veg
+1970,47,1,Veg
+1970,23,2,Veg
+1970,46,3,Veg
+1970,44,4,Non Veg
+1970,31,3,Non Veg
+1970,35,4,SeaFood
+1971,19,2,Non Veg
+1971,42,3,Non Veg
+1971,11,1,Drinks
+1972,42,3,Non Veg
+1972,28,3,Drinks
+1972,8,2,Drinks
+1973,6,1,EggFood
+1973,25,3,Drinks
+1973,42,1,Non Veg
+1973,48,3,Bakery
+1973,23,4,Veg
+1973,37,3,Veg
+1973,12,3,Drinks
+1973,49,1,Non Veg
+1973,33,2,SeaFood
+1973,29,4,Non Veg
+1974,38,2,Non Veg
+1974,10,1,Drinks
+1974,43,2,Veg
+1974,1,4,EggFood
+1975,42,4,Non Veg
+1975,34,4,SeaFood
+1975,49,3,Non Veg
+1975,45,3,Non Veg
+1975,31,1,Non Veg
+1976,25,1,Drinks
+1976,37,3,Veg
+1976,12,3,Drinks
+1976,44,1,Non Veg
+1976,15,4,Drinks
+1976,41,3,Veg
+1976,35,1,SeaFood
+1977,22,4,Veg
+1977,16,4,Drinks
+1977,12,2,Drinks
+1977,7,2,Drinks
+1977,24,3,Veg
+1977,46,2,Veg
+1977,40,4,Veg
+1978,14,4,Drinks
+1978,48,2,Bakery
+1978,23,4,Veg
+1978,24,4,Veg
+1978,49,3,Non Veg
+1978,32,2,SeaFood
+1978,8,4,Drinks
+1979,2,1,Non Veg
+1979,2,3,Non Veg
+1979,37,1,Veg
+1979,7,4,Drinks
+1979,46,4,Veg
+1979,33,4,SeaFood
+1979,31,3,Non Veg
+1980,12,3,Drinks
+1980,41,4,Veg
+1980,1,4,EggFood
+1981,42,4,Non Veg
+1981,24,4,Veg
+1981,15,3,Drinks
+1981,5,2,Non Veg
+1982,25,3,Drinks
+1982,20,4,Veg
+1982,45,2,Non Veg
+1982,35,2,SeaFood
+1983,25,1,Drinks
+1983,9,2,Drinks
+1983,43,4,Veg
+1983,40,2,Veg
+1983,11,3,Drinks
+1984,16,1,Drinks
+1984,19,3,Non Veg
+1984,48,1,Bakery
+1984,2,3,Non Veg
+1984,7,3,Drinks
+1985,30,4,SeaFood
+1985,45,3,Non Veg
+1985,13,2,Drinks
+1986,19,4,Non Veg
+1986,47,1,Veg
+1986,3,4,Non Veg
+1986,23,3,Veg
+1986,37,3,Veg
+1986,24,4,Veg
+1986,5,3,Non Veg
+1986,36,1,SeaFood
+1986,29,1,Non Veg
+1987,6,3,EggFood
+1987,34,2,SeaFood
+1987,38,3,Non Veg
+1987,43,4,Veg
+1987,4,3,Non Veg
+1987,24,3,Veg
+1987,11,1,Drinks
+1988,34,1,SeaFood
+1988,20,1,Veg
+1988,44,3,Non Veg
+1988,15,2,Drinks
+1988,33,2,SeaFood
+1989,9,4,Drinks
+1989,12,2,Drinks
+1989,20,4,Veg
+1989,13,1,Drinks
+1989,31,4,Non Veg
+1989,26,1,Drinks
+1990,16,1,Drinks
+1990,34,1,SeaFood
+1990,21,3,Veg
+1990,38,4,Non Veg
+1990,24,1,Veg
+1990,46,3,Veg
+1990,31,2,Non Veg
+1991,10,2,Drinks
+1991,43,1,Veg
+1991,44,2,Non Veg
+1991,41,4,Veg
+1991,8,4,Drinks
+1992,25,3,Drinks
+1992,28,2,Drinks
+1992,1,3,EggFood
+1993,24,4,Veg
+1993,24,2,Veg
+1994,6,1,EggFood
+1994,17,3,Bakery
+1994,21,4,Veg
+1994,15,1,Drinks
+1995,27,4,Bakery
+1995,34,2,SeaFood
+1995,30,1,SeaFood
+1995,28,1,Drinks
+1995,7,1,Drinks
+1995,7,2,Drinks
+1996,25,2,Drinks
+1996,14,3,Drinks
+1996,10,1,Drinks
+1996,43,1,Veg
+1996,28,3,Drinks
+1996,24,3,Veg
+1996,40,1,Veg
+1996,36,2,SeaFood
+1996,8,3,Drinks
+1997,19,2,Non Veg
+1997,9,3,Drinks
+1997,34,2,SeaFood
+1997,7,3,Drinks
+1997,45,2,Non Veg
+1997,40,4,Veg
+1998,6,4,EggFood
+1998,22,3,Veg
+1998,25,1,Drinks
+1998,9,4,Drinks
+1998,42,4,Non Veg
+1998,21,3,Veg
+1998,38,2,Non Veg
+1998,15,1,Drinks
+1998,13,4,Drinks
+1999,19,2,Non Veg
+1999,34,2,SeaFood
+1999,14,1,Drinks
+1999,23,4,Veg
+1999,37,3,Veg
+1999,12,2,Drinks
+1999,13,1,Drinks
+1999,1,3,EggFood

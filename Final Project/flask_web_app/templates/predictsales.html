@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang=”en”>
+
+    <head>
+        <meta charset=”utf-8″>
+        <title>Predicting Sales</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    </head>
+
+    <body>
+
+        <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark" style="opacity: 90%">
+            
+    <a class="navbar-brand" href="#" style="padding-left: 20px;padding-right: 20px">Predicting Sales</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/clv">CLV</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/rfm">RFM</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/recommendindex">Recommendation</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/predictsales">Predicting Sales</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/analytics">Analytics</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/predictiveanalytics">Predictive Analytics</a>
+            </li>
+        </ul>
+    </div>
+    </nav>   
+
+        <div class="jumbotron">
+            <div>
+            We have used Long Short-term Memory (LSTM) method to predict the sales in near future.<br>
+<br>
+First, We can identify how much sales we are going to achieve if nothing changes in our strategy. Moreover, we can also calculate the incremental value. Later on We can figure out regarding the factors that were causing an incrementation in the values.<br><br>
+
+Second, We can plan our demand and supply actions by looking at the predictions. It helps us in guiding for planning budgets, targets & also helps us to see where can we invest more.
+            </div><hr>
+        <div class='tableauPlaceholder' id='viz1597301575463' style='position: relative;border: solid 1px azure; border-radius: 20px; margin: 20px'>
+            <noscript>
+                <a href='#'>
+                    <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PredictingSalesFinal&#47;Sales&#47;1_rss.png' style='border: none' />
+                </a>
+            </noscript>
+            <object class='tableauViz'  style='display:none;'>
+                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+                <param name='embed_code_version' value='3' /> 
+                <param name='site_root' value='' />
+                <param name='name' value='PredictingSalesFinal&#47;Sales' />
+                <param name='tabs' value='no' />
+                <param name='toolbar' value='yes' />
+                <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;PredictingSalesFinal&#47;Sales&#47;1.png' /> 
+                <param name='animate_transition' value='yes' />
+                <param name='display_static_image' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+                <param name='language' value='en-GB' />
+            </object>
+        </div>   
+        </div>
+        <script type='text/javascript'>                    
+            var divElement = document.getElementById('viz1597301575463');                    
+            var vizElement = divElement.getElementsByTagName('object')[0];                    
+            vizElement.style.width='100%';
+            vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+            var scriptElement = document.createElement('script');                    
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+            vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>
+    </body>
+
+</html>

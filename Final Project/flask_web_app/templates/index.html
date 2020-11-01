@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	
+	<title>Book Recommender</title>
+
+	<script src="{{ url_for('static', filename='js/jquery-3.4.1.min.js') }}"></script>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" />
+	<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/jquery-ui.min.js') }}"></script>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/jquery-ui.min.css') }}" />
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<!-- Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+
+	<style type="text/css">
+		* {
+		  margin: 0;
+		  padding: 0;
+		  list-style: none;
+		  vertical-align: baseline;
+		}
+
+		div {
+		  position: relative;
+		  z-index: 2;
+		}
+
+		body {
+		  background-color: #333;
+		  color: #333;
+		  font-family: 'Raleway', sans-serif;
+		  font-weight: 400;
+		}
+
+		.quote-box {
+		  border-radius: 10px;
+		  position: relative;
+		  margin: 8% auto auto auto;
+		  width: 70vw;
+		  max-width: 70vw;
+		  padding: 40px 35px;
+		  display: table;
+		  background-color: #fff;
+		}
+	</style>
+</head>
+<body style="background-image: url(https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=853&q=80)">
+     <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark" style="opacity: 90%">
+            
+    <a class="navbar-brand" href="#" style="padding-left: 20px;padding-right: 20px">Book Recommender</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/clv">CLV</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/rfm">RFM</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/recommendindex">Recommendation</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/predictsales">Predicting Sales</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/analytics">Analytics</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/predictiveanalytics">Predictive Analytics</a>
+            </li>
+        </ul>
+    </div>
+    </nav>
+
+	<div class="quote-box" style="border: solid 2px grey;">
+		<h2 style="font-weight: 100;"></h2>
+		<form id="bookForm">
+			<div class="form-group">
+				<label for="autocomplete"><h3>Recommendations</h3></label>
+                
+				<input type="text" class="form-control" id="bookTitle" autocomplete="off" placeholder="Search by book title..." />
+			</div>
+			<button type="submit" class="btn btn-outline-success">Recommend</button>
+		</form>
+
+		<br/><br/>
+		<div id="bookResults"></div>
+	</div>
+    <br><br>
+    <br><br>
+    <br><br>
+    <br><br>
+    <footer class="page-footer font-small grey pt-4" style="opacity: 90%; margin-bottom: 0px">
+
+  <!-- Footer Links -->
+  <div class="container-fluid text-center text-md-left">
+
+    <!-- Grid row -->
+    <div class="row">
+
+      <!-- Grid column -->
+      <div class="col-md-6 mt-md-0 mt-3">
+
+        <!-- Content -->
+        <h5 class="text-uppercase">Book Recommender</h5>
+        <p>Book recommendation system</p>
+
+      </div>
+      <!-- Grid column -->
+
+      <hr class="clearfix w-100 d-md-none pb-3">
+
+      <!-- Grid column -->
+      <div class="col-md-3 mb-md-0 mb-3">
+
+        <!-- Links -->
+        
+
+        <ul class="list-unstyled">
+          <li>
+            <a href="/clv">CLV</a>
+          </li>
+          <li>
+            <a href="/rfm">RFM</a>
+          </li>
+          <li>
+            <a href="/recommendindex">Recommendation</a>
+          </li>
+       
+        </ul>
+
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-md-3 mb-md-0 mb-3">
+
+        <!-- Links -->
+       
+
+        <ul class="list-unstyled">
+          <li>
+           <a href="/predictsales">Predicting Sales</a>
+          </li>
+          <li>
+            <a href="/analytics">Analytics</a>
+          </li>
+          <li>
+            <a href="/predictiveanalytics">Predictive Analytics</a>
+          </li>
+       
+        </ul>
+
+      </div>
+      <!-- Grid column -->
+
+    </div>
+    <!-- Grid row -->
+
+  </div>
+  <!-- Footer Links -->
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="#"> BookRecommender</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+
+	<script type="text/javascript">
+		$(function() {
+			$('#bookTitle').autocomplete({
+				source: function(req, res) {
+					$.getJSON("{{url_for('autocomplete')}}", {
+						q: req.term,
+					}, function(data) {
+						res(data.matching_results);
+					});
+				},
+				minLength: 2,
+				select: function(evt, ui) {
+					console.log(ui.item.value);
+				}
+			});
+
+			$('#bookForm').submit(function(e) {
+				e.preventDefault();
+
+				const searchText = $('#bookTitle').val();
+				$.ajax({
+					url: '/recommend',
+					type: 'get',
+					data: {jsdata: searchText},
+					success: function(res) {
+						// alert('Success: ' + res)
+						$('#bookResults').html(res);
+					},
+					error: function(err) {
+						alert('Error: ' + err);
+					}
+				});
+			});
+		});
+	</script>
+</body>
+</html>
